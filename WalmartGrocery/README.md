@@ -6,7 +6,7 @@
 
 * [Home](https://lwkwok.github.io/WalmartGrocery/Full_List_Home.html)
 
-* [Pharmacy](https://lwkwok.github.io/WalmartGrocery/Full_List_Pharmacy.html)
+* [Health & Beauty](https://lwkwok.github.io/WalmartGrocery/Full_List_Pharmacy.html)
 
 
 # Latest Deals
