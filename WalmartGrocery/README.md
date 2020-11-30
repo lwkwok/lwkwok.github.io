@@ -1,14 +1,15 @@
 # Full Listing
 
-Full Listing for Grocery: https://lwkwok.github.io/WalmartGrocery/Full_List_Grocery.html
+* Grocery: https://lwkwok.github.io/WalmartGrocery/Full_List_Grocery.html
 
-Full Listing for General Merchandise: https://lwkwok.github.io/WalmartGrocery/Full_List_General_Merchandise.html
+* General Merchandise: https://lwkwok.github.io/WalmartGrocery/Full_List_General_Merchandise.html
 
-Full Listing for Home: https://lwkwok.github.io/WalmartGrocery/Full_List_Home.html
+* Home: https://lwkwok.github.io/WalmartGrocery/Full_List_Home.html
 
-Full Listing for Pharmacy: https://lwkwok.github.io/WalmartGrocery/Full_List_Pharmacy.html
+* Pharmacy: https://lwkwok.github.io/WalmartGrocery/Full_List_Pharmacy.html
 
 
+# Latest Deals
 
-New Deals Listing: https://lwkwok.github.io/WalmartGrocery/EmailChange.html
+* New Deals: https://lwkwok.github.io/WalmartGrocery/EmailChange.html
 
