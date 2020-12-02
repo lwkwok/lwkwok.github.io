@@ -11,5 +11,5 @@
 
 # Latest Deals
 
-* [New Deals](https://lwkwok.github.io/WalmartGrocery/EmailChange.html)
+* [New Deals](https://lwkwok.github.io/WalmartGrocery/Latest_Deals.html)
 
