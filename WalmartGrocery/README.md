@@ -13,6 +13,3 @@
 
 * [New Deals](https://lwkwok.github.io/WalmartGrocery/Latest_Deals.html)
 
-
-testing
-
