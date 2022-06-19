@@ -1,0 +1,1 @@
+barbecue,bins,birds,ducks,flowers,fountain,gardens,grass,lake,path,table,plants,playground,trees
