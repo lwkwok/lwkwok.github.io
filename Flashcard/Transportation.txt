@@ -1,0 +1,1 @@
+car,jet,truck,school bus,bike,taxi,van,ship,boat,train,wagon,sedan,coupe,hatchback,
