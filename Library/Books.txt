@@ -1,6 +1,3 @@
-33288101844761 - [Blu-ray Disc] F9
-33288101874545 - [Blu-ray Disc] Ghostbusters
-33288088479219 - [DVD] Boss Baby
 33288102016716 - [Book] Animal Facts by the Numbers
 33288101279752 - [Book] Britannica All New Kids' Encyclopedia
 33288101293431 - [Book] Disney Pixar Character Encyclopedia
@@ -10,13 +7,16 @@
 33288101258145 - [Book] Mythopedia
 33288102016963 - [Book] One Day by the Numbers
 33288090680762 - [Video Game] Rocket League
-33288090694300 - [Video Game] SEGA Genesis Classics
 33288102025089 - [Book] Shooting Stars
 33288101329615 - [Book] Space
 33288100948555 - [Video Game] Super Monkey Ball
 33288102012038 - [Book] What Can I Say?
+33288102004985 - [Blu-ray Disc] The Batman
+33288101993378 - [DVD] Spider-Man
 33288088544822 - [Video Game] Star Wars
 33288100970641 - [Book] Why Don't Cars Run on Apple Juice?
+33288088479219 - [DVD] Boss Baby
+33288101874545 - [Blu-ray Disc] Ghostbusters
 33288101324129 - [Book] 100 Things to Know About Planet Earth
 33288101237404 - [Book] 100 Things to Know About Saving the Planet
 33288101990978 - [Book] The Bad Seed Goes to the Library
@@ -43,6 +43,7 @@
 33288101809624 - [Book] Wow in the World
 33288090700479 - [Video Game] Ace Combat 7
 33288901320996 - [Book] Growing Friendships
+33288090698178 - [Device] Letters Here! Words There!
 33288088614393 - [Video Game] Marvel Vs. Capcom
 33288101178699 - [Video Game] Star Wars Jedi
 33288901638660 - [Book] 100 Things to Know About Space
@@ -71,3 +72,16 @@
 33288101093351 - [Book] The Shipwreck
 33288101679118 - [Book] Ultimate Reptile Rumble
 33288101983726 - [Book] Yup Day
+33288100959743 - [Book] 25 Scratch 3 Games for Kids
+33288102029032 - [Book] Amazing Facts Every 8 Year Old Needs to Know
+33288102029073 - [Book] Amazing Facts Every 9 Year Old Needs to Know
+33288102023118 - [Book] Boris the School Bully!
+33288102035948 - [Book] Buddy to the Rescue
+33288901137754 - [Book] Code your Own Games!
+33288101633479 - [Book] Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook
+33288101258038 - [Book] I Want to Be A Teacher
+33288900158530 - [Book] Idioms and Phrasal Verbs
+33288088405685 - [Kit] Now I'm Reading! for Beginning Readers
+33288102036250 - [Book] Outdoor Adventures!
+33288100374604 - [Book] Scratch Code Robots
+33288079746055 - [Book] Writing
