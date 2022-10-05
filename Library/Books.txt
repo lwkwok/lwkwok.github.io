@@ -1,42 +1,4 @@
-33288101911412 - [Book] Everything Awesome About Space and Other Galactic Facts!
-33288088630894 - [Video Game] Forza Horizon 2
-33288091619710 - [Book] Lift-the-flap Questions and Answers
-33288089306445 - [Kit] Sight Word Readers Box Set
-33288100337437 - [Device] Up, up and Away!
-33288901202947 - [Book] Creative Projects With Raspberry Pi
-33288087835528 - [Device] The Way It Works!
-33288080721220 - [Book] 100 Things You Should Know About Roman Britain
-33288100959768 - [Book] 25 Scratch 3 Games for Kids
-33288102044809 - [Book] Geronimo Stilton, the Graphic Novel
-33288090698541 - [Device] Ready to Read!
-33288091480485 - [Book] 100 Things to Know About Numbers, Computers & Coding
-33288101237404 - [Book] 100 Things to Know About Saving the Planet
-33288901638660 - [Book] 100 Things to Know About Space
-33288090700479 - [Video Game] Ace Combat 7
-33288101990978 - [Book] The Bad Seed Goes to the Library
-33288091704702 - [Kit] Bob Books
-33288900974231 - [Book] Everything You Need to Ace Math in One Big Fat Notebook
-33288085699603 - [Book] Everything You Need to Know
-33288901320996 - [Book] Growing Friendships
-33288101293803 - [Book] History!
-33288901433765 - [Book] Junior Illustrated Grammar and Punctuation
-33288101845479 - [Book] Meet the Shark Family and Friends
-33288101657593 - [Video Game] Minecraft Dungeons
-33288101740407 - [Book] Olaf Loves to Read!
-33288101401513 - [Book] One Million Things
-33288101418608 - [Book] A Quick History of the Universe
-33288101740605 - [Book] Rapunzel's Perfect Pony
-33288101178699 - [Video Game] Star Wars Jedi
-33288901149767 - [Book] Understanding Our Organs
-33288101809624 - [Book] Wow in the World
-33288102012194 - [Book] The Big Book of Questions and Answers
-33288900974298 - [Book] Everything You Need to Ace Science in One Big Fat Notebook
-33288102015890 - [Book] Fiona's Train Ride
-33288101847269 - [Book] Goodbye Tooth
-33288101899096 - [Book] More Beginning Readers
-33288100229139 - [Book] Old Friends, New Friends
 33288102019553 - [Book] Pete the Cat's Not So Groovy Day
-33288101431932 - [Book] A Quick History of Money
 33288091622144 - [Book] See Inside Space
 33288101983726 - [Book] Yup Day
 33288102050186 - [Book] Amazing Landmarks
@@ -45,11 +7,9 @@
 33288102054063 - [Book] Curious Cases
 33288090113467 - [Book] The Doublecross
 33288100342726 - [Book] Escape From the Nether
-33288101679985 - [Book] Extreme Animal Rumble
 33288101208447 - [Book] From Nerd to Ninja
 33288101320093 - [Book] Garfield's Almost-as-great-as-naps Guide to Engineering
 33288101281949 - [Book] The Greatfulness Guide
-33288101316380 - [Book] Little Kid, Big City!
 33288101421172 - [Book] Mad for Ads
 33288102051465 - [Book] Math for Kids
 33288101090001 - [Book] Mellybean
@@ -61,7 +21,6 @@
 33288102053602 - [Book] Really Big Questions for Daring Thinkers
 33288101299107 - [Book] Rocket Science
 33288901413155 - [Book] Spot the Snail in the Garden
-33288901244907 - [Book] Spy School Secret Service
 33288901014359 - [Book] Stickmen's Guide to Cities in Layers
 33288901037186 - [Book] Stickmen's Guide to Mountains and Valleys in Layers
 33288901037236 - [Book] Stickmen's Guide to Oceans in Layers
@@ -86,11 +45,53 @@
 33288101633479 - [Book] Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook
 33288101258038 - [Book] I Want to Be A Teacher
 33288901262826 - [Book] I'm An App Developer
-33288901132003 - [Book] Laugh Out Loud Canadian Jokes
 33288101101329 - [Book] Learn to Program With App Inventor
 33288101305615 - [Book] My Encyclopedia of Very Important Adventures
 33288088405685 - [Kit] Now I'm Reading! for Beginning Readers
 33288102036250 - [Book] Outdoor Adventures!
 33288090680762 - [Video Game] Rocket League
 33288101329615 - [Book] Space
-33288100970641 - [Book] Why Don't Cars Run on Apple Juice?
+33288102048164 - [Book] The Adventures of the Bailey School Kids
+33288091615924 - [Book] All the Science You Need to Know Before Age 7
+33288102051135 - [Book] The Baby-changing Station
+33288101807792 - [Book] A Day in the Life of A Poo, A Gnu, and You
+33288100090317 - [Book] Geronimo Stilton, Secret Agent
+33288100311879 - [Book] Ontario Provincial Testing Practice (English)
+33288090698541 - [Device] Ready to Read!
+33288085305615 - [Book] Scholastic Guide to Grammar
+33288901512535 - [Book] The Space Adventurer's Guide
+33288091673311 - [Book] Spy School Revolution
+33288075681132 - [Book] Super Study Skills : the Ultimate Guide to Tests and Studying
+33288087922961 - [Book] The Survival Guide for Kids With Behavior Challenges
+33288100309121 - [Book] A Teen's Guide to Getting Stuff Done
+33288090488166 - [Book] Thing Explainer
+33288900983273 - [Book] Think Outside the Box
+33288900441944 - [Book] Tips for Public Speaking
+33288087835528 - [Device] The Way It Works!
+33288901531949 - [Book] Where Is the Bermuda Triangle?
+33288101331660 - [Book] Your Life, your Way
+33288100959768 - [Book] 25 Scratch 3 Games for Kids
+33288089306445 - [Kit] Sight Word Readers Box Set
+33288091480485 - [Book] 100 Things to Know About Numbers, Computers & Coding
+33288101237404 - [Book] 100 Things to Know About Saving the Planet
+33288901638660 - [Book] 100 Things to Know About Space
+33288090700479 - [Video Game] Ace Combat 7
+33288102012194 - [Book] The Big Book of Questions and Answers
+33288091704702 - [Kit] Bob Books
+33288900974231 - [Book] Everything You Need to Ace Math in One Big Fat Notebook
+33288900974298 - [Book] Everything You Need to Ace Science in One Big Fat Notebook
+33288085699603 - [Book] Everything You Need to Know
+33288101847269 - [Book] Goodbye Tooth
+33288901320996 - [Book] Growing Friendships
+33288101293803 - [Book] History!
+33288901433765 - [Book] Junior Illustrated Grammar and Punctuation
+33288101845479 - [Book] Meet the Shark Family and Friends
+33288101657593 - [Video Game] Minecraft Dungeons
+33288101899096 - [Book] More Beginning Readers
+33288100229139 - [Book] Old Friends, New Friends
+33288101401513 - [Book] One Million Things
+33288101431932 - [Book] A Quick History of Money
+33288101418608 - [Book] A Quick History of the Universe
+33288101178699 - [Video Game] Star Wars Jedi
+33288901149767 - [Book] Understanding Our Organs
+33288101809624 - [Book] Wow in the World
