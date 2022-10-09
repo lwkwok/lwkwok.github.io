@@ -1,33 +1,5 @@
-33288102019553 - [Book] Pete the Cat's Not So Groovy Day
 33288091622144 - [Book] See Inside Space
-33288101983726 - [Book] Yup Day
-33288102050186 - [Book] Amazing Landmarks
-33288101408732 - [Book] Can You Crack the Code?
-33288900327945 - [Book] Codename, Zero
-33288102054063 - [Book] Curious Cases
-33288090113467 - [Book] The Doublecross
-33288100342726 - [Book] Escape From the Nether
 33288101208447 - [Book] From Nerd to Ninja
-33288101320093 - [Book] Garfield's Almost-as-great-as-naps Guide to Engineering
-33288101281949 - [Book] The Greatfulness Guide
-33288101421172 - [Book] Mad for Ads
-33288102051465 - [Book] Math for Kids
-33288101090001 - [Book] Mellybean
-33288101254151 - [Book] Memory Superpowers!
-33288102053180 - [Book] Minecraft Construction
-33288102053271 - [Book] Minecraft Mining
-33288101264044 - [Book] Moon!
-33288101326488 - [Book] Peter Lee's Notes From the Field
-33288102053602 - [Book] Really Big Questions for Daring Thinkers
-33288101299107 - [Book] Rocket Science
-33288901413155 - [Book] Spot the Snail in the Garden
-33288901014359 - [Book] Stickmen's Guide to Cities in Layers
-33288901037186 - [Book] Stickmen's Guide to Mountains and Valleys in Layers
-33288901037236 - [Book] Stickmen's Guide to Oceans in Layers
-33288090039449 - [Book] The Superspy Handbook
-33288101309955 - [Book] This Is your Brain on Stereotypes
-33288102054204 - [Book] Why Humans Build up
-33288101799825 - [Book] Wild Outside
 33288101986521 - [Book] Absurd Words
 33288102023399 - [Book] Bloom of the Flower Dragon
 33288082739022 - [Book] The Boys' Book
@@ -37,7 +9,6 @@
 33288101395939 - [Book] Guide to Minecraft Dungeons
 33288101291245 - [Book] Sleuth & Solve History
 33288900987415 - [Book] Space Dictionary for Kids
-33288100295973 - [Book] Surrounded by Idiots
 33288082424690 - [Book] Writing Stories
 33288102023118 - [Book] Boris the School Bully!
 33288102035948 - [Book] Buddy to the Rescue
@@ -51,7 +22,6 @@
 33288102036250 - [Book] Outdoor Adventures!
 33288090680762 - [Video Game] Rocket League
 33288101329615 - [Book] Space
-33288102048164 - [Book] The Adventures of the Bailey School Kids
 33288091615924 - [Book] All the Science You Need to Know Before Age 7
 33288102051135 - [Book] The Baby-changing Station
 33288101807792 - [Book] A Day in the Life of A Poo, A Gnu, and You
@@ -60,13 +30,11 @@
 33288090698541 - [Device] Ready to Read!
 33288085305615 - [Book] Scholastic Guide to Grammar
 33288901512535 - [Book] The Space Adventurer's Guide
-33288091673311 - [Book] Spy School Revolution
 33288075681132 - [Book] Super Study Skills : the Ultimate Guide to Tests and Studying
 33288087922961 - [Book] The Survival Guide for Kids With Behavior Challenges
 33288100309121 - [Book] A Teen's Guide to Getting Stuff Done
 33288090488166 - [Book] Thing Explainer
 33288900983273 - [Book] Think Outside the Box
-33288900441944 - [Book] Tips for Public Speaking
 33288087835528 - [Device] The Way It Works!
 33288901531949 - [Book] Where Is the Bermuda Triangle?
 33288101331660 - [Book] Your Life, your Way
@@ -78,13 +46,19 @@
 33288090700479 - [Video Game] Ace Combat 7
 33288102012194 - [Book] The Big Book of Questions and Answers
 33288091704702 - [Kit] Bob Books
+33288102056050 - [Book] Dinosaurs
 33288900974231 - [Book] Everything You Need to Ace Math in One Big Fat Notebook
 33288900974298 - [Book] Everything You Need to Ace Science in One Big Fat Notebook
 33288085699603 - [Book] Everything You Need to Know
+33288102056225 - [Book] Fiercest Feuds
 33288101847269 - [Book] Goodbye Tooth
-33288901320996 - [Book] Growing Friendships
+33288102058544 - [Book] Guarding the Invisible Dragons
 33288101293803 - [Book] History!
+33288102057157 - [Book] How Do Satellites Stay in Space?
+33288102054808 - [Book] The Joke-a-day Book
 33288901433765 - [Book] Junior Illustrated Grammar and Punctuation
+33288083894123 - [Book] Language Skills Preparation
+33288083894180 - [Book] Math Skills Preparation
 33288101845479 - [Book] Meet the Shark Family and Friends
 33288101657593 - [Video Game] Minecraft Dungeons
 33288101899096 - [Book] More Beginning Readers
@@ -92,6 +66,33 @@
 33288101401513 - [Book] One Million Things
 33288101431932 - [Book] A Quick History of Money
 33288101418608 - [Book] A Quick History of the Universe
+33288100133745 - [Book] Spy School British Invasion
+33288901606071 - [Book] Spy School Goes South
 33288101178699 - [Video Game] Star Wars Jedi
+33288101433177 - [Book] Sun!
 33288901149767 - [Book] Understanding Our Organs
 33288101809624 - [Book] Wow in the World
+33288102050186 - [Book] Amazing Landmarks
+33288101408732 - [Book] Can You Crack the Code?
+33288102054063 - [Book] Curious Cases
+33288101281949 - [Book] The Greatfulness Guide
+33288101421172 - [Book] Mad for Ads
+33288102051465 - [Book] Math for Kids
+33288101090001 - [Book] Mellybean
+33288101254151 - [Book] Memory Superpowers!
+33288102053180 - [Book] Minecraft Construction
+33288102053271 - [Book] Minecraft Mining
+33288101264044 - [Book] Moon!
+33288102019553 - [Book] Pete the Cat's Not So Groovy Day
+33288101326488 - [Book] Peter Lee's Notes From the Field
+33288102053602 - [Book] Really Big Questions for Daring Thinkers
+33288101299107 - [Book] Rocket Science
+33288901413155 - [Book] Spot the Snail in the Garden
+33288901014359 - [Book] Stickmen's Guide to Cities in Layers
+33288901037186 - [Book] Stickmen's Guide to Mountains and Valleys in Layers
+33288901037236 - [Book] Stickmen's Guide to Oceans in Layers
+33288090039449 - [Book] The Superspy Handbook
+33288101309955 - [Book] This Is your Brain on Stereotypes
+33288102054204 - [Book] Why Humans Build up
+33288101799825 - [Book] Wild Outside
+33288101983726 - [Book] Yup Day
