@@ -1,57 +1,18 @@
 33288089306445 - [Kit] Sight Word Readers Box Set
 33288091704702 - [Kit] Bob Books
-33288102058544 - [Book] Guarding the Invisible Dragons
-33288102057157 - [Book] How Do Satellites Stay in Space?
 33288083894180 - [Book] Math Skills Preparation
-33288101290353 - [Book] The Adventurous Kid's Guide to the World's Most Mysterious Places
-33288083445066 - [Book] American Revolution
-33288900323696 - [Book] Being A Boy
-33288900484308 - [Book] The Big Book of Boy Stuff
-33288081460935 - [Book] Boy's Guide to Becoming A Teen
-33288500829074 - [Book] Cakes in Space
-33288101408732 - [Book] Can You Crack the Code?
-33288102054063 - [Book] Curious Cases
-33288101320069 - [Book] A Garfield Guide to Online Etiquette
-33288101281949 - [Book] The Greatfulness Guide
-33288901474173 - [Book] How to Draw Cute Stuff
-33288900365523 - [Book] How to Make A Planet
-33288900118096 - [Book] The How-to Handbook
-33288101284778 - [Book] Infographic
-33288085457358 - [Book] Kid Confidential
-33288101279919 - [Book] Kids' Survival Guide
 33288101254151 - [Book] Memory Superpowers!
-33288085565507 - [Book] NERDS
-33288085570267 - [Book] No Problem
-33288900481817 - [Book] Outer Space
 33288085651554 - [Book] The Real Spy's Guide to Becoming A Spy
-33288102053602 - [Book] Really Big Questions for Daring Thinkers
-33288900246350 - [Book] School Made Easier
-33288101886697 - [Book] The Self-compassionate Teen
-33288500723855 - [Book] The Spy's Secret
-33288901014359 - [Book] Stickmen's Guide to Cities in Layers
-33288901037186 - [Book] Stickmen's Guide to Mountains and Valleys in Layers
-33288901037236 - [Book] Stickmen's Guide to Oceans in Layers
-33288085661157 - [Book] Studying and Tests
-33288900695986 - [Book] Superbrain
-33288085461418 - [Book] Understanding Myself
-33288079494748 - [Book] Who Runs This Country, Anyway?
-33288089547618 - [Book] You're Smarter Than You Think
-33288901424715 - [Book] Your Guide to Castles and Medieval Warfare
-33288101291245 - [Book] Sleuth & Solve History
-33288082424690 - [Book] Writing Stories
 33288085300350 - [Book] The Big Book of Spy Stuff
 33288900782206 - [Book] The Boy's Body Book
-33288091630071 - [Book] Cat Kid Comic Club Perspectives
 33288088647765 - [Kit] Circuit Maze
 33288901137754 - [Book] Code your Own Games!
 33288091258923 - [Book] Finance 101 for Kids
 33288087668010 - [Book] The Guys' Guide to Making Every Day More Awesome
 33288901262826 - [Book] I'm An App Developer
-33288101228916 - [Book] A Kid's Guide to Fandom
 33288101101329 - [Book] Learn to Program With App Inventor
 33288101305615 - [Book] My Encyclopedia of Very Important Adventures
 33288088405685 - [Kit] Now I'm Reading! for Beginning Readers
-33288101285635 - [Book] Ocean!
 33288090680762 - [Video Game] Rocket League
 33288101898122 - [Book] Spy School, the Graphic Novel
 33288085391441 - [Book] Think for Yourself
@@ -75,7 +36,6 @@
 33288100110115 - [Book] Lion Down
 33288100630914 - [Book] Once Upon A Tim
 33288100951773 - [Book] Space Case
-33288085465542 - [Book] Spies
 33288901071946 - [Book] Traitor's Chase
 33288901510570 - [Book] Waste of Space
 33288901638660 - [Book] 100 Things to Know About Space
@@ -92,3 +52,45 @@
 33288101809624 - [Book] Wow in the World
 33288101633479 - [Book] Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook
 33288900974298 - [Book] Everything You Need to Ace Science in One Big Fat Notebook
+33288501134219 - [Book] Car Wash Crunch
+33288100683020 - [Book] Chester Keene Cracks the Code
+33288901074239 - [Book] Double Cross
+33288900283247 - [Book] The Flying Machine Book
+33288901593584 - [Book] How to Solve the Rubik's Cube
+33288901106197 - [Book] The Hunt for the Hundredth Key
+33288900805676 - [Book] The Hunt for the Secret Papyrus
+33288086730928 - [Book] The Kids' Guide to Paper Airplanes
+33288100685207 - [Book] New Pets on the Block
+33288088542651 - [Kit] Snap Circuits Jr
+33288901126369 - [Book] Spaced Out
+33288085409177 - [Book] The Worst-case Scenario Survival Handbook
+33288101290353 - [Book] The Adventurous Kid's Guide to the World's Most Mysterious Places
+33288083445066 - [Book] American Revolution
+33288900323696 - [Book] Being A Boy
+33288900484308 - [Book] The Big Book of Boy Stuff
+33288081460935 - [Book] Boy's Guide to Becoming A Teen
+33288500829074 - [Book] Cakes in Space
+33288101408732 - [Book] Can You Crack the Code?
+33288102054063 - [Book] Curious Cases
+33288101320069 - [Book] A Garfield Guide to Online Etiquette
+33288101281949 - [Book] The Greatfulness Guide
+33288901474173 - [Book] How to Draw Cute Stuff
+33288900365523 - [Book] How to Make A Planet
+33288900118096 - [Book] The How-to Handbook
+33288101284778 - [Book] Infographic
+33288085457358 - [Book] Kid Confidential
+33288101279919 - [Book] Kids' Survival Guide
+33288085570267 - [Book] No Problem
+33288900481817 - [Book] Outer Space
+33288102053602 - [Book] Really Big Questions for Daring Thinkers
+33288900246350 - [Book] School Made Easier
+33288500723855 - [Book] The Spy's Secret
+33288901014359 - [Book] Stickmen's Guide to Cities in Layers
+33288901037186 - [Book] Stickmen's Guide to Mountains and Valleys in Layers
+33288901037236 - [Book] Stickmen's Guide to Oceans in Layers
+33288085661157 - [Book] Studying and Tests
+33288900695986 - [Book] Superbrain
+33288079494748 - [Book] Who Runs This Country, Anyway?
+33288089547618 - [Book] You're Smarter Than You Think
+33288101291245 - [Book] Sleuth & Solve History
+33288082424690 - [Book] Writing Stories
