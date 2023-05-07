@@ -1,168 +1,148 @@
-33288102251420 - ANDY [Book] The Bad Guys in Do-you-think-he-saurus?!
-33288102251768 - ANDY [Book] The Bad Guys in Superbad
-33288091857823 - ANDY [Board Book] Board Books - English
-33288091553679 - ANDY [Board Book] Board Books - English
-33288090831803 - ANDY [Board Book] Board books - Vietnamese - Current
+33288088546710 - ANDY [Device] MiFi Novatel Wireless
 33288087632370 - ANDY [Book] Bugged
-33288091666851 - ANDY [Book] The Dragon of Fortune
-33288501242335 - ANDY [Book] Magror, Ogre of the Swamps
-33288901426512 - ANDY [Book] No Time to Lose
-33288901502320 - ANDY [Book] The Overworld Games
-33288100546367 - ANDY [Book] Real Pigeons Eat Danger
-33288100596453 - ANDY [Book] Ruffing It
-33288501287546 - ANDY [Book] Trayaurus and the Enchanted Crystal
-33288101492900 - ANDY [Book] Come In, Zip!
-33288101528927 - ANDY [Book] For Otto
-33288100266560 - ANDY [Book] Look Out! A Storm!
-33288901672636 - ANDY [Book] Poof! A Bot!
-33288501340071 - ANDY [Book] See Zip Zap
-33288901518664 - ANDY [Book] Trolley Ride!
-33288091565095 - ANDY [Board Book] Board Books - English
 33288901244220 - ANDY [Book] Creepin' Through the Snow
+33288091666851 - ANDY [Book] The Dragon of Fortune
 33288100441361 - ANDY [Book] Get A Job, Creep
+33288089559001 - ANDY [Book] I Scream for Ice Cream
 33288900408190 - ANDY [Book] Minecraft Combat Handbook
 33288900445101 - ANDY [Book] Minecraft Construction Handbook
-33288901324378 - ANDY [Book] A Royal Spring
-33288100336777 - ANDY [Book] Schooled
-33288091747214 - ANDY [Book] Splish, Splash, Ducky!
+33288901426512 - ANDY [Book] No Time to Lose
+33288100546367 - ANDY [Book] Real Pigeons Eat Danger
+33288501287546 - ANDY [Book] Trayaurus and the Enchanted Crystal
 33288100954728 - ANDY [Book] What A Waste
-33288900730478 - LISA [Book] The LEGO Mindstorms EV3 Laboratory
-33288101845479 - LISA [Book] Meet the Shark Family and Friends
-33288900530043 - LISA [Book] The Art of LEGO Mindstorms EV3 Programming
-33288900974298 - LISA [Book] Everything You Need to Ace Science in One Big Fat Notebook
-33288900977556 - LISA [Book] Hacking your LEGO Mindstorms EV3 Kit
-33288900931538 - LISA [Book] Top of the Class (nearly)
-33288101809624 - LISA [Book] Wow in the World
-33288091615924 - LISA [Book] All the Science You Need to Know Before Age 7
+33288901270639 - ANDY [Book] Birthday Mice!
+33288101422659 - ANDY [Book] The Bug in the Bog
+33288901601544 - ANDY [Book] Daniel Finds A New Friend
+33288101528927 - ANDY [Book] For Otto
+33288090067911 - ANDY [Book] Out to Lunch
+33288901672636 - ANDY [Book] Poof! A Bot!
+33288501339792 - ANDY [Book] Snoopy Came to Play
+33288901518664 - ANDY [Book] Trolley Ride!
+33288085494047 - ANDY [Music CD] The Wiggles
+33288089201257 - LISA [Book] Nick and Tesla's Secret Agent Gadget Battle
+33288100371121 - LISA [Book] How to Stop Losing your Sh*t With your Kids
+33288085450247 - LISA [Book] Stone Rabbit
+33288087360576 - LISA [Book] The Art of Doing
+33288100267907 - LISA [Book] The Bean Team
+33288100755802 - LISA [Book] The Book That No One Wanted to Read
 33288101729962 - LISA [Book] Cat Kid Comic Club
-33288901137754 - LISA [Book] Code your Own Games!
-33288091481467 - LISA [Book] Dog Man
 33288901667628 - LISA [Book] Dog Man
 33288101531640 - LISA [Book] Dog Man
-33288900974231 - LISA [Book] Everything You Need to Ace Math in One Big Fat Notebook
 33288100095035 - LISA [Kit] First Little Readers
 33288901203432 - LISA [Book] Get Coding!
 33288901229064 - LISA [Book] Guardians of the Galaxy
 33288101300657 - LISA [Book] Guide to Minecraft Dungeons
 33288102074798 - LISA [Book] How to Be A Genius
-33288901262826 - LISA [Book] I'm An App Developer
 33288501279550 - LISA [Book] Laser Moose and Rabbit Boy
-33288101101329 - LISA [Book] Learn to Program With App Inventor
 33288101513382 - LISA [Book] Lost in the Nether
+33288100764994 - LISA [Book] Mission to Mars
 33288088405685 - LISA [Kit] Now I'm Reading! for Beginning Readers
 33288100311879 - LISA [Book] Ontario Provincial Testing Practice (English)
 33288100630021 - LISA [Book] Operation Do-over
+33288083446957 - LISA [Book] Outliers
 33288102243278 - LISA [Book] Planet Earth
 33288090690274 - LISA [Video Game] Rapala Fishing Pro Series
 33288901154742 - LISA [Book] Restart
 33288900708938 - LISA [Book] Secret of the Forbidden City
 33288901677346 - LISA [Book] The Test of Time
+33288090927833 - LISA [Book] Tools of Titans
 33288102224096 - LISA [Book] The Travel Book
 33288100753542 - LISA [Book] The Trouble With Robots
-33288100712472 - LISA [Book] The Ultimate Quest
-33288102238781 - LISA [Book] Vaccines Change the World
 33288102234145 - LISA [Book] Your Unofficial Guide to Building Cool Minecraft Castles
 33288102313295 - LISA [Book] 100 Things to Know About Architecture
 33288102319821 - LISA [Book] Amazing Animal Journeys
-33288901320368 - LISA [Book] The Big Birthday Surprise!
-33288102273341 - LISA [Book] Big Nate on A Roll
-33288102116680 - LISA [Book] Captain America
-33288071307831 - LISA [Book] Career Ideas for Kids Who Like Computers
-33288100754565 - LISA [Book] City of Secrets
 33288901157703 - LISA [Book] Coding Projects in Python
 33288101287540 - LISA [Book] Coding With Python
-33288100573825 - LISA [Book] Curse of the Mystery Mutt
 33288102168913 - LISA [Book] DK Children's Encyclopedia
-33288100054859 - LISA [Book] Excellent Excuses (and Other Good Stuff)
 33288088469707 - LISA [Video Game] Halo
 33288900753439 - LISA [Book] The Hitchhiker's Guide to the Galaxy
-33288100457359 - LISA [Book] Humble Pi
 33288089549614 - LISA [Book] Jesus Detective
 33288100754797 - LISA [Book] Land of Dragons
-33288100937996 - LISA [Book] Livi & Nate
 33288083894180 - LISA [Book] Math Skills Preparation
-33288085558130 - LISA [Book] Peter Kent's Big Book of Armor
 33288900259643 - LISA [Kit] Rhyming Words
-33288102198670 - LISA [Blu-ray Disc] Star Trek, Picard
 33288090689979 - LISA [Video Game] Star Wars Battlefront II
 33288085413476 - LISA [Book] Technology
 33288100464215 - LISA [Book] Time Warp
-33288102245075 - LISA [Book] Where Did We Come From?
-33288102116532 - LISA [Book] Who Farted?
 33288102215458 - LISA [Book] 1,000 Facts About Space
+33288087934719 - LISA [Book] 1,001 Basic Math & Pre-algebra Practice Problems for Dummies
 33288901638660 - LISA [Book] 100 Things to Know About Space
+33288091258790 - LISA [Book] The 7 Habits of Highly Effective Teens
 33288090700479 - LISA [Video Game] Ace Combat 7
-33288101920298 - LISA [Book] Attack of the Ninja Frogs
 33288102081298 - LISA [Book] Awesome Dog 5000 Vs. The Kitty-Cat Cyber Squad
-33288102251198 - LISA [Book] The Bad Guys in Alien Vs Bad Guys
-33288101501445 - LISA [Book] The Bad Guys in Dawn of the Underlord
-33288101714774 - LISA [Book] The Bad Guys in the One?!
-33288102252139 - LISA [Book] The Bad Guys in They're Bee-hind You!
+33288088978038 - LISA [Book] Basic Math and Pre-algebra
 33288101242156 - LISA [Book] Best Nerds Forever
 33288102210707 - LISA [Book] The Big Book of W.O.W
 33288085676940 - LISA [Book] Big Questions
 33288102311174 - LISA [Book] Big Questions About the Universe
+33288100768094 - LISA [Book] Big Top Bonanza
 33288100094590 - LISA [Book] Canadian Curriculum MathSmart
+33288089167177 - LISA [Book] The Cartoon Guide to Algebra
+33288102116870 - LISA [Book] The Cartoon Guide to Chemistry
 33288101296756 - LISA [Book] Climate Action
 33288901247934 - LISA [Book] Create With Code
-33288101885491 - LISA [Book] Curse of the Were-wiener
 33288101310789 - LISA [Book] The Dragon
-33288085699603 - LISA [Book] Everything You Need to Know
+33288102335371 - LISA [Book] Dragons & Treasures
+33288101920140 - LISA [Book] Elon Musk
+33288101093625 - LISA [Book] Everything You Need to Ace Geometry in One Big Fat Notebook
+33288100054859 - LISA [Book] Excellent Excuses (and Other Good Stuff)
+33288102110022 - LISA [Kit] First Little Readers
+33288102337351 - LISA [Book] Guandi
+33288102337369 - LISA [Book] Huangdi
+33288102277664 - LISA [Book] Linty
+33288102342120 - LISA [Book] The Most Exciting Book of Science, Inventions & Space Ever
+33288100768029 - LISA [Book] Quest for Planet X
+33288102341395 - LISA [Book] Where the Weird Things Are
+33288102339621 - LISA [Book] Wonders of the World
+33288091630667 - LISA [Book] 101 Essays That Will Change the Way You Think
+33288100752197 - LISA [Book] Airi Sano, Prankmaster General
+33288900819032 - LISA [Book] Alibaba
+33288901196644 - LISA [Book] Ban This Book
+33288901646259 - LISA [Book] The Cosmic Quest
+33288900974298 - LISA [Book] Everything You Need to Ace Science in One Big Fat Notebook
 33288900364591 - LISA [Book] Evil Inventions
-33288900517628 - LISA [Book] Exploring LEGO Mindstorms EV3
 33288083881013 - LISA [Book] Fatal Forces
 33288100050709 - LISA [Book] Genius Ideas (mostly)
 33288102315019 - LISA [Video Game] Gigantosaurus
 33288501279337 - LISA [Book] Guardians of the Galaxy
-33288102274414 - LISA [Book] Harry Potter and the Sorcerer's Stone
 33288102210962 - LISA [Book] How It's Made
+33288901262826 - LISA [Book] I'm An App Developer
 33288086417013 - LISA [Book] Illustrated Everyday Idioms With Stories
 33288086417005 - LISA [Book] Illustrated Everyday Idioms With Stories
-33288100145988 - LISA [Book] In Other Words
 33288100739228 - LISA [Book] Island of Spies
-33288100032004 - LISA [Book] The Joke's on Us
 33288900175203 - LISA [Book] JUMP at Home
 33288083894123 - LISA [Book] Language Skills Preparation
-33288900730460 - LISA [Book] The LEGO Mindstorms EV3 Discovery Book
-33288100072778 - LISA [Book] The Lego Mindstorms EV3 Idea Book
+33288101101329 - LISA [Book] Learn to Program With App Inventor
 33288101922039 - LISA [Book] Maps
 33288089957122 - LISA [Book] Math Games
-33288900899040 - LISA [Book] Mindstorms
+33288089912523 - LISA [Book] My Morning Routine
 33288088996931 - LISA [Book] Nick and Tesla's High-voltage Danger Lab
-33288089201257 - LISA [Book] Nick and Tesla's Secret Agent Gadget Battle
 33288501431169 - LISA [Book] Noodleheads
-33288086708734 - LISA [Book] Ontario Provincial Testing Practice
-33288102211200 - LISA [Book] Poopy Science
-33288100750720 - LISA [Book] Ring of Solomon
-33288900738653 - LISA [Book] Robots Go Wild!
-33288100750522 - LISA [Book] The Shimmer
-33288100757089 - LISA [Book] To Bee, or Not to Bee!
-33288901583965 - LISA [Book] Unbelievably Boring Bart
-33288100574237 - LISA [Book] Unplugged
-33288100485962 - LISA [Book] War Stories
 33288102173053 - LISA [Book] Noodleheads Do the Impossible
 33288101763334 - LISA [Book] Noodleheads Lucky Day
+33288086708734 - LISA [Book] Ontario Provincial Testing Practice
+33288102211200 - LISA [Book] Poopy Science
 33288102024959 - LISA [Book] Random Acts of Fun
+33288100750720 - LISA [Book] Ring of Solomon
+33288900738653 - LISA [Book] Robots Go Wild!
+33288091889438 - LISA [Book] Scholastic ... Book of World Records
 33288084073438 - LISA [Book] The Secret Science Alliance and the Copycat Crook
 33288085693416 - LISA [Book] Space, Black Holes and Stuff
 33288100307323 - LISA [Book] Star Wars
 33288102319102 - LISA [Book] Storyteller's Illustrated Dictionary
+33288100757089 - LISA [Book] To Bee, or Not to Bee!
 33288102198399 - LISA [Book] Ultimate Book of the Future
-33288102243708 - LISA [Book] Unstoppable Us
+33288900208285 - LISA [Book] Ultimate IQ Tests
+33288901583965 - LISA [Book] Unbelievably Boring Bart
+33288100574237 - LISA [Book] Unplugged
 33288102314889 - LISA [Book] Your Brain Is Amazing
+33288102337757 - LISA [Book] Yudi
 33288102209618 - LISA [Book] 5,000 Awesome Facts (about Animals)
-33288100752197 - LISA [Book] Airi Sano, Prankmaster General
-33288900819032 - LISA [Book] Alibaba
 33288901032922 - LISA [Book] Apocalypse Bow Wow
 33288102012194 - LISA [Book] The Big Book of Questions and Answers
 33288102192350 - LISA [Book] The Big Book of Space
-33288102204957 - LISA [Book] Birnbaum's Walt Disney World for Kids
 33288102113166 - LISA [Book] Boys Will Be Boys [crossed Out] Human
-33288101531434 - LISA [Book] Dog Man
 33288088155306 - LISA [Book] The Everything Store
-33288100371121 - LISA [Book] How to Stop Losing your Sh*t With your Kids
 33288102325612 - LISA [Book] I Can't Do What?
-33288100757857 - LISA [Book] Save Noah
-33288085450247 - LISA [Book] Stone Rabbit
+33288100616491 - LISA [Book] The Keepers of the Empire
 33288100757105 - LISA [Book] Undercover Latina
 
