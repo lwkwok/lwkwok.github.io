@@ -2,7 +2,6 @@
 33288087632370 - ANDY [Book] Bugged
 33288901244220 - ANDY [Book] Creepin' Through the Snow
 33288091666851 - ANDY [Book] The Dragon of Fortune
-33288100441361 - ANDY [Book] Get A Job, Creep
 33288089559001 - ANDY [Book] I Scream for Ice Cream
 33288900408190 - ANDY [Book] Minecraft Combat Handbook
 33288900445101 - ANDY [Book] Minecraft Construction Handbook
@@ -10,18 +9,14 @@
 33288100546367 - ANDY [Book] Real Pigeons Eat Danger
 33288501287546 - ANDY [Book] Trayaurus and the Enchanted Crystal
 33288100954728 - ANDY [Book] What A Waste
-33288901270639 - ANDY [Book] Birthday Mice!
-33288101422659 - ANDY [Book] The Bug in the Bog
-33288901601544 - ANDY [Book] Daniel Finds A New Friend
-33288101528927 - ANDY [Book] For Otto
-33288090067911 - ANDY [Book] Out to Lunch
-33288901672636 - ANDY [Book] Poof! A Bot!
-33288501339792 - ANDY [Book] Snoopy Came to Play
-33288901518664 - ANDY [Book] Trolley Ride!
 33288085494047 - ANDY [Music CD] The Wiggles
-33288089201257 - LISA [Book] Nick and Tesla's Secret Agent Gadget Battle
-33288100371121 - LISA [Book] How to Stop Losing your Sh*t With your Kids
-33288085450247 - LISA [Book] Stone Rabbit
+33288100326349 - ANDY [Book] Brownie and Pearl Hit the Hay
+33288501317301 - ANDY [Book] Buddy and Pals
+33288101497214 - ANDY [Book] Bug Dipping, Bug Sipping
+33288101492900 - ANDY [Book] Come In, Zip!
+33288501358941 - ANDY [Book] Mouse Loves Spring
+33288901590465 - ANDY [Book] Space Cows
+33288501440665 - ANDY [Book] There You Are, Olivia!
 33288087360576 - LISA [Book] The Art of Doing
 33288100267907 - LISA [Book] The Bean Team
 33288100755802 - LISA [Book] The Book That No One Wanted to Read
@@ -30,7 +25,6 @@
 33288101531640 - LISA [Book] Dog Man
 33288100095035 - LISA [Kit] First Little Readers
 33288901203432 - LISA [Book] Get Coding!
-33288901229064 - LISA [Book] Guardians of the Galaxy
 33288101300657 - LISA [Book] Guide to Minecraft Dungeons
 33288102074798 - LISA [Book] How to Be A Genius
 33288501279550 - LISA [Book] Laser Moose and Rabbit Boy
@@ -42,7 +36,6 @@
 33288083446957 - LISA [Book] Outliers
 33288102243278 - LISA [Book] Planet Earth
 33288090690274 - LISA [Video Game] Rapala Fishing Pro Series
-33288901154742 - LISA [Book] Restart
 33288900708938 - LISA [Book] Secret of the Forbidden City
 33288901677346 - LISA [Book] The Test of Time
 33288090927833 - LISA [Book] Tools of Titans
@@ -70,7 +63,6 @@
 33288090700479 - LISA [Video Game] Ace Combat 7
 33288102081298 - LISA [Book] Awesome Dog 5000 Vs. The Kitty-Cat Cyber Squad
 33288088978038 - LISA [Book] Basic Math and Pre-algebra
-33288101242156 - LISA [Book] Best Nerds Forever
 33288102210707 - LISA [Book] The Big Book of W.O.W
 33288085676940 - LISA [Book] Big Questions
 33288102311174 - LISA [Book] Big Questions About the Universe
@@ -86,11 +78,9 @@
 33288101093625 - LISA [Book] Everything You Need to Ace Geometry in One Big Fat Notebook
 33288100054859 - LISA [Book] Excellent Excuses (and Other Good Stuff)
 33288102110022 - LISA [Kit] First Little Readers
-33288102337351 - LISA [Book] Guandi
 33288102337369 - LISA [Book] Huangdi
 33288102277664 - LISA [Book] Linty
 33288102342120 - LISA [Book] The Most Exciting Book of Science, Inventions & Space Ever
-33288100768029 - LISA [Book] Quest for Planet X
 33288102341395 - LISA [Book] Where the Weird Things Are
 33288102339621 - LISA [Book] Wonders of the World
 33288091630667 - LISA [Book] 101 Essays That Will Change the Way You Think
@@ -124,25 +114,41 @@
 33288102024959 - LISA [Book] Random Acts of Fun
 33288100750720 - LISA [Book] Ring of Solomon
 33288900738653 - LISA [Book] Robots Go Wild!
-33288091889438 - LISA [Book] Scholastic ... Book of World Records
 33288084073438 - LISA [Book] The Secret Science Alliance and the Copycat Crook
 33288085693416 - LISA [Book] Space, Black Holes and Stuff
 33288100307323 - LISA [Book] Star Wars
 33288102319102 - LISA [Book] Storyteller's Illustrated Dictionary
 33288100757089 - LISA [Book] To Bee, or Not to Bee!
 33288102198399 - LISA [Book] Ultimate Book of the Future
-33288900208285 - LISA [Book] Ultimate IQ Tests
 33288901583965 - LISA [Book] Unbelievably Boring Bart
 33288100574237 - LISA [Book] Unplugged
 33288102314889 - LISA [Book] Your Brain Is Amazing
-33288102337757 - LISA [Book] Yudi
 33288102209618 - LISA [Book] 5,000 Awesome Facts (about Animals)
 33288901032922 - LISA [Book] Apocalypse Bow Wow
 33288102012194 - LISA [Book] The Big Book of Questions and Answers
 33288102192350 - LISA [Book] The Big Book of Space
-33288102113166 - LISA [Book] Boys Will Be Boys [crossed Out] Human
 33288088155306 - LISA [Book] The Everything Store
 33288102325612 - LISA [Book] I Can't Do What?
 33288100616491 - LISA [Book] The Keepers of the Empire
-33288100757105 - LISA [Book] Undercover Latina
+33288102337971 - LISA [Book] Ash's Atlas
+33288501013587 - LISA [Book] Bullet Train Disaster
+33288101699793 - LISA [Book] Deadly Heist
+33288901111049 - LISA [Book] Escape to Australia
+33288101091587 - LISA [Book] Everything You Need to Ace Math in One Big Fat Notebook
+33288100437146 - LISA [Book] Hoax for Hire
+33288100769878 - LISA [Book] I Am the Walrus
+33288900307152 - LISA [Book] I Even Funnier
+33288100630724 - LISA [Book] It's A Zoo in Here!
+33288901109258 - LISA [Book] Mob School Survivor
+33288087358695 - LISA [Book] My Brother Is A Big, Fat Liar
+33288900373931 - LISA [Book] The Ninja Librarians
+33288087423150 - LISA [Book] Peter Pan
+33288101847210 - LISA [Book] The S.Q.U.I.D. Squad
+33288101865147 - LISA [Book] The S.Q.U.I.D. Squad
+33288100770868 - LISA [Book] Shinji Takahashi
+33288900434816 - LISA [Book] The Story of Buildings
+33288900734322 - LISA [Book] The Test Book
+33288101912824 - LISA [Book] The Trojan Horse
+33288901583932 - LISA [Book] Unbelievably Boring Bart
+33288085923144 - LISA [Book] Zita the Spacegirl
 
