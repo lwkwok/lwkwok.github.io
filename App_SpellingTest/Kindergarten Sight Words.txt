@@ -1,0 +1,52 @@
+all~The whole quantity or extent of something.~I ate all my cookies.
+am~First-person singular present form of the verb "be."~I am happy.
+are~Second-person singular and plural present form of the verb "be."~You are my friend.
+at~Expressing location or time.~We are at the park.
+ate~Past tense of the verb "eat."~I ate a delicious apple.
+be~To exist or live.~I want to be a firefighter.
+black~Having the color like that of coal or a night sky.~I like black cats.
+brown~Having the color like that of chocolate or tree bark.~My teddy bear is brown.
+but~Used to introduce something contrasting with what has already been mentioned.~I am small but strong.
+came~Past tense of the verb "come."~She came to my birthday party.
+did~Past tense of the verb "do."~Did you finish your homework?
+do~To perform an action or activity.~I can do a somersault.
+eat~To consume food.~I like to eat ice cream.
+four~Equivalent to the sum of three and one.~I have four toy cars.
+get~To come into possession or use of something.~I want to get a new toy.
+good~Of high quality; excellent.~You did a good job.
+have~To possess, own, or hold.~I have a red ball.
+he~Used to refer to a male person or animal.~He is my brother.
+into~Expressing movement or action with the result of being inside.~I jumped into the pool.
+like~To find something enjoyable or pleasing.~I like to play with my friends.
+must~Used to indicate necessity or obligation.~You must brush your teeth before bed.
+new~Not existing before; recently made, acquired, or discovered.~I got a new toy for my birthday.
+no~Used to give a negative response or express negation.~No, I don't want that toy.
+now~At the present time; at this moment.~We can play now.
+on~Expressing position or contact with a surface.~I put my hat on my head.
+our~Belonging to or associated with us.~This is our house.
+out~Moving or appearing to move away from a particular place.~Let's go out and play.
+please~Used to ask for something politely.~May I have some juice, please?
+pretty~Pleasing or attractive to the eye.~She wore a pretty dress.
+ran~Past tense of the verb "run."~He ran fast in the race.
+ride~To sit on and control the movement of a vehicle or animal.~I want to ride the carousel.
+saw~Past tense of the verb "see."~I saw a bird in the tree.
+say~To express in words; utter.~Can you say your name?
+she~Used to refer to a female person or animal.~She is my friend.
+so~To such a great extent.~I am so excited!
+soon~In or after a short time.~We will go to the park soon.
+that~Used to identify a specific person or thing.~Look at that beautiful flower.
+there~In, at, or to that place or position.~The toy is over there.
+they~Used to refer to more than one person or thing.~They are playing in the garden.
+this~Used to identify a specific person or thing close to the speaker.~This is my favorite book.
+too~In addition; also.~I want to play too.
+under~Expressing position below or beneath something.~The ball rolled under the table.
+want~To have a desire or wish for something.~I want to go to the park.
+was~First-person singular past form of the verb "be."~I was at the zoo yesterday.
+well~In a good or satisfactory manner.~She sings well.
+went~Past tense of the verb "go."~We went to the beach.
+what~Used to ask for information or to inquire about something.~What is your name?
+white~Having the color like that of snow or milk.~The clouds are white.
+who~Used to ask for the identity or name of a person or people.~Who is that girl?
+will~Expressing future time.~I will go to school tomorrow.
+with~Accompanied by; in the company of.~I like to play with my friends.
+yes~Used to give an affirmative response or express agreement.~Yes, I want to play with you.
