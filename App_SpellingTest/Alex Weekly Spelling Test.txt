@@ -1,6 +1,6 @@
 multiply~To perform the operation of repeated addition~I can multiply 2 by 3 to get the answer 6.
 imagination~The ability to create new ideas and images in the mind~Using my imagination, I pretend to be a superhero.
-favorite~Something that is preferred over others~My favorite color is blue.
+favourite~Something that is preferred over others~My favorite color is blue.
 computer~An electronic device used for storing, processing, and displaying information~I use the computer to play games and do homework.
 citizenship~The status of being a member of a particular country with associated rights and responsibilities~Becoming a citizen means I can vote and contribute to my community.
 invisible~Unable to be seen~The magician made the rabbit disappear, and it became invisible.
