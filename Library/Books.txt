@@ -19,8 +19,6 @@
 33288900785886 - ANDY [Book] Hot Rod Hamster Meets His Match!
 33288901560302 - ANDY [Book] Too Many Cupcakes!
 33288900730072 - ANDY [Book] A Visit to the Aquarium
-33288101310789 - LISA [Book] The Dragon
-33288084073438 - LISA [Book] The Secret Science Alliance and the Copycat Crook
 33288102215458 - LISA [Book] 1,000 Facts About Space
 33288102313295 - LISA [Book] 100 Things to Know About Architecture
 33288090700479 - LISA [Video Game] Ace Combat 7
@@ -143,4 +141,15 @@
 33288101912824 - LISA [Book] The Trojan Horse
 33288901583932 - LISA [Book] Unbelievably Boring Bart
 33288085923144 - LISA [Book] Zita the Spacegirl
+33288901630477 - LISA [Book] Dead City
+33288082856925 - LISA [Book] How Many Ways Can You Catch A Fly?
+33288101871202 - LISA [Book] I Love You More
+33288900897135 - LISA [Book] JA New Class
+33288900712682 - LISA [Book] Launch A Rocket Into Space
+33288090160278 - LISA [Book] Moving Day!
+33288900848617 - LISA [Book] Never Say Narwhal
+33288100019282 - LISA [Book] The Silent Assassin
+33288091400327 - LISA [Book] What the Dinosaurs Did at School
+33288088899788 - LISA [Book] Where Is Home, Little Pip?
+33288101813485 - LISA [Book] Where'd My Giggle Go?
 
