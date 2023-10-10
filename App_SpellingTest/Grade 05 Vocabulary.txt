@@ -1,2 +1,482 @@
-Word~Meaning~Sample Sentence
-Abundant~Present in great quantity; plentiful~The forest was abundant with a variety of wildlife.
+about~concerning or regarding~I heard a lot of rumors about the new movie.
+action~the process of doing something; an act or deed~Taking action is important to achieve your goals.
+actor~a person who performs in plays, movies, or television shows~The actor delivered an outstanding performance in the play.
+addition~the process of adding or combining things~The addition of new features improved the software.
+address~the location of a place or a written or spoken statement of a location~I need the address to send you a letter.
+addresses~plural form of "address," referring to multiple locations or statements~She has lived at several different addresses over the years.
+administer~to manage, direct, or oversee something~The nurse will administer the medication to the patient.
+administration~the process of managing or governing, often in a government context~The new administration introduced several policy changes.
+afraid~feeling fear or apprehension~I'm afraid of heights.
+again~once more; a second time~Can you please repeat that again?
+agriculture~the practice of farming and cultivating crops and animals~Agriculture is a crucial industry for feeding the population.
+airmail~mail sent by aircraft for faster delivery~I sent the documents via airmail to ensure they arrive quickly.
+algebra~a branch of mathematics that deals with symbols and the rules for manipulating them in equations~Solving algebraic equations can be challenging for some students.
+all right~satisfactory; without problems~Everything is going all right with the project.
+allow~to permit or give permission for something to happen~The school doesn't allow pets in the classroom.
+along~in a line or direction; beside~We walked along the beach at sunset.
+aloud~in a voice that can be heard; not silently~Please read the passage aloud to the class.
+already~before or by this time; previously~She had already finished her homework when I arrived.
+although~despite the fact that; however~Although it was raining, we decided to go for a hike.
+always~at all times; on every occasion~She is always punctual for her appointments.
+amount~quantity or total~The amount of money in my wallet is $20.
+amphibian~a cold-blooded vertebrate that can live both in water and on land, like a frog~The frog is an example of an amphibian.
+amusement~something that entertains or pleases~The theme park offers a lot of amusement for visitors.
+angrily~in a manner showing anger or irritation~She spoke angrily after hearing the news.
+animal~a living organism that is not a plant and can move, eat, and reproduce~The lion is a wild animal.
+annoy~to irritate or disturb someone~Please don't annoy your little brother while he's studying.
+another~one more of something; a different one~I'll have another slice of pizza.
+answer~a response to a question or problem~Can you please provide an answer to this math problem?
+anything~any thing or object; any unspecified thing~You can ask me anything you'd like.
+apply~to make use of or put into action~I will apply for the job tomorrow.
+approach~to come near or closer to something or someone~The hikers will approach the summit by evening.
+April~the fourth month of the year~My birthday is in April.
+argument~a disagreement or a reason put forward to persuade others~They had a heated argument about their travel plans.
+arithmetic~the branch of mathematics that deals with numbers and their operations~Basic arithmetic includes addition, subtraction, multiplication, and division.
+arrangement~a plan or preparation for something~The floral arrangement on the table looked beautiful.
+article~a written composition on a specific topic, often found in newspapers or magazines~She wrote an article about climate change.
+assistant~a person who helps or supports someone in their work or tasks~The assistant provided valuable help with the project.
+athletes~individuals who participate in sports and physical activities~The Olympic Games attract athletes from all over the world.
+atmosphere~the layer of gases surrounding the Earth; a particular mood or feeling in a place or situation~The atmosphere in the forest was peaceful.
+attend~to be present at an event or participate in an activity~Will you attend the meeting tomorrow?
+attention~the act of focusing one's mind on something or someone~The teacher asked for the students' attention before starting the lesson.
+author~a person who writes books, stories, or articles~The author of this novel is a renowned writer.
+autobiography~a book written by a person about their own life experiences~The autobiography of the famous actor was a bestseller.
+autograph~a signature, especially of a famous person, often given as a keepsake~I got an autograph from my favorite celebrity.
+automatic~operating by itself without human intervention; self-regulating~The door opened automatically as we approached.
+automobile~a motor vehicle designed for transportation on roads; a car~They traveled across the country in their automobile.
+avoid~to stay away from or prevent something undesirable from happening~To stay healthy, it's essential to avoid unhealthy foods.
+awful~extremely bad or unpleasant~The weather today is awful; it's raining heavily.
+awhile~for a short period of time~I'll wait here for awhile until you return.
+awkward~lacking ease or grace; causing discomfort or embarrassment~His awkward dance moves made everyone laugh at the party.
+awoke~past tense of "awake" meaning to wake up~She awoke to the sound of birds chirping outside her window.
+baby-sit~to take care of someone's child for a period of time~Sarah offered to baby-sit her neighbor's children while they went out for dinner.
+beautiful~having beauty or attractive qualities~The sunset over the ocean was absolutely beautiful.
+because~for the reason that; since~She stayed home because she was feeling unwell.
+before~earlier in time; in advance of~We need to finish our work before the deadline.
+began~past tense of "begin," meaning to start or commence~The concert began at 7 PM sharp.
+beginning~the start or initial stage of something~The beginning of the book was captivating.
+belong~to be a member of a particular group or to fit in somewhere~The antique vase belongs to my grandmother.
+beware~to be cautious or watchful of something dangerous~Beware of the slippery road in winter.
+bicycle~a human-powered vehicle with two wheels~I enjoy riding my bicycle in the park.
+biologist~a scientist who studies living organisms and their interactions~Jane aspires to become a marine biologist and study underwater ecosystems.
+birthday~the day of one's birth, celebrated each year~We threw a surprise party for her birthday.
+bodyguard~a person hired to protect another person, often a celebrity or public figure~The celebrity's bodyguard ensured her safety at the event.
+boundary~a dividing line or limit between two areas or things~The river serves as the boundary between the two countries.
+bragged~past tense of "brag," meaning to boast or talk with excessive pride~He bragged about his accomplishments at work.
+bridge~a structure that spans a gap or provides passage over an obstacle, often over a river or road~We walked across the old wooden bridge.
+briefly~for a short period of time; concisely~She explained the concept briefly before moving on to the next topic.
+broken~damaged or no longer in one piece~The vase fell and shattered into many broken pieces.
+brought~past tense of "bring," meaning to carry or convey something to a place~She brought a delicious cake to the party.
+bulletin~a brief report or announcement, often in written or printed form~The school bulletin contained important updates and news.
+businesses~commercial enterprises or organizations engaged in economic activities~Many small businesses have struggled during the pandemic.
+called~past tense of "call," meaning to name or shout out~They called out her name from across the room.
+calves~the young of domesticated cattle~The farm had several adorable calves in the barn.
+camera~a device for capturing photographs or recording videos~He used his camera to capture the beautiful landscape.
+careless~not taking proper care; lacking attention or caution~His careless mistake cost the team the game.
+carried~past tense of "carry," meaning to transport or hold something~She carried a heavy backpack on her hike.
+caution~care taken to avoid danger or mistakes; a warning~The caution sign indicated a sharp turn ahead.
+celebrate~to observe or engage in festivities or ceremonies in honor of an event or occasion~We will celebrate our anniversary with a special dinner.
+certain~having no doubt; sure or confident~She was certain that she would succeed in her new job.
+characteristic~a distinguishing feature or quality of something or someone~One characteristic of his personality is his kindness.
+cherries~small, round, red or black fruit with a pit inside~She picked some fresh cherries from the tree.
+children~young humans below the age of puberty~The children played happily in the park.
+chocolates~sweet confections made from cocoa and sugar~He gave her a box of chocolates on Valentine's Day.
+choice~the act of selecting something from a set of options; the option itself~The restaurant offers a wide choice of dishes.
+choose~to make a selection from a set of options~Please choose your favorite color from the palette.
+chute~a narrow, sloping channel or passage, often used for conveying objects downward~The laundry chute made it easy to send dirty clothes to the basement.
+circle~a closed curved shape with all points equidistant from the center; to move in a circular pattern~They formed a circle and held hands.
+civilization~an advanced stage of human social development and organization~Ancient Egypt was a great civilization of its time.
+climb~to ascend or go upward, often by scaling a height~The climbers began their ascent of the mountain.
+clothes~garments worn on the body for protection, comfort, or style~She carefully folded her clothes and placed them in the closet.
+collar~a band of fabric or material worn around the neck, often on shirts or dresses~The dog's collar had a name tag with his owner's information.
+color~the visual perception of different wavelengths of light; a characteristic hue~Her favorite color is blue.
+communicate~to convey information or ideas through speech, writing, or other means~We need to communicate our plan effectively to the team.
+compare~to examine the similarities and differences between two or more things~She liked to compare prices before making a purchase.
+concert~a musical performance, often involving multiple musicians or a band~The symphony orchestra gave a stunning concert last night.
+conclusion~the end or final part of an event or process; a judgment or decision reached after consideration~In conclusion, the research findings were inconclusive.
+constellation~a group of stars forming a recognizable pattern in the night sky~Orion is a famous constellation visible in the winter months.
+constitution~a fundamental set of laws or principles that govern a nation or organization~The country's constitution outlines the rights and responsibilities of its citizens.
+cough~a sudden and often noisy expulsion of air from the lungs through the mouth, typically to clear the throat or airways~He had a persistent cough due to a cold.
+could~past tense of "can," indicating the ability or possibility to do something~She could speak three languages fluently.
+countries~nations~There are many countries in the world, each with its own unique culture.
+country~a nation with its own government and borders~Canada is a vast and beautiful country.
+cousin~the child of one's uncle or aunt~My cousin and I are very close and spend a lot of time together.
+crews~groups of people working together, especially on a ship or plane~The airline crew prepared for takeoff.
+cruise~a leisurely voyage or trip, especially by sea~We went on a cruise to the Caribbean last summer.
+currency~the money used in a particular country~The currency of Japan is the yen.
+cyclone~a violent storm with strong winds that rotate in a circular pattern~The cyclone caused widespread damage in the coastal areas.
+dairy~a place where milk and milk products are processed and sold~I buy fresh milk from the local dairy.
+dancing~moving one's body rhythmically to music, typically in a social setting~The dance floor was filled with people dancing to the music.
+dangerous~likely to cause harm or injury~Swimming in the deep ocean can be dangerous if you're not careful.
+daring~showing courage or willingness to take risks~Her daring skydiving adventure was exhilarating.
+darkness~the absence of light, resulting in a lack of visibility~The darkness of the night was illuminated by the stars.
+daughter~a female child of one's parents~My daughter is starting kindergarten next week.
+daybreak~the time when daylight first begins~We watched the sunrise at daybreak.
+decided~made a choice or reached a conclusion after consideration~I've decided to take a vacation in the mountains.
+declare~announce something officially or publicly~The president will declare the new policy in a press conference.
+decorate~to make something more attractive by adding ornaments or enhancements~We decorate our house with lights during the holidays.
+decoration~an ornament or adornment used to beautify something~The Christmas tree was covered in colorful decorations.
+describe~to explain or represent something in words or depict it in detail~Can you describe what the suspect looked like to the police?
+description~a statement that explains or depicts something in detail~The job description listed the responsibilities of the position.
+design~the plan or arrangement of elements to achieve a particular purpose or look~The architect's design for the new building is innovative.
+destruct~to destroy or damage something deliberately~The tornado can destruct houses and buildings in seconds.
+destruction~the act of causing great damage or harm to something~The war resulted in the widespread destruction of infrastructure.
+diagram~a drawing or plan that explains something with labels and symbols~The diagram illustrates how the water cycle works.
+dictionary~a reference book containing words and their meanings~I often use a dictionary to look up unfamiliar words.
+different~not the same as something else; distinct or separate~Each snowflake is different from the others, with its unique pattern.
+disagree~have a different opinion or not be in harmony with someone or something~It's okay to disagree with your friends; it's a part of healthy discussions.
+disappear~to vanish or become unseen or unnoticed~The magician made the rabbit disappear in a puff of smoke.
+disappoint~to fail to meet someone's expectations or hopes~It's always disappointing when your favorite team loses.
+disapprove~to have a negative opinion or judgment about something or someone~Her parents disapprove of her choice to drop out of school.
+disconnect~to break the connection or communication between things or people~Please disconnect the power supply before making any repairs.
+dishonest~not truthful or deceitful in behavior or actions~It's important to be honest; lying is considered dishonest.
+divide~to separate something into parts or groups~Let's divide the pizza into equal slices for everyone.
+division~the act or process of dividing something into parts or sections~The division of labor in the company helps increase efficiency.
+doctor~a medical professional who diagnoses and treats illnesses and injuries~I need to see a doctor because I'm not feeling well.
+dollar~the currency unit used in several countries, including the United States~The price of the toy is ten dollars.
+dough~a mixture of flour, water, and other ingredients used for baking bread or pastry~She's kneading the dough to make homemade bread.
+dozen~a group of twelve items or units~I bought a dozen roses for my wife on our anniversary.
+drawn~past participle of "draw," meaning to produce a picture or image with a pencil, pen, or other instrument~She has drawn a beautiful landscape.
+eager~enthusiastic and excited about something~The children were eager to open their presents on Christmas morning.
+eagle~a large bird of prey known for its strong vision and powerful beak~We spotted an eagle soaring high in the sky.
+early~happening or occurring before the expected or usual time~I woke up early to catch the sunrise.
+earth~the third planet from the sun, on which humans live~Earth is our home planet, and we must take care of it.
+easily~with little effort or difficulty~She solved the math problem easily because she's good at it.
+ecology~the study of the relationships between living organisms and their environments~Ecology plays a crucial role in understanding how ecosystems function.
+electric~powered by electricity or related to electricity~The electric car is eco-friendly and doesn't produce emissions.
+employ~to hire someone to work for a company or organization~The company decided to employ new staff to meet the increasing demand.
+enact~to make a law or rule officially valid by passing it through a legislative process~The government plans to enact stricter environmental regulations.
+encyclopedia~a reference work that provides information on a wide range of topics or subjects~I used an encyclopedia to research information for my school project.
+energy~the ability to do work or the capacity for vigorous activity~Solar panels convert sunlight into energy to power our homes.
+enough~an adequate quantity or amount~I have had enough to eat.
+environment~the surroundings or conditions in which a person, animal, or plant lives or operates~Protecting the environment is crucial for our planet's future.
+equation~a mathematical statement that shows two expressions are equal~Solving this equation requires advanced algebra skills.
+equator~an imaginary line dividing the Earth into northern and southern hemispheres~The equator is known for its warm and tropical climate.
+especially~particularly; to a greater extent~I love all fruits, but I enjoy apples especially.
+everybody~every person; everyone~Everybody in the class was excited about the field trip.
+everyone~every person; all people~Everyone should participate in recycling efforts.
+exactly~precisely; accurately~The GPS coordinates were exactly where we needed to go.
+example~a representative instance or illustration of something~Let me give you an example to explain this concept.
+exchange~the act of giving one thing and receiving another in return~They decided to exchange gifts on their birthdays.
+excitement~a feeling of eager enthusiasm and interest~The excitement in the air before the big game was palpable.
+exciting~causing great enthusiasm and eagerness~Traveling to new places is always exciting.
+explain~make (something) clear or easy to understand by describing or giving reasons for it~Can you please explain how this machine works?
+families~a group of one or more parents and their children living together as a unit~Our families gathered for a reunion during the holidays.
+fault~a flaw or defect in something~The car broke down due to a mechanical fault.
+favorite~preferred above all others of the same kind~Chocolate ice cream is my favorite dessert.
+fearless~lacking fear; brave and bold~The fearless firefighter saved the cat from the burning building.
+fences~a barrier, typically made of wood or wire, used to enclose an area or divide one piece of land from another~The farmer built fences around his fields to keep the animals out.
+festival~a celebration or occasion, typically a religious one~The Diwali festival is known for its colorful lights and fireworks.
+fiction~literature in the form of prose that describes imaginary events and people~I enjoy reading science fiction novels in my free time.
+field~an area of open land, especially one used for a particular purpose, such as farming or sports~The soccer field was well-maintained for the championship game.
+fierce~having a violent or intense nature; aggressive~The storm brought fierce winds and heavy rain.
+fifteen~the number after fourteen and before sixteen; 15~She celebrated her fifteenth birthday with a big party.
+figure~a numerical symbol, especially one denoting an amount~The figure on the invoice didn't match the total amount.
+finished~completed or brought to an end~After hours of work, I finally finished the project.
+first aid~basic medical treatment given to someone before professional help arrives~She administered first aid to the injured hiker.
+flashlight~a portable, battery-powered light source~I used a flashlight to find my way in the dark.
+flies~insects with two wings that are often considered pests~The flies were buzzing around the picnic food.
+fluid~a substance that flows and takes the shape of its container, such as water or oil~The engine required a specific type of fluid to operate.
+followed~past tense of "follow"; to go or come after or behind someone or something~He followed the trail of breadcrumbs to find his way back.
+force~physical strength or power exerted against an object or person~The force of the wind made it difficult to walk.
+fourth~the number after three and before five; 4th~Independence Day is celebrated on the fourth of July.
+fragile~easily broken or damaged; delicate~The antique vase was very fragile and had to be handled with care.
+freight~goods transported in bulk by truck, train, ship, or aircraft~The freight train carried a load of cargo across the country.
+frequency~the rate at which something occurs or is repeated over a period of time~The frequency of earthquakes in that region is a cause for concern.
+frequent~happening or occurring often~She made frequent trips to the library to borrow books.
+Friday~the day of the week following Thursday and preceding Saturday~We always have pizza for dinner on Fridays.
+friendly~kind and pleasant; amicable~The people in this town are known for being friendly and welcoming.
+friends~people whom one knows and has a bond of mutual affection with~I enjoy spending time with my friends on the weekends.
+friendship~the state of being friends; a relationship based on mutual affection and trust~Their friendship grew stronger over the years.
+future~the period of time that will come after the present; what will happen next~Planning for the future is important for achieving long-term goals.
+generous~showing a readiness to give more of something, such as money or time, than is strictly necessary or expected~He is known for his generous contributions to charity.
+genius~exceptional intellectual or creative ability; a person with such ability~Albert Einstein was a genius in the field of physics.
+geography~the study of the physical features of the earth and its atmosphere~I have always been fascinated by the geography of different countries.
+geologist~a scientist who studies the earth's structure, composition, and processes, especially rocks and minerals~The geologist discovered a rare mineral in the mountains.
+geology~the science that deals with the earth's physical structure and substance, its history, and the processes that act on it~Geology helps us understand the formation of natural landscapes.
+geometry~the branch of mathematics involving points, lines, shapes, and properties of space~Geometry is a fundamental topic in mathematics.
+glacier~a large, slow-moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles~The glacier had carved a deep valley over centuries.
+gloomy~dark and depressing; lacking in brightness or optimism~The gloomy weather matched his mood on that rainy day.
+goalkeeper~a player on a sports team, especially in soccer or hockey, whose main job is to stop the opposing team from scoring goals~The goalkeeper made a spectacular save to secure the team's victory.
+goodbye~a parting farewell~She waved and said her good-bye before leaving for the airport.
+government~the governing body of a nation, state, or community~The government implemented new policies to improve healthcare access.
+ground~the surface of the Earth; a solid foundation~He sat on the ground to have a picnic with his friends.
+grudge~a persistent feeling of ill will or resentment towards someone~She held a grudge against her coworker for a long time.
+guarding~protecting or watching over something or someone~The security guard was diligently guarding the entrance.
+guesses~estimations or predictions made without certainty~We made some educated guesses about the outcome of the experiment.
+happen~to occur or take place~I didn't expect that to happen so quickly.
+happily~in a joyful or content manner~She smiled happily when she received the news.
+happiness~a state of well-being and contentment~The pursuit of happiness is a common goal in life.
+having~possessing or experiencing something~She was having a great time at the party.
+height~the measurement of how tall something or someone is~The height of the mountain made it a challenging climb.
+hello~a common greeting or salutation~He greeted his neighbor with a friendly hello.
+high school~a secondary educational institution~She graduated from high school last year.
+higher~located at a greater level or position~Climbing the ladder requires reaching higher rungs.
+himself~the reflexive form of "he," used to refer to a male person previously mentioned~He built the bookshelf himself.
+honestly~in a truthful and sincere manner~She answered the question honestly, even though it was difficult.
+honor~high respect or esteem; a privilege or distinction~It's an honor to receive this award.
+house~a building where people live; a place of residence~Their new house is spacious and beautiful.
+hurried~done quickly or with haste~He hurried to catch the bus before it left.
+illegal~against the law; prohibited by law~Parking in a no-parking zone is illegal.
+illegible~difficult or impossible to read~His handwriting was so messy that the note was illegible.
+impatient~lacking patience; easily irritated by delays~She grew impatient waiting in the long line.
+imperfect~not perfect; having flaws or deficiencies~Nobody is perfect; we all have our imperfect qualities.
+impolite~lacking good manners; rude or discourteous~Interrupting someone while they're speaking is impolite.
+import~to bring goods or services into a country for sale or use~The company decided to import rare spices from abroad.
+important~of great significance or value~It's important to prioritize your health.
+improper~not suitable or appropriate; not in accordance with accepted standards~Wearing flip-flops to a formal event would be considered improper.
+inactive~not in use or action; dormant~The volcano had been inactive for centuries.
+inconsiderate~thoughtless or lacking consideration for others' feelings or needs~It's inconsiderate to play loud music late at night.
+inconvenient~causing difficulty or trouble; not easily accessible~The road closure was inconvenient for commuters.
+incorrect~not accurate or true; wrong~Your answer is incorrect; please try again.
+infect~to contaminate with a disease-causing agent~The virus can easily infect those who are not vaccinated.
+infection~the invasion and multiplication of harmful microorganisms in the body, causing illness~He developed an infection after the surgery.
+inquire~to seek information by asking a question~I'll inquire about the availability of the product at the store.
+instead~as a substitute or replacement for something else~She chose tea instead of coffee for her morning beverage.
+instrument~a tool or device used for a particular purpose, often in music~He plays the piano, a beautiful musical instrument.
+intersection~the point where two or more roads or paths meet or cross~Be cautious when driving through an intersection.
+island~a piece of land surrounded by water~They went on vacation to a remote tropical island.
+January~the first month of the year in the Gregorian calendar~New Year's Day falls on January 1st.
+kindness~the quality of being friendly, generous, and considerate~Acts of kindness can brighten someone's day.
+knapsack~a small backpack, often used for carrying supplies or personal belongings~He packed his knapsack with snacks and water for the hike.
+knight~a medieval mounted and armored soldier; a person awarded an honorary title of knighthood~The knight defended the kingdom from invaders.
+label~a piece of paper or material attached to an object, providing information or identification~The label on the package indicated its contents.
+large~of considerable size; big~They moved into a large house with plenty of room for their family.
+laughed~past tense of "laugh," which means to make sounds of amusement or joy~The joke was so funny that everyone laughed.
+lawyer~a person who practices law and provides legal advice or representation~She consulted a lawyer for legal advice on her case.
+leaves~the plural form of "leaf," which is a flat, green structure on a plant or tree~The leaves on the trees turned red and gold in the autumn.
+lecture~a speech or talk, typically educational in nature~The professor delivered an engaging lecture on astrophysics.
+legal~related to the law; conforming to the law~It's important to seek legal advice when dealing with complex legal matters.
+length~the measurement of how long something is; the extent of something from end to end~The length of the bridge was impressive.
+lessons~teachings or instructions~She took piano lessons to learn how to play the instrument.
+license~a legal document giving permission to do something~You need a driver's license to operate a motor vehicle.
+listen~to pay attention to and hear sounds or information~I like to listen to music when I'm studying.
+little~small in size or quantity~The puppy was so little that it could fit in my hand.
+lives~the plural form of "life" referring to the state of being alive~Cats have nine lives, according to folklore.
+lonelier~more isolated or without company~After her friends moved away, she felt lonelier than ever.
+loneliness~the state of feeling alone or isolated~His loneliness disappeared when he made new friends.
+loose~not tightly fixed in place; free from restraint~The screw was loose, so I tightened it with a wrench.
+loving~feeling or showing affection and care towards someone or something~She had a loving relationship with her grandparents.
+lying~not telling the truth; being dishonest~Lying to your friends can damage their trust in you.
+manufacture~to make goods or products in large quantities, typically using machinery~The company will manufacture cars at the new factory.
+maybe~perhaps; possibly~Maybe we can go to the beach this weekend if the weather is nice.
+mayor~the elected leader of a city or town government~The mayor attended the opening ceremony of the new park.
+misbehave~to behave badly or inappropriately~The children were asked to leave the restaurant because they continued to misbehave.
+misfortune~bad luck or an unfortunate event~Despite the misfortune, she remained optimistic about the future.
+mission~a specific task or goal that one is assigned to accomplish~The astronauts' mission was to explore Mars.
+misspell~to spell a word incorrectly~I tend to misspell "receive" as "recieve."
+misunderstand~to fail to comprehend or interpret correctly~I apologize if I misunderstood your instructions earlier.
+misuse~to use something inappropriately or incorrectly~Misuse of this equipment can result in serious injury.
+moisture~small drops of water or liquid in the air or on a surface~The moisture on the grass indicated that it had rained overnight.
+months~the plural form of "month" referring to a unit of time in the calendar~November is one of the coldest months of the year.
+mountain~a large, natural elevation of the earth's surface with steep sides and a peak~Climbing that mountain was a challenging but rewarding experience.
+multiply~to increase in number or quantity~To solve the problem, you need to multiply the two numbers together.
+musician~a person who plays a musical instrument or creates music~The musician played a beautiful melody on her violin.
+myself~the reflexive pronoun used to refer to the speaker as the subject~I will do it myself; you don't need to help.
+neighborhood~a residential area or community in a town or city~Our neighborhood has a park where children can play.
+neither~not one nor the other of two people or things; not either~Neither of the options seemed appealing to me.
+nephew~a son of one's brother or sister~My nephew is excited about his upcoming birthday party.
+occasion~a particular event or instance~We celebrated the special occasion with a big family dinner.
+ocean~a large body of saltwater that covers most of the Earth's surface~The ocean is home to a diverse range of marine life.
+office~a place where work is done, typically administrative work~I'll be at the office all day for meetings.
+official~relating to an authority or a formal position~The official announcement will be made tomorrow.
+oldest~the superlative form of "old," indicating the greatest age or seniority~My grandfather is the oldest member of our family.
+one-way~moving or allowing movement in only one direction~This street is one-way, so you can only drive in that direction.
+orchestra~a large group of musicians who play various instruments together~The orchestra performed a magnificent symphony.
+ordinary~having no special or unique features; common~It was just an ordinary day with nothing out of the ordinary happening.
+other~used to refer to someone or something different or distinct from the one previously mentioned~I have one book, and you have the other.
+ounce~a unit of weight equal to 1/16th of a pound or about 28 grams~She measured the ingredients in ounces for the recipe.
+ourselves~the reflexive pronoun used to refer to ourselves as the subject~We need to take care of ourselves and prioritize self-care.
+outside~the external or outer part of something~It's a beautiful day outside; let's go for a walk.
+owner~a person who possesses or has legal rights to something~The owner of the restaurant greeted us warmly.
+oxygen~a chemical element necessary for life, present in the air we breathe~Divers carry oxygen tanks when exploring deep underwater.
+oyster~a type of shellfish often eaten as seafood~She ordered a dozen oysters at the seafood restaurant.
+paragraph~a distinct section of a piece of writing, typically with a topic sentence~Each paragraph in the essay supports the main thesis.
+partner~a person who shares in a business or activity with another person~They make great business partners and have been working together for years.
+patience~the ability to endure waiting, delay, or difficulties without becoming annoyed or upset~Patience is a virtue, especially when dealing with young children.
+payment~the act of giving money or something of value in exchange for goods or services~Please make the payment at the cashier's desk.
+peaceful~characterized by a state of tranquility or freedom from disturbance~The peaceful garden was a perfect place to relax and meditate.
+people~human beings, individuals~People from all over the world gathered for the international conference.
+person~an individual human being~Each person has their own unique perspective on life.
+pharmacy~a place where medicines are prepared and sold~I need to pick up my prescription from the pharmacy.
+photograph~a picture taken with a camera~I took a photograph of the beautiful sunset.
+physical~relating to the body or its form~Regular physical exercise is important for good health.
+physician~a medical doctor~The physician diagnosed the patient's illness.
+pictures~images or representations created through art or photography~The art gallery displayed beautiful pictures.
+piece~a part of something~She cut a small piece of cake for herself.
+planned~arranged or decided in advance~We have a carefully planned itinerary for our trip.
+please~to make someone happy or satisfied~May I please have a glass of water?
+plentiful~abundant or existing in large quantities~There was a plentiful supply of fresh fruit at the market.
+populate~to inhabit or live in a place~Many people populate the city.
+population~the total number of people living in an area~The population of the country is steadily increasing.
+portable~easily carried or moved~Laptops are portable computers that you can take anywhere.
+position~a place or location~Please take your position in line.
+potato~a starchy vegetable often used in cooking~She made delicious mashed potatoes for dinner.
+predicament~a difficult or challenging situation~Finding myself lost in the unfamiliar city was quite a predicament.
+prefix~a group of letters added to the beginning of a word to change its meaning~"Un-" is a common prefix that means "not."
+prehistoric~relating to a time in history before written records~Dinosaurs lived in the prehistoric era.
+prejudice~a preconceived opinion not based on reason or actual experience~We should treat everyone fairly and without prejudice.
+prevent~to stop something from happening~Regular handwashing can help prevent the spread of germs.
+preview~a sneak peek or early look at something before it is officially released~We got to see a preview of the upcoming movie.
+principal~a person in a leading position, often the head of a school~The principal of the school greeted the students in the morning.
+principle~a fundamental truth or rule that guides behavior or actions~Honesty is an important principle to live by.
+program~a set of instructions for a computer or a planned series of events~I'm learning how to write computer programs.
+punctuate~to add punctuation marks to written or printed text~Remember to punctuate your sentences correctly.
+punctuation~the marks used in writing to separate sentences and clarify meaning~Commas and periods are examples of punctuation.
+puncture~a small hole made by a sharp object~I got a puncture in my bicycle tire.
+punishment~a penalty or consequence for wrongdoing~Time-out is a common punishment for misbehaving children.
+purchases~items bought or acquired by paying money~I made some online purchases yesterday.
+purpose~the reason for which something is done or created~The purpose of this meeting is to discuss our project.
+python~a type of programming language~Python is known for its simplicity and readability.
+quarter~one of four equal parts of something~She cut the pizza into quarters.
+question~a sentence or phrase used to ask for information or seek clarification~Do you have any questions about the assignment?
+quickest~fastest or most rapid~The quickest way to get to the store is to take the highway.
+quiet~making little or no noise; peaceful~The library is a place for quiet study.
+quite~to a significant extent; fairly or completely~The cake was quite delicious.
+radio~a device for receiving or transmitting radio waves and broadcasting sound or communication~I listen to the radio during my morning commute.
+raise~to lift or move something to a higher position~She tried to raise the window to let in some fresh air.
+ready~prepared or in a suitable state for an activity or purpose~Are you ready for the test?
+reappear~to appear again after having disappeared~The magician made the coin reappear in his hand.
+rebuild~to construct or build something again, typically after damage or destruction~They had to rebuild their house after the fire.
+recall~to remember or bring back to mind something from the past~I can't recall where I put my keys.
+receive~to accept or take possession of something that is given, offered, or sent~I will receive the package tomorrow.
+receiving~the act of accepting or taking possession of something~The receiving of gifts during the holidays is always exciting.
+reckless~showing a lack of caution or concern for the consequences of one's actions~His reckless driving led to a car accident.
+recover~to return to a normal or healthy state after an illness, injury, or setback~I hope you recover quickly from your cold.
+referee~an official who ensures that the rules of a game or sport are followed~The referee made a fair call during the soccer match.
+region~a specific area or part of a larger geographic area~The wine produced in this region is famous for its quality.
+regular~happening or recurring at consistent intervals~She has a regular exercise routine.
+reign~the period during which a monarch rules or holds power~Queen Elizabeth's reign has been long and prosperous.
+relation~a person connected by blood or marriage; a family member~My aunt is a close relation on my mother's side.
+remember~to recall something from memory~I always remember my childhood vacations.
+representative~a person chosen to act or speak for others~Our class elected a representative to voice our concerns to the principal.
+rewrite~to write something again in a different way~The author had to rewrite the entire chapter to make it more engaging.
+rhyme~words that sound the same at the end~"Cat" and "hat" rhyme because they both end with "-at."
+rhythm~a regular repeated pattern of beats or sounds~The music had a catchy rhythm that made everyone want to dance.
+roofs~the top covering of a building or structure~The snow on the roofs of the houses sparkled in the sunlight.
+rookie~a beginner or someone new to a job or activity~The rookie firefighter had to learn the ropes quickly.
+rough~having an uneven or irregular surface~The path through the forest was rough and full of rocks.
+roughest~the superlative form of "rough" meaning the most uneven or harsh~The roughest part of the journey was crossing the rocky terrain.
+route~a path or way to get from one place to another~We took a scenic route to enjoy the countryside.
+royal~related to or characteristic of a king or queen~The royal family lived in a magnificent palace.
+sadness~a feeling of unhappiness or sorrow~His face showed deep sadness when he heard the bad news.
+scene~a place or setting where an event occurs~The crime scene was carefully investigated by the police.
+school~an institution for teaching and learning~My daughter goes to a local school.
+scratch~to mark or damage the surface of something with a sharp object~I accidentally scratched my phone screen.
+second~the unit of time following a minute~Wait for a second; I'll be right back.
+segment~a part or section of something larger~The documentary was divided into several segments to cover different topics.
+semicircle~half of a circle's circumference or shape~The rainbow formed a beautiful semicircle in the sky.
+several~more than two but not many~I have several books on my reading list.
+shoes~protective coverings for the feet~I need to buy new shoes for my workout.
+should~used to indicate obligation or duty~You should always wear your seatbelt when driving.
+siege~a military operation where a place is surrounded and cut off~The castle endured a long siege during the war.
+signal~a sign or indication that conveys information or instructions~The traffic light turned red, which was a signal to stop.
+silent~making no sound or noise~The library was so silent that you could hear a pin drop.
+since~from a particular point in the past until now~I've been working here since 2010.
+skiing~the activity of gliding on snow using skis~We enjoy skiing in the mountains during the winter.
+skillful~having or showing skill or expertise~She is a skillful artist who can paint incredibly detailed portraits.
+sleigh~a vehicle typically pulled by horses and used for carrying people over snow or ice~Santa Claus rides in a sleigh pulled by reindeer.
+smiling~having a happy or pleased facial expression~The children were smiling with delight as they opened their presents.
+smuggler~a person who illegally transports goods or people across borders~The customs officers arrested the smuggler at the border.
+somehow~in a way that is not known or understood exactly~Somehow, she managed to solve the puzzle.
+something~a thing that is not known, named, or specified explicitly~Can you pass me something to drink?
+special~better, greater, or otherwise different from what is usual~Today is a special day because it's our anniversary.
+speedily~quickly or with great speed~The ambulance arrived speedily to the accident scene.
+spoil~to ruin or damage the quality or condition of something~Leaving the milk out in the sun will spoil it.
+spoken~communicated verbally through speech~Her spoken words were filled with wisdom.
+sprout~to begin to grow or develop, especially from a seed or bud~Tiny green sprouts were emerging from the soil in the garden.
+square~a four-sided geometric shape with all sides of equal length~The room had a square table in the center.
+stalk~the main stem of a plant that supports leaves, flowers, or fruit~The corn stalks were tall and sturdy in the field.
+stare~to look at something or someone intensely for an extended period~He couldn't help but stare at the beautiful sunset.
+station~a place where vehicles, especially trains or buses, stop for passengers~The train arrived at the station right on time.
+straight~not curved or bent; in a direct line or manner~The road ahead is long and straight.
+studied~examined carefully or in detail~She studied the map to plan her route.
+stuffed~filled with a soft material or substance~The stuffed toy was cuddly and huggable.
+stunt~a daring or difficult feat performed to entertain or amuse others~The movie had some incredible stunt sequences.
+substitute~a person or thing that takes the place of another when needed~I used applesauce as a substitute for eggs in the recipe.
+successful~achieving the desired results or outcomes~Their teamwork made the project a successful endeavor.
+sudden~happening quickly and unexpectedly~The sudden rain shower caught us off guard.
+sugar~a sweet substance often used as a sweetener or in cooking~I like to add a little sugar to my coffee.
+surprise~an unexpected event or gift that causes astonishment or joy~She planned a surprise party for her friend's birthday.
+surrounded~to be all around someone or something~The forest surrounded the small cabin.
+swimming~the act of moving through water by using one's arms and legs~We enjoyed swimming in the clear blue ocean.
+talking~the act of communicating verbally with someone~She was talking to her friend on the phone.
+teacher~a person who educates or imparts knowledge to others, often in a school setting~The teacher explained the math problem to the students.
+technology~the application of scientific knowledge to create tools, machines, and systems for practical purposes~The rapid advancement of technology has changed our lives.
+telegraph~an early form of long-distance communication using electrical signals~The telegraph revolutionized communication in the 19th century.
+telephone~a device for voice communication over long distances using electrical signals~She answered the telephone when it rang.
+telescope~an optical instrument used to observe distant objects in space or on Earth~We used a telescope to view the stars.
+temperature~a measure of how hot or cold something is~The temperature outside was below freezing.
+tension~the state of being stretched tight or the mental or emotional strain between individuals or groups~There was tension in the room as they discussed the issue.
+terrible~causing fear, dread, or extreme discomfort; very bad~The storm was so terrible that it caused widespread damage.
+their~belonging to or associated with a group of people or things previously mentioned~The children played with their toys in the park.
+themselves~the reflexive form of "they" or "them," indicating that they are performing an action on themselves~They dressed themselves for the party.
+thirsty~feeling the need to drink because of dehydration~After the long hike, they were all very thirsty.
+though~despite the fact that; however~She studied hard, though the exam was challenging.
+thought~the process of reasoning or considering something in one's mind~Deep thought is required to solve complex problems.
+thoughtful~showing consideration for others; kind and considerate~He gave her a thoughtful gift on her birthday.
+thoughtless~lacking consideration or care for others; impulsive or careless~His thoughtless remark hurt her feelings.
+thousand~a numerical value equal to 1,000~There were a thousand stars in the night sky.
+threw~past tense of "throw," which means to propel something through the air with force~He threw the ball to his teammate.
+throat~the passage in the neck through which food and air pass; the front part of the neck~His sore throat made it difficult to speak.
+through~moving from one side or end to the other; finished~They walked through the forest to reach the other side.
+thumb~the short, thick first digit of the human hand, set lower and apart from the other four and opposable to them~He used his thumb to press the button.
+Thursday~the fifth day of the week, following Wednesday and preceding Friday~They planned to meet on Thursday afternoon.
+tiniest~superlative form of "tiny," meaning extremely small in size~The tiniest details can sometimes be the most important.
+tired~feeling a need for rest or sleep due to fatigue~After a long day at work, she was feeling tired.
+together~in a group or in close proximity; with each other~They walked together in the park.
+tomorrow~the day that follows today~We'll finish the project tomorrow.
+tonight~the evening of the current day~We have plans to go out to dinner tonight.
+towel~a piece of cloth used for drying the body or hands after washing~She grabbed a towel to dry off after swimming.
+trace~a mark or indication of the existence or passing of something~There was a trace of paint on the wall.
+trading~the activity of buying and selling goods or services, typically in the context of commerce~International trading has a significant impact on the economy.
+transport~the movement of people, goods, or animals from one place to another~Public transport is a convenient way to commute.
+traveling~the act of journeying from one place to another, especially over long distances~They were traveling to Europe for their vacation.
+tried~past tense of "try," meaning to make an effort to do something~He tried his best to solve the puzzle.
+triumph~a great victory or achievement; a feeling of joy or satisfaction from success~Their triumph in the championship game was celebrated by the whole town.
+trophy~a reward or symbol of victory or achievement, often in the form of a decorative object~He proudly displayed his sports trophy on the shelf.
+trouble~difficulty, problems, or a state of distress or turmoil~They encountered trouble when their car broke down.
+truth~the quality or state of being in accordance with fact or reality; honesty~The search for truth is a fundamental human endeavor.
+truthful~habitually speaking the truth; honest and sincere~It's important to be truthful in all your dealings.
+trying~causing difficulty or frustration; testing one's patience or resolve~The challenging project was trying for everyone involved.
+Tuesday~the third day of the week, following Monday and preceding Wednesday~They have a meeting scheduled for Tuesday morning.
+umpire~an official who enforces the rules in sports and makes decisions about plays and penalties~The umpire made a fair call during the baseball game.
+unable~lacking the necessary ability, power, or resources to do something~She was unable to attend the event due to a prior commitment.
+unaware~not conscious or informed about something; lacking knowledge or awareness~He was unaware of the surprise party planned for him.
+uncertain~not sure; having doubts or hesitations~The outcome of the experiment was uncertain.
+uncomfortable~causing physical or mental discomfort; not at ease~The stiff chair was very uncomfortable to sit in.
+understood~past tense of "understand," meaning to grasp the meaning or significance of something~She nodded to indicate that she understood the instructions.
+ungrateful~not showing or feeling gratitude or appreciation for something received or done for oneself~His ungrateful attitude hurt her feelings.
+universe~all of space, including all matter, energy, galaxies, stars, planets, and cosmic entities~The study of the universe is a fascinating field of science.
+unknown~not known or familiar~The identity of the mysterious person was still unknown.
+until~up to the point in time~I will wait here until you finish your work.
+unusual~not usual, uncommon~Seeing a kangaroo in our neighborhood is unusual.
+urgent~requiring immediate action or attention~The doctor said the situation was urgent and needed immediate treatment.
+useless~not serving any purpose or function~The broken phone was useless and couldn't be repaired.
+usually~most often, typically~I usually have cereal for breakfast.
+variety~a range of different things or types~The store offers a variety of fruits and vegetables.
+vertical~positioned straight up and down, perpendicular to the ground~The flagpole stood vertical in the strong wind.
+wasteful~using resources or money inefficiently~Leaving the lights on all night is wasteful.
+watches~devices worn on the wrist to tell time~She glanced at her watch to check the time.
+weaker~having less strength or power~The younger sibling is usually weaker than the older one.
+weakness~a lack of strength or a vulnerability~His weakness for chocolate made it hard to resist.
+weigh~to determine the heaviness of an object~I need to weigh this package before mailing it.
+weighs~third person singular form of "weigh"~The suitcase weighs more than 50 pounds.
+where~at or to what place or location~Where did you leave your keys?
+which~used to ask about a specific choice or option~Which book would you like to read?
+whistle~a high-pitched sound produced by blowing air through the lips~The referee blew the whistle to stop the game.
+white~the color of snow or milk~The wedding dress was beautiful in pure white.
+whole~complete or entire, not divided or fragmented~She ate the whole pizza by herself.
+whose~belonging to or associated with which person or thing~Whose backpack is this?
+widest~having the greatest width or breadth~The river was widest at its confluence with the larger river.
+women~adult female humans~Women have made significant contributions to science.
+wonder~a feeling of amazement or curiosity~I wonder how they managed to complete the project so quickly.
+wonderful~extremely good or delightful~It was a wonderful day spent at the beach.
+worried~anxious or concerned about something~She was worried about her upcoming exam.
+worries~things that cause anxiety or concern~Don't let your worries keep you up at night.
+worthless~having no value or importance~The old, broken toy was considered worthless.
+wrestle~to engage in physical combat or struggle~They decided to wrestle to settle their argument.
+write~to put words or symbols on paper or a digital device~Please write your name on the form.
+writing~the act or process of composing text~Her writing was so eloquent that it moved many readers.
+wrong~not correct or accurate~It's wrong to lie to your friends.
+wrote~past tense of "write"~She wrote a heartfelt letter to her grandmother.
