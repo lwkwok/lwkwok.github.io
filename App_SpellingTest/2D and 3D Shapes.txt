@@ -1,0 +1,21 @@
+Circle~A round shape with all points equidistant~The tire is a perfect circle.
+Square~A four-sided polygon with equal sides and~The table has a square top.
+Rectangle~A four-sided polygon with opposite sides~The painting is in a rectangular frame.
+Triangle~A three-sided polygon~The mountain forms a triangular peak.
+Pentagon~A five-sided polygon~The sign has a red pentagon shape.
+Hexagon~A six-sided polygon~The honeycomb has hexagonal cells.
+Octagon~An eight-sided polygon~The stop sign is an octagon.
+Parallelogram~A four-sided polygon with opposite sides~The book has a parallelogram shape.
+Rhombus~A four-sided polygon with all sides equal~The kite is shaped like a rhombus.
+Trapezoid~A four-sided polygon with one pair of~The field forms a trapezoidal area.
+Sphere~A three-dimensional round object~The Earth is a sphere.
+Cube~A three-dimensional box with six equal sides~The gift was wrapped in a cube-shaped box.
+Rectangular~Having the shape of a rectangle~The room is rectangular in design.
+Triangular~Having the shape of a triangle~The pizza slice is triangular.
+Prism~A three-dimensional shape with two identical~The glass has a prism design.
+Cylinder~A three-dimensional shape with circular bases~The can is a cylinder.
+Cone~A three-dimensional shape with a circular base~The party hat is a cone.
+Pyramid~A three-dimensional shape with a polygonal~The ancient Egyptians built pyramids.
+Sphere~A three-dimensional round object~The crystal ball is a sphere.
+Ellipsoid~A three-dimensional shape resembling an oval~The planet's orbit is an ellipsoid.
+Torus~A three-dimensional shape resembling a donut~The donut is shaped like a torus.
