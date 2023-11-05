@@ -114,7 +114,7 @@
                         option.value = option.textContent = fileName.trim();
                         selectElement.appendChild(option);
                     });
-                    loadWordList(); // Load the first list by default
+                    // loadWordList(); // Load the first list by default
                 })
                 .catch(error => {
                     alert('Error populating file select: ' + error.message);
