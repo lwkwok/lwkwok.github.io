@@ -11,19 +11,25 @@
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        position: relative;
         height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
     #dropdown {
-        position: absolute;
-        top: 10px;
+        margin-top: 10px;
         width: 100%;
         display: flex;
         justify-content: center;
     }
-    #container {
-        text-align: center;
-        padding: 20px;
+    #content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* Space out content and buttons */
+        width: 100%;
+    }
+    #wordContainer {
         flex-grow: 1;
         display: flex;
         flex-direction: column;
@@ -32,9 +38,8 @@
     }
     #wordDisplay span {
         color: white;
-        font-size: 4em; /* Larger text */
+        font-size: 4em;
         font-weight: bold;
-        display: block;
     }
     #meaningDisplay {
         color: lightblue;
@@ -42,28 +47,22 @@
     }
     #sentenceDisplay {
         color: lightgrey;
-        margin-top: 1em; /* Space from the meaning */
-    }
-    #sentenceDisplay span {
-        display: block; /* New line for sentence */
+        margin-top: 1em;
     }
     select, button {
         margin: 10px;
-        padding: 15px 25px; /* Larger buttons */
+        padding: 15px 25px;
         font-size: 1em;
         cursor: pointer;
     }
     #navigation {
-        position: absolute;
-        bottom: 20px;
-        left: 0;
-        right: 0;
+        width: 100%;
+        padding: 10px 0;
         display: flex;
-        justify-content: space-around; /* Space out buttons */
-        padding: 0 20px;
+        justify-content: space-around;
     }
     #backButton {
-        visibility: hidden; /* Start as hidden */
+        visibility: hidden;
     }
 </style>
 </head>
@@ -72,16 +71,17 @@
 <div id="dropdown">
     <select id="fileSelect" onchange="loadWordList()"></select>
 </div>
-<div id="container">
-    <div id="wordDisplay"></div>
-    <div id="meaningDisplay"></div>
-    <div id="sentenceDisplay"></div>
+<div id="content">
+    <div id="wordContainer">
+        <div id="wordDisplay"></div>
+        <div id="meaningDisplay"></div>
+        <div id="sentenceDisplay"></div>
+    </div>
+    <div id="navigation">
+        <button id="backButton" onclick="displayPreviousWord()">Back</button>
+        <button id="nextButton" onclick="displayNextWord()">Next</button>
+    </div>
 </div>
-<div id="navigation">
-    <button id="backButton" onclick="displayPreviousWord()">Back</button>
-    <button id="nextButton" onclick="displayNextWord()">Next</button>
-</div>
-
 <script>
 let wordList = [];
 let currentIndex = -1;
