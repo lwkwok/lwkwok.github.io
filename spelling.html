@@ -185,7 +185,7 @@ function speakWord() {
     
 function adjustFontSize(word) {
     const wordDisplay = document.getElementById('wordDisplay');
-    if (word.length > 10) {
+    if (word.length > 7) {
         wordDisplay.style.fontSize = '1em'; // Smaller font size for longer words
     } else {
         wordDisplay.style.fontSize = '1.5em'; // Larger font size for shorter words
