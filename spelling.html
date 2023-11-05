@@ -13,31 +13,34 @@
             height: 100vh;
             margin: 0;
             background-color: #f7f7f7;
+            text-align: center; /* Ensure text is centered */
         }
         #wordDisplay {
             font-size: 4em; /* Make the font size huge */
             font-weight: bold; /* Bold the font */
+            color: blue; /* Color the word blue */
             margin-bottom: 0.5em;
         }
         #meaningDisplay {
             font-size: 1.5em;
-            color: #555;
+            color: #555; /* Slightly darker color for meaning */
             margin-bottom: 0.25em;
         }
         #sentenceDisplay {
             font-size: 1.2em;
+            color: lightgrey; /* Light grey color for the example sentence */
             margin-bottom: 20px;
             max-width: 800px;
-            text-align: center;
         }
         .button-container {
             display: flex;
-            justify-content: space-between;
-            width: 200px;
+            justify-content: center; /* Center the button container */
+            width: 100%; /* Set width to full width to center children */
         }
         button {
             padding: 10px 20px;
             font-size: 1em;
+            margin: 0 10px; /* Add space between buttons */
         }
     </style>
 </head>
