@@ -89,7 +89,7 @@
         <div id="sentenceDisplay"></div>
     </div>
     <div id="navigation">
-        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <button id="backButton" onclick="displayPreviousWord()">Back</button>
         <button id="speakButton" onclick="speakWord()">Speak</button>
         <button id="nextButton" onclick="displayNextWord()">Next</button>
@@ -185,7 +185,9 @@ function speakWord() {
     
 function adjustFontSize(word) {
     const wordDisplay = document.getElementById('wordDisplay');
-    if (word.length > 7) {
+    if (word.length > 11) {
+        wordDisplay.style.fontSize = '0.7em'; // Smaller font size for longer words
+    } else if (word.length > 7) {
         wordDisplay.style.fontSize = '1em'; // Smaller font size for longer words
     } else {
         wordDisplay.style.fontSize = '1.5em'; // Larger font size for shorter words
