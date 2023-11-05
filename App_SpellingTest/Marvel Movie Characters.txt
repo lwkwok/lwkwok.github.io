@@ -1,0 +1,15 @@
+Thor~The Norse god of thunder and a superhero in the Marvel Universe, wielding the magical hammer Mjolnir.~Thor battled his evil brother, Loki, to save Asgard.
+Hulk~A superhero with immense strength and green skin, the alter ego of physicist Bruce Banner who transforms when angered.~The Hulk smashed through the wall as if it were made of paper.
+Loki~The Norse god of mischief and Thor's adoptive brother, known for his shapeshifting and deceptive nature.~Loki's schemes often lead to unintended chaos.
+Groot~A member of the Guardians of the Galaxy, Groot is a sentient tree-like creature known for his phrase, "I am Groot."~Groot sacrificed himself to save his friends, only to regrow from a sprout.
+Nebula~A skilled combatant and space pirate, she is the adopted daughter of the villain Thanos and sister to Gamora.~Nebula's quest for vengeance against Thanos drove many of her actions.
+Gamora~An orphan from an alien world who was adopted by Thanos and trained to be his assassin, later becoming a member of the Guardians of the Galaxy.~Gamora sought redemption for her past crimes by fighting against her adoptive father.
+Vision~An android with a synthetic vibranium body created by Ultron and given life by the Mind Stone, he is a member of the Avengers.~Vision struggled with his desire to be more human.
+Falcon~An ally of Captain America, Falcon has a winged harness that allows him to fly and is a skilled tactician.~Falcon took up the mantle of Captain America after Steve Rogers retired.
+Hawkeye~A master archer and member of the Avengers, known for his precision and use of specialized arrows in combat.~Hawkeye's aim is unmatched, hitting targets from incredible distances.
+Wasp~A superhero with the ability to shrink in size and fly using a specialized suit, she is also known as Hope van Dyne.~Wasp partnered with Ant-Man to embark on quantum realm expeditions.
+Ant-Man~A superhero with the ability to shrink in size and increase in strength, utilizing a suit created by Hank Pym.~Ant-Man played a crucial role in the Avengers' plan to reverse the effects of the Snap.
+Blade~A vampire hunter with superhuman abilities and skills, waging a war against the undead.~Blade's arsenal is designed to hunt and eliminate vampires.
+Ghost~A character with the ability to phase through solid objects, and a formidable adversary due to her stealth and combat skills.~Ghost's intangibility made her a difficult opponent for Ant-Man and the Wasp.
+Mystique~A mutant with the ability to shapeshift into anyone, Mystique's complex character straddles the line between hero and villain.~Mystique infiltrated the highest levels of government by assuming the identity of key officials.
+Storm~A mutant with the power to control the weather, Storm is a member of the X-Men and often seen as a leader within the group.~Storm calmed the raging tempest with a wave of her hand.
