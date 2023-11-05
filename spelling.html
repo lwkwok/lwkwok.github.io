@@ -189,8 +189,10 @@ function adjustFontSize(word) {
         wordDisplay.style.fontSize = '0.8em'; // Smaller font size for longer words
     } else if (word.length > 7) {
         wordDisplay.style.fontSize = '1em'; // Smaller font size for longer words
+    } else if (word.length > 3) {
+        wordDisplay.style.fontSize = '1.4em'; // Smaller font size for longer words        
     } else {
-        wordDisplay.style.fontSize = '1.5em'; // Larger font size for shorter words
+        wordDisplay.style.fontSize = '1.8em'; // Larger font size for shorter words
     }
 }    
 
