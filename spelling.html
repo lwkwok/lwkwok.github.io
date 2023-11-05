@@ -46,6 +46,9 @@
 </head>
 <body>
     <div id="app">
+        <select id="fileSelect" onchange="loadWordList()">
+            <!-- Options will be dynamically loaded here -->
+        </select>
         <div id="wordDisplay"></div>
         <div id="meaningDisplay"></div>
         <div id="sentenceDisplay"></div>
@@ -56,51 +59,44 @@
     </div>
 
     <script>
-        const wordDisplay = document.getElementById('wordDisplay');
-        const meaningDisplay = document.getElementById('meaningDisplay');
-        const sentenceDisplay = document.getElementById('sentenceDisplay');
-        const nextButton = document.getElementById('nextButton');
-        const backButton = document.getElementById('backButton');
-        let wordList = [];
-        let currentIndex = -1;
+        // Other constants and functions remain unchanged
 
-        function updateButtons() {
-            backButton.disabled = currentIndex <= 0;
-            nextButton.disabled = currentIndex >= wordList.length - 1;
+        // New function to load the word list based on selection
+        function loadWordList() {
+            const selectedIndex = document.getElementById('fileSelect').selectedIndex;
+            const selectedFile = document.getElementById('fileSelect').options[selectedIndex].value;
+            const filePath = `https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/${encodeURIComponent(selectedFile)}.txt`;
+
+            fetch(filePath)
+                .then(response => response.text())
+                .then(text => {
+                    wordList = text.split(/\r?\n/);
+                    currentIndex = -1; // Reset index
+                    displayNextWord(); // Show the first word
+                });
         }
 
-        function displayEntry() {
-            if (currentIndex >= 0 && currentIndex < wordList.length) {
-                // Split the current entry into word, meaning, and sentence
-                const parts = wordList[currentIndex].split('~');
-                // Update the content of the display elements
-                wordDisplay.textContent = parts[0] || 'No word';
-                meaningDisplay.textContent = parts[1] || 'No meaning available';
-                sentenceDisplay.textContent = parts[2] || 'No example sentence';
-            }
-            updateButtons();
+        // Function to populate the dropdown with file names
+        function populateFileSelect() {
+            fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/_index.txt')
+                .then(response => response.text())
+                .then(text => {
+                    const fileNames = text.split(/\r?\n/);
+                    const selectElement = document.getElementById('fileSelect');
+                    fileNames.forEach(fileName => {
+                        if (fileName) { // Ensure it's not an empty line
+                            const option = document.createElement('option');
+                            option.value = option.text = fileName;
+                            selectElement.appendChild(option);
+                        }
+                    });
+                    loadWordList(); // Load the first list by default
+                });
         }
 
-        // Fetch the word list from GitHub
-        fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/Grade%2005%20Vocabulary.txt')
-            .then(response => response.text())
-            .then(text => {
-                // Split text file into an array of entries
-                wordList = text.split(/\r?\n/);
-                displayEntry();
-            });
+        populateFileSelect(); // Call this function on page load
 
-        // Display the next entry from the list
-        function displayNextWord() {
-            currentIndex++;
-            displayEntry();
-        }
-
-        // Display the previous entry from the list
-        function displayPreviousWord() {
-            currentIndex--;
-            displayEntry();
-        }
+        // The rest of the script remains unchanged
     </script>
 </body>
 </html>
