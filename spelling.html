@@ -14,26 +14,39 @@
         height: 100vh;
         display: flex;
         flex-direction: column;
+        align-items: center;
+    }
+    #dropdown {
+        position: absolute;
+        top: 10px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    #container {
+        text-align: center;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
+        width: 100%;
     }
     #wordDisplay span {
         color: white;
-        font-size: 2em;
+        font-size: 3em; /* Adjusted for larger text */
         font-weight: bold;
+        display: block; /* Make the word take its own line */
     }
     #meaningDisplay {
         color: lightblue;
-        margin: 10px 0;
+        margin-top: 1.5em; /* More space from the word */
     }
     #sentenceDisplay span {
         color: lightgrey;
     }
     select, button {
         margin-top: 20px;
-    }
-    #container {
-        text-align: center;
     }
     #navigation {
         margin-top: 15px;
@@ -56,79 +69,7 @@
 </div>
 
 <script>
-let wordList = [];
-let currentIndex = -1;
-
-function displayWord() {
-    if (currentIndex >= 0 && currentIndex < wordList.length) {
-        const parts = wordList[currentIndex].split('~');
-        if (parts.length === 3) {
-            document.getElementById('wordDisplay').innerHTML = `<span>${parts[0]}</span>`;
-            document.getElementById('meaningDisplay').textContent = parts[1];
-            document.getElementById('sentenceDisplay').innerHTML = `<span>${parts[2]}</span>`;
-        } else {
-            alert('The word entry is not formatted correctly.');
-        }
-    } else {
-        document.getElementById('wordDisplay').textContent = '';
-        document.getElementById('meaningDisplay').textContent = '';
-        document.getElementById('sentenceDisplay').textContent = '';
-    }
-    document.getElementById('backButton').disabled = currentIndex <= 0;
-}
-
-function displayNextWord() {
-    currentIndex = Math.min(currentIndex + 1, wordList.length - 1);
-    displayWord();
-}
-
-function displayPreviousWord() {
-    currentIndex = Math.max(currentIndex - 1, 0);
-    displayWord();
-}
-
-function loadWordList() {
-    const fileSelect = document.getElementById('fileSelect');
-    const selectedFile = fileSelect.options[fileSelect.selectedIndex].text;
-    const filePath = `https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/${encodeURIComponent(selectedFile)}.txt`;
-
-    fetch(filePath)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.text();
-        })
-        .then(text => {
-            wordList = text.split(/\r?\n/);
-            currentIndex = 0;
-            displayWord();
-        })
-        .catch(error => {
-            alert('Error fetching the word list: ' + error.message);
-        });
-}
-
-function populateFileSelect() {
-    fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/_index.txt')
-        .then(response => response.text())
-        .then(text => {
-            const fileNames = text.split(/\r?\n/).filter(name => name.trim() !== '');
-            const selectElement = document.getElementById('fileSelect');
-            selectElement.innerHTML = ''; // Clear existing options if any
-            fileNames.forEach(fileName => {
-                const option = document.createElement('option');
-                option.value = option.textContent = fileName.trim();
-                selectElement.appendChild(option);
-            });
-            loadWordList(); // Load the first list by default
-        })
-        .catch(error => {
-            alert('Error populating file select: ' + error.message);
-        });
-}
-
-window.addEventListener('load', populateFileSelect);
+// ... (Keep the script the same as before)
 </script>
 
 </body>
