@@ -15,8 +15,20 @@
             background-color: #f7f7f7;
         }
         #wordDisplay {
-            font-size: 2em;
+            font-size: 4em; /* Make the font size huge */
+            font-weight: bold; /* Bold the font */
+            margin-bottom: 0.5em;
+        }
+        #meaningDisplay {
+            font-size: 1.5em;
+            color: #555;
+            margin-bottom: 0.25em;
+        }
+        #sentenceDisplay {
+            font-size: 1.2em;
             margin-bottom: 20px;
+            max-width: 800px;
+            text-align: center;
         }
         .button-container {
             display: flex;
@@ -31,7 +43,9 @@
 </head>
 <body>
     <div id="app">
-        <div id="wordDisplay">Press Next to start</div>
+        <div id="wordDisplay"></div>
+        <div id="meaningDisplay"></div>
+        <div id="sentenceDisplay"></div>
         <div class="button-container">
             <button id="backButton" onclick="displayPreviousWord()" disabled>Back</button>
             <button id="nextButton" onclick="displayNextWord()">Next</button>
@@ -40,6 +54,8 @@
 
     <script>
         const wordDisplay = document.getElementById('wordDisplay');
+        const meaningDisplay = document.getElementById('meaningDisplay');
+        const sentenceDisplay = document.getElementById('sentenceDisplay');
         const nextButton = document.getElementById('nextButton');
         const backButton = document.getElementById('backButton');
         let wordList = [];
@@ -50,9 +66,14 @@
             nextButton.disabled = currentIndex >= wordList.length - 1;
         }
 
-        function displayWord() {
+        function displayEntry() {
             if (currentIndex >= 0 && currentIndex < wordList.length) {
-                wordDisplay.textContent = wordList[currentIndex];
+                // Split the current entry into word, meaning, and sentence
+                const parts = wordList[currentIndex].split('~');
+                // Update the content of the display elements
+                wordDisplay.textContent = parts[0] || 'No word';
+                meaningDisplay.textContent = parts[1] || 'No meaning available';
+                sentenceDisplay.textContent = parts[2] || 'No example sentence';
             }
             updateButtons();
         }
@@ -61,21 +82,21 @@
         fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/Pre-Kindergarten%20Sight%20Words.txt')
             .then(response => response.text())
             .then(text => {
-                // Split text file into an array of words
+                // Split text file into an array of entries
                 wordList = text.split(/\r?\n/);
-                displayWord();
+                displayEntry();
             });
 
-        // Display the next word from the list
+        // Display the next entry from the list
         function displayNextWord() {
             currentIndex++;
-            displayWord();
+            displayEntry();
         }
 
-        // Display the previous word from the list
+        // Display the previous entry from the list
         function displayPreviousWord() {
             currentIndex--;
-            displayWord();
+            displayEntry();
         }
     </script>
 </body>
