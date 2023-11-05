@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parks List</title>
+</head>
+<body>
+    <h1>Parks List from GitHub</h1>
+    <div id="content">
+        <!-- The content from the text file will be displayed here -->
+    </div>
+    <script>
+        fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/Flashcard/Parks.txt')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('content').innerText = data;
+            })
+            .catch(error => {
+                console.error('Error fetching the text file:', error);
+                document.getElementById('content').innerText = 'Failed to load content.';
+            });
+    </script>
+</body>
+</html>
