@@ -34,35 +34,23 @@
     }
     #wordDisplay span {
         color: white;
-        font-size: 4em; /* Even larger text */
+        font-size: 3em; /* Larger text */
         font-weight: bold;
-        display: block;
+        display: block; /* Word on its own line */
+        margin-bottom: 0.5em;
     }
     #meaningDisplay {
         color: lightblue;
-        margin-top: 1em;
-    }
-    #sentenceDisplay {
-        color: lightgrey;
-        margin-top: 1em; /* Space from the meaning */
+        margin-top: 1.5em; /* More space from the word */
     }
     #sentenceDisplay span {
-        display: block; /* New line for sentence */
+        color: lightgrey;
     }
     select, button {
-        margin: 10px;
-        padding: 15px 25px; /* Larger buttons */
-        font-size: 1em;
-        cursor: pointer;
+        margin-top: 20px;
     }
     #navigation {
-        display: flex;
-        justify-content: space-around; /* Space out buttons */
-        width: 100%;
-        max-width: 600px; /* Adjust as needed */
-    }
-    #backButton {
-        visibility: hidden; /* Start as hidden */
+        margin-top: 15px;
     }
 </style>
 </head>
@@ -77,7 +65,7 @@
     <div id="sentenceDisplay"></div>
     <div id="navigation">
         <button id="backButton" onclick="displayPreviousWord()">Back</button>
-        <button id="nextButton" onclick="displayNextWord()">Next</button>
+        <button onclick="displayNextWord()">Next</button>
     </div>
 </div>
 
@@ -100,7 +88,7 @@ function displayWord() {
         document.getElementById('meaningDisplay').textContent = '';
         document.getElementById('sentenceDisplay').textContent = '';
     }
-    document.getElementById('backButton').style.visibility = currentIndex <= 0 ? 'hidden' : 'visible';
+    document.getElementById('backButton').disabled = currentIndex <= 0;
 }
 
 function displayNextWord() {
@@ -141,20 +129,19 @@ function populateFileSelect() {
         .then(text => {
             const fileNames = text.split(/\r?\n/).filter(name => name.trim() !== '');
             const selectElement = document.getElementById('fileSelect');
-            selectElement.innerHTML = ''; // Clear existing options
+            selectElement.innerHTML = ''; // Clear existing options if any
             fileNames.forEach(fileName => {
                 const option = document.createElement('option');
-                option.value = fileName;
-                option.text = fileName.replace(/\.txt$/, '').replace(/%20/g, ' ');
+                option.value = option.textContent = fileName.trim();
                 selectElement.appendChild(option);
             });
+            loadWordList(); // Load the first list by default
         })
         .catch(error => {
-            alert('Error populating the file select: ' + error.message);
+            alert('Error populating file select: ' + error.message);
         });
 }
 
-// Populate the dropdown when the page loads
 window.addEventListener('load', populateFileSelect);
 </script>
 
