@@ -26,7 +26,7 @@
         flex: 1;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: center;
         width: calc(100% - 40px); /* Adjust width considering padding */
         padding-bottom: 70px; /* Extra padding at the bottom */
     }
@@ -185,9 +185,9 @@ function speakWord() {
 function adjustFontSize(word) {
     const wordDisplay = document.getElementById('wordDisplay');
     if (word.length > 10) {
-        wordDisplay.style.fontSize = '2em'; // Smaller font size for longer words
+        wordDisplay.style.fontSize = '1em'; // Smaller font size for longer words
     } else {
-        wordDisplay.style.fontSize = '3em'; // Larger font size for shorter words
+        wordDisplay.style.fontSize = '2em'; // Larger font size for shorter words
     }
 }    
 
