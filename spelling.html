@@ -10,7 +10,7 @@
         color: white;
         font-family: Arial, sans-serif;
         margin: 0;
-        padding: 0;
+        padding: 0 20px 20px 20px; /* Padding on left, right and bottom */
         height: 100vh;
         display: flex;
         flex-direction: column;
@@ -18,7 +18,7 @@
     }
     #dropdown {
         margin-top: 10px;
-        width: 100%;
+        width: calc(100% - 40px); /* Adjust width considering padding */
         display: flex;
         justify-content: center;
     }
@@ -26,8 +26,9 @@
         flex: 1;
         display: flex;
         flex-direction: column;
-        justify-content: space-between; /* Space out content and buttons */
-        width: 100%;
+        justify-content: space-between;
+        width: calc(100% - 40px); /* Adjust width considering padding */
+        padding-bottom: 20px; /* Extra padding at the bottom */
     }
     #wordContainer {
         flex-grow: 1;
@@ -56,13 +57,12 @@
         cursor: pointer;
     }
     #navigation {
-        width: 100%;
-        padding: 10px 0;
+        width: calc(100% - 40px); /* Adjust width considering padding */
         display: flex;
         justify-content: space-around;
     }
     #backButton {
-        visibility: visible;
+        visibility: hidden;
     }
 </style>
 </head>
@@ -82,6 +82,8 @@
         <button id="nextButton" onclick="displayNextWord()">Next</button>
     </div>
 </div>
+
+    
 <script>
 let wordList = [];
 let currentIndex = -1;
