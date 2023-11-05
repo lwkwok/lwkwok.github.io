@@ -13,3 +13,33 @@ Blade~A vampire hunter with superhuman abilities and skills, waging a war agains
 Ghost~A character with the ability to phase through solid objects, and a formidable adversary due to her stealth and combat skills.~Ghost's intangibility made her a difficult opponent for Ant-Man and the Wasp.
 Mystique~A mutant with the ability to shapeshift into anyone, Mystique's complex character straddles the line between hero and villain.~Mystique infiltrated the highest levels of government by assuming the identity of key officials.
 Storm~A mutant with the power to control the weather, Storm is a member of the X-Men and often seen as a leader within the group.~Storm calmed the raging tempest with a wave of her hand.
+Drax~A member of the Guardians of the Galaxy, Drax the Destroyer is known for his superhuman strength and a literal understanding of language.~Drax avenged his family by standing against Thanos.
+Electro~A supervillain with the ability to generate and control electricity, often an adversary of Spider-Man.~Electro caused a citywide blackout to challenge Spider-Man.
+Venom~An alien symbiote that requires a host to survive, known for its bond with Eddie Brock and as an antihero and adversary to Spider-Man.~Venom fought against the urge to consume everything in its path.
+Cable~A time-traveling mutant soldier with advanced technology and telepathic and telekinetic powers.~Cable came from the future to prevent a catastrophic event.
+Colossus~A mutant with the ability to transform his body into organic steel, giving him immense strength and durability, and a member of the X-Men.~Colossus stood as a steel sentinel against the oncoming foes.
+Deadpool~A mercenary with a regenerative healing factor and a penchant for breaking the fourth wall.~Deadpool's humor was as sharp as his swords.
+Heimdall~The Asgardian god responsible for guarding the Bifrost Bridge, with the ability to see and hear events galaxy-wide.~Heimdall's vigilance protected Asgard from many threats.
+Okoye~A member of the Dora Milaje, the all-female special forces of Wakanda, and a loyal protector of the Wakandan royal family.~Okoye's combat skills are matched only by her unwavering loyalty.
+Quicksilver~A mutant with the power of superhuman speed, and the twin brother of Scarlet Witch.~Quicksilver outran the sound barrier with ease.
+Rocket~A genetically modified raccoon with a talent for mechanics and weaponry, and a member of the Guardians of the Galaxy.~Rocket's inventions helped the team escape from many dangerous situations.
+Shuri~The princess of Wakanda, a brilliant inventor, and the sister of Black Panther, known for her advanced technological creations.~Shuri's gadgets gave the Black Panther an edge in battle.
+Ultron~An artificial intelligence with a robotic body created by Tony Stark and Bruce Banner, which turned against humanity.~Ultron's vision of peace involved the extinction of human life.
+Warpath~A mutant with superhuman strength, speed, and agility, and a member of the X-Force.~Warpath's tracking skills were unparalleled in the wilderness.
+Yondu~A blue-skinned bandit and a member of the Ravagers, he has a whistle-controlled arrow.~Yondu's loyalty to Star-Lord was revealed in his final moments.
+Mantis~An empath with the ability to sense and manipulate emotions, and a member of the Guardians of the Galaxy.~Mantis's touch calmed the raging Drax.
+Magneto~A powerful mutant with the ability to generate and control magnetic fields, often portrayed as both a villain and a complex antihero.~Magneto's control over metal made him one of the most formidable mutants.
+Rhino~A supervillain with a strong and durable suit that resembles a rhinoceros, and a frequent adversary of Spider-Man.~Rhino charged into battle, unstoppable as a freight train.
+Galactus~A cosmic entity that feeds on planets to sustain his life force, known as "The Devourer of Worlds."~Galactus's arrival heralded the destruction of entire worlds.
+Thanos~A powerful titan obsessed with balancing the universe by eliminating half of all life, he is known for his use of the Infinity Gauntlet.~Thanos snapped his fingers, and half of all living creatures turned to dust.
+Daredevil~A blind superhero with heightened senses and skilled in hand-to-hand combat, protector of Hell's Kitchen in New York.~Daredevil's senses were so acute he could hear a heartbeat across the room.
+Silver Surfer~A herald of Galactus with the power cosmic, which grants him superhuman strength, energy projection, and the ability to travel through space.~Silver Surfer traversed the cosmos on his shimmering board.
+Wolverine~A mutant with animal-keen senses, enhanced physical capabilities, a healing factor, and retractable bone claws coated with adamantium.~Wolverine's resilience allowed him to recover from almost any wound.
+Beast~A mutant with superhuman agility, strength, and intelligence, and a blue-furred appearance, he is a prominent member of the X-Men.~Beast's intellect was as vast as his heart.
+Cyclops~A mutant with the ability to emit powerful energy blasts from his eyes, and a long-time leader of the X-Men.~Cyclops's visor helped him control his devastating gaze.
+Mystique~A mutant with the ability to shapeshift into anyone, Mystique's complex character straddles the line between hero and villain.~Mystique infiltrated the highest levels of government by assuming the identity of key officials.
+Nightcrawler~A mutant with the ability to teleport, as well as possessing enhanced agility and a prehensile tail.~Nightcrawler's teleportation ability made him a valuable asset to the X-Men.
+Storm~A mutant with the power to control the weather, Storm is a member of the X-Men and often seen as a leader within the group.~Storm calmed the raging tempest with a wave of her hand.
+Phoenix~The powerful alter ego of Jean Grey, which manifests as a result of interaction with the cosmic Phoenix Force.~Phoenix's power was both the salvation and destruction of the X-Men.
+Rogue~A mutant with the ability to absorb the powers and memories of others through touch, a member of the X-Men.~Rogue's touch could be lethal, a fact she lamented.
+Bishop~A time-traveling mutant from a dystopian future, with the ability to absorb and redirect energy.~Bishop's presence in the past was to prevent a catastrophic future.
