@@ -1,23 +1,77 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Parks List</title>
+    <title>Flashcard</title>
+    <style>
+        #wordDisplay {
+            font-size: 24px;
+            margin: 20px;
+        }
+        iframe {
+            width: 100%;
+            height: 400px;
+            border: none;
+        }
+        button {
+            margin: 5px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Parks List from GitHub</h1>
-    <div id="content">
-        <!-- The content from the text file will be displayed here -->
-    </div>
+    <h1>Word Flashcard</h1>
+    <div id="wordDisplay"></div>
+    <button id="backButton">Back</button>
+    <button id="speakButton">Speak</button>
+    <button id="nextButton">Next</button>
+
+    <iframe id="googleImagesFrame" src=""></iframe>
+
     <script>
-        fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/Flashcard/Parks.txt')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('content').innerText = data;
-            })
-            .catch(error => {
-                console.error('Error fetching the text file:', error);
-                document.getElementById('content').innerText = 'Failed to load content.';
-            });
+        let words = [];
+        let currentIndex = 0;
+
+        function loadWords() {
+            fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/Flashcard/Parks.txt')
+                .then(response => response.text())
+                .then(text => {
+                    words = text.split(',').map(word => word.trim());
+                    displayWord();
+                });
+        }
+
+        function displayWord() {
+            if (currentIndex < 0 || currentIndex >= words.length) {
+                return;
+            }
+            document.getElementById('wordDisplay').innerText = words[currentIndex];
+            updateIframe(words[currentIndex]);
+        }
+
+        function updateIframe(word) {
+            const iframe = document.getElementById('googleImagesFrame');
+            iframe.src = `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(word)}`;
+        }
+
+        function speakWord() {
+            const utterance = new SpeechSynthesisUtterance(words[currentIndex]);
+            speechSynthesis.speak(utterance);
+        }
+
+        document.getElementById('nextButton').addEventListener('click', () => {
+            currentIndex++;
+            displayWord();
+        });
+
+        document.getElementById('backButton').addEventListener('click', () => {
+            currentIndex--;
+            displayWord();
+        });
+
+        document.getElementById('speakButton').addEventListener('click', () => {
+            speakWord();
+        });
+
+        window.onload = loadWords;
     </script>
 </body>
 </html>
