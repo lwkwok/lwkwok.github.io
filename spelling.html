@@ -6,27 +6,54 @@
 <title>Word Viewer</title>
 <style>
     body {
-        text-align: center;
+        background-color: black;
+        color: white;
         font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     #wordDisplay span {
-        color: blue;
+        color: white;
         font-size: 2em;
         font-weight: bold;
     }
+    #meaningDisplay {
+        color: lightblue;
+        margin: 10px 0;
+    }
     #sentenceDisplay span {
         color: lightgrey;
+    }
+    select, button {
+        margin-top: 20px;
+    }
+    #container {
+        text-align: center;
+    }
+    #navigation {
+        margin-top: 15px;
     }
 </style>
 </head>
 <body>
 
-<select id="fileSelect" onchange="loadWordList()"></select>
-<div id="wordDisplay"></div>
-<div id="meaningDisplay"></div>
-<div id="sentenceDisplay"></div>
-<button id="backButton" onclick="displayPreviousWord()">Back</button>
-<button onclick="displayNextWord()">Next</button>
+<div id="dropdown">
+    <select id="fileSelect" onchange="loadWordList()"></select>
+</div>
+<div id="container">
+    <div id="wordDisplay"></div>
+    <div id="meaningDisplay"></div>
+    <div id="sentenceDisplay"></div>
+    <div id="navigation">
+        <button id="backButton" onclick="displayPreviousWord()">Back</button>
+        <button onclick="displayNextWord()">Next</button>
+    </div>
+</div>
 
 <script>
 let wordList = [];
@@ -51,12 +78,12 @@ function displayWord() {
 }
 
 function displayNextWord() {
-    currentIndex++;
+    currentIndex = Math.min(currentIndex + 1, wordList.length - 1);
     displayWord();
 }
 
 function displayPreviousWord() {
-    currentIndex--;
+    currentIndex = Math.max(currentIndex - 1, 0);
     displayWord();
 }
 
@@ -101,7 +128,6 @@ function populateFileSelect() {
         });
 }
 
-// Call this function on page load to initialize the dropdown and word list
 window.addEventListener('load', populateFileSelect);
 </script>
 
