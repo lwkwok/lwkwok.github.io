@@ -81,22 +81,48 @@
 
 
         // Function to populate the dropdown with file names
+        function loadWordList() {
+            const fileSelect = document.getElementById('fileSelect');
+            const selectedFile = fileSelect.options[fileSelect.selectedIndex].text;
+            const filePath = `https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/${encodeURIComponent(selectedFile)}.txt`;
+        
+            fetch(filePath)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.text();
+                })
+                .then(text => {
+                    wordList = text.split(/\r?\n/);
+                    currentIndex = 0; // Start at the first word
+                    displayEntry();
+                })
+                .catch(error => {
+                    alert('Error fetching the word list: ' + error.message);
+                });
+        }
+        
         function populateFileSelect() {
             fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/_index.txt')
                 .then(response => response.text())
                 .then(text => {
-                    const fileNames = text.split(/\r?\n/);
+                    const fileNames = text.split(/\r?\n/).filter(name => name.trim() !== '');
                     const selectElement = document.getElementById('fileSelect');
                     fileNames.forEach(fileName => {
-                        if (fileName) { // Ensure it's not an empty line
-                            const option = document.createElement('option');
-                            option.value = option.text = fileName;
-                            selectElement.appendChild(option);
-                        }
+                        const option = document.createElement('option');
+                        option.value = option.textContent = fileName.trim();
+                        selectElement.appendChild(option);
                     });
                     loadWordList(); // Load the first list by default
+                })
+                .catch(error => {
+                    alert('Error populating file select: ' + error.message);
                 });
         }
+
+
+
 
         populateFileSelect(); // Call this function on page load
 
