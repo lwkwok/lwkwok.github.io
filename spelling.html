@@ -1,142 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Word Viewer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f7f7f7;
-            text-align: center; /* Ensure text is centered */
-        }
-        #wordDisplay {
-            font-size: 4em; /* Make the font size huge */
-            font-weight: bold; /* Bold the font */
-            color: blue; /* Color the word blue */
-            margin-bottom: 0.5em;
-        }
-        #meaningDisplay {
-            font-size: 1.5em;
-            color: #555; /* Slightly darker color for meaning */
-            margin-bottom: 0.25em;
-        }
-        #sentenceDisplay {
-            font-size: 1.2em;
-            color: lightgrey; /* Light grey color for the example sentence */
-            margin-bottom: 20px;
-            max-width: 800px;
-        }
-        .button-container {
-            display: flex;
-            justify-content: center; /* Center the button container */
-            width: 100%; /* Set width to full width to center children */
-        }
-        button {
-            padding: 10px 20px;
-            font-size: 1em;
-            margin: 0 10px; /* Add space between buttons */
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Word Viewer</title>
+<style>
+    body {
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
+    #wordDisplay span {
+        color: blue;
+        font-size: 2em;
+        font-weight: bold;
+    }
+    #sentenceDisplay span {
+        color: lightgrey;
+    }
+</style>
 </head>
 <body>
-    <div id="app">
-        <select id="fileSelect" onchange="loadWordList()">
-            <!-- Options will be dynamically loaded here -->
-        </select>
-        <div id="wordDisplay"></div>
-        <div id="meaningDisplay"></div>
-        <div id="sentenceDisplay"></div>
-        <div class="button-container">
-            <button id="backButton" onclick="displayPreviousWord()" disabled>Back</button>
-            <button id="nextButton" onclick="displayNextWord()">Next</button>
-        </div>
-    </div>
 
-    <script>
-        // Other constants and functions remain unchanged
+<select id="fileSelect" onchange="loadWordList()"></select>
+<div id="wordDisplay"></div>
+<div id="meaningDisplay"></div>
+<div id="sentenceDisplay"></div>
+<button id="backButton" onclick="displayPreviousWord()">Back</button>
+<button onclick="displayNextWord()">Next</button>
 
-        // New function to load the word list based on selection
-        function loadWordList() {
-            const selectedIndex = document.getElementById('fileSelect').selectedIndex;
-            const selectedFile = document.getElementById('fileSelect').options[selectedIndex].text; // Use text which contains the actual file name
-            const filePath = `https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/${encodeURIComponent(selectedFile)}.txt`;
-        
-            fetch(filePath)
-                .then(response => response.text())
-                .then(text => {
-                    wordList = text.split(/\r?\n/);
-                    currentIndex = 0; // Set index to 0 to start from the first word
-                    displayEntry(); // Show the first word
-                })
-                .catch(error => {
-                    console.error('Error fetching the word list:', error);
-                });
+<script>
+let wordList = [];
+let currentIndex = -1;
+
+function displayWord() {
+    if (currentIndex >= 0 && currentIndex < wordList.length) {
+        const parts = wordList[currentIndex].split('~');
+        if (parts.length === 3) {
+            document.getElementById('wordDisplay').innerHTML = `<span>${parts[0]}</span>`;
+            document.getElementById('meaningDisplay').textContent = parts[1];
+            document.getElementById('sentenceDisplay').innerHTML = `<span>${parts[2]}</span>`;
+        } else {
+            alert('The word entry is not formatted correctly.');
         }
+    } else {
+        document.getElementById('wordDisplay').textContent = '';
+        document.getElementById('meaningDisplay').textContent = '';
+        document.getElementById('sentenceDisplay').textContent = '';
+    }
+    document.getElementById('backButton').disabled = currentIndex <= 0;
+}
 
+function displayNextWord() {
+    currentIndex++;
+    displayWord();
+}
 
-        // Function to populate the dropdown with file names
-        function loadWordList() {
-            const fileSelect = document.getElementById('fileSelect');
-            const selectedFile = fileSelect.options[fileSelect.selectedIndex].text;
-            const filePath = `https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/${encodeURIComponent(selectedFile)}.txt`;
-            alert(filePath);
-            fetch(filePath)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`HTTP error! status: ${response.status}`);
-                    }
-                    return response.text();
-                })
-                .then(text => {
-                    wordList = text.split(/\r?\n/);
-                    currentIndex = 0; // Start at the first word
-                    displayEntry();
-                })
-                .catch(error => {
-                    alert('Error fetching the word list: ' + error.message);
-                });
-        }
-        
-        // Function to populate the dropdown with file names
-        function populateFileSelect() {
-            fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/_index.txt')
-                .then(response => response.text())
-                .then(text => {
-                    const fileNames = text.split(/\r?\n/).filter(name => name.trim() !== '');
-                    const selectElement = document.getElementById('fileSelect');
-                    fileNames.forEach(fileName => {
-                        const option = document.createElement('option');
-                        option.value = option.textContent = fileName.trim();
-                        selectElement.appendChild(option);
-                    });
-                    // loadWordList(); // Load the first list by default
-                })
-                .catch(error => {
-                    alert('Error populating file select: ' + error.message);
-                });
-        }
+function displayPreviousWord() {
+    currentIndex--;
+    displayWord();
+}
 
-        // Display the next word from the list
-        function displayNextWord() {
-            currentIndex++;
-            if (currentIndex < wordList.length) {
-                wordDisplay.textContent = wordList[currentIndex];
-            } else {
-                wordDisplay.textContent = "No more words!";
-                nextButton.disabled = true;
+function loadWordList() {
+    const fileSelect = document.getElementById('fileSelect');
+    const selectedFile = fileSelect.options[fileSelect.selectedIndex].text;
+    const filePath = `https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/${encodeURIComponent(selectedFile)}.txt`;
+
+    fetch(filePath)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
             }
-        }
+            return response.text();
+        })
+        .then(text => {
+            wordList = text.split(/\r?\n/);
+            currentIndex = 0;
+            displayWord();
+        })
+        .catch(error => {
+            alert('Error fetching the word list: ' + error.message);
+        });
+}
 
+function populateFileSelect() {
+    fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/_index.txt')
+        .then(response => response.text())
+        .then(text => {
+            const fileNames = text.split(/\r?\n/).filter(name => name.trim() !== '');
+            const selectElement = document.getElementById('fileSelect');
+            selectElement.innerHTML = ''; // Clear existing options if any
+            fileNames.forEach(fileName => {
+                const option = document.createElement('option');
+                option.value = option.textContent = fileName.trim();
+                selectElement.appendChild(option);
+            });
+            loadWordList(); // Load the first list by default
+        })
+        .catch(error => {
+            alert('Error populating file select: ' + error.message);
+        });
+}
 
-        populateFileSelect(); // Call this function on page load
+// Call this function on page load to initialize the dropdown and word list
+window.addEventListener('load', populateFileSelect);
+</script>
 
-        // The rest of the script remains unchanged
-    </script>
 </body>
 </html>
