@@ -85,7 +85,7 @@
             const fileSelect = document.getElementById('fileSelect');
             const selectedFile = fileSelect.options[fileSelect.selectedIndex].text;
             const filePath = `https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/${encodeURIComponent(selectedFile)}.txt`;
-        
+            alert(filePath);
             fetch(filePath)
                 .then(response => {
                     if (!response.ok) {
@@ -103,6 +103,7 @@
                 });
         }
         
+        // Function to populate the dropdown with file names
         function populateFileSelect() {
             fetch('https://raw.githubusercontent.com/lwkwok/lwkwok.github.io/main/App_SpellingTest/_index.txt')
                 .then(response => response.text())
@@ -121,7 +122,16 @@
                 });
         }
 
-
+        // Display the next word from the list
+        function displayNextWord() {
+            currentIndex++;
+            if (currentIndex < wordList.length) {
+                wordDisplay.textContent = wordList[currentIndex];
+            } else {
+                wordDisplay.textContent = "No more words!";
+                nextButton.disabled = true;
+            }
+        }
 
 
         populateFileSelect(); // Call this function on page load
