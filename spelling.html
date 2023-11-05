@@ -62,7 +62,7 @@
     
     button {
         margin: 10px;
-        padding: 25px 25px;
+        padding: 25px 25px 25px 25px;        
         font-size: 1em;
         cursor: pointer;
     }    
@@ -104,13 +104,14 @@ function displayWord() {
     if (currentIndex >= 0 && currentIndex < wordList.length) {
         const parts = wordList[currentIndex].split('~');
         if (parts.length === 3) {
+            adjustFontSize(parts[0]);
             document.getElementById('wordDisplay').innerHTML = `<span>${parts[0]}</span>`;
             document.getElementById('meaningDisplay').textContent = parts[1];
             document.getElementById('sentenceDisplay').innerHTML = `<span>${parts[2]}</span>`;
         } else {
             alert("You have reached the end of the list.");
         }
-    } else {
+    } else {    
         document.getElementById('wordDisplay').textContent = '';
         document.getElementById('meaningDisplay').textContent = '';
         document.getElementById('sentenceDisplay').textContent = '';
@@ -178,6 +179,15 @@ function speakWord() {
         window.speechSynthesis.speak(utterance); // Speak the word
     } else {
         alert("Sorry, your browser does not support text-to-speech!");
+    }
+}
+    
+function adjustFontSize(word) {
+    const wordDisplay = document.getElementById('wordDisplay');
+    if (word.length > 10) {
+        wordDisplay.style.fontSize = '2em'; // Smaller font size for longer words
+    } else {
+        wordDisplay.style.fontSize = '3em'; // Larger font size for shorter words
     }
 }    
 
