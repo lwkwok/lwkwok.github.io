@@ -1,2 +1,52 @@
-Word~Meaning~Sample Sentence
-Abundant~Present in great quantity; plentiful~The forest was abundant with a variety of wildlife.
+about~regarding or concerning something~I want to tell you about my day.
+after~later in time or place~We will go to the park after lunch.
+again~another time; once more~I lost my keys again.
+always~at all times; forever~She always wears a hat.
+around~located or situated on every side~The dog ran around the park.
+because~for the reason that~I am smiling because I am happy.
+before~earlier than the time that~Finish your homework before you watch TV.
+below~at a lower level or layer~The cat is hiding below the table.
+bring~to take or go with something or someone to a place~Bring your book to me, please.
+carry~to take or support from one place to another~Please carry the bag to the kitchen.
+clean~free from dirt, marks, or stains~I put on a clean shirt this morning.
+color~the property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light~My favorite color is blue.
+could~used to indicate possibility~I could go to the store for you.
+every~used to refer to all the individual members of a set without exception~Every student must take a test.
+found~past tense of find; to have discovered something~I found a coin on the ground.
+funny~causing laughter or amusement; humorous~The clown is very funny.
+going~move or proceed, especially to or from something~We are going to the zoo tomorrow.
+great~of an extent, amount, or intensity considerably above average~We had a great time at the party.
+green~the color between blue and yellow in the spectrum~The grass is very green in the spring.
+happy~feeling or showing pleasure or contentment~I am happy when I am with my friends.
+hello~used as a greeting or to begin a conversation~Hello, how are you today?
+light~the natural agent that stimulates sight and makes things visible~The light in the room is very bright.
+little~small in size, amount, or degree~I have a little puppy.
+long~measuring a great distance from end to end~I have a long list of groceries.
+might~used to express possibility~I might go to the party if I finish my homework.
+never~at no time in the past or future; not ever~I have never been to Europe.
+night~the period of darkness in each twenty-four hours; the time from sunset to sunrise~The stars come out at night.
+other~used to refer to a person or thing that is different or distinct from one already mentioned or known about~I will take the other one.
+place~a particular position, point, or area in space; a location~I can't find a place to park.
+right~morally good, justified, or acceptable~You made the right choice.
+sleep~a condition of body and mind such as that which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended~I need to sleep eight hours every night.
+small~of a size that is less than normal or usual~The kitten is very small.
+sound~vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear~I heard a loud sound outside.
+spell~write or name the letters that form (a word) in correct sequence~Can you spell your name?
+still~not moving or making a sound~The water is still.
+study~the devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books~I need to study for my test.
+their~belonging to or associated with the people or things previously mentioned or easily identified~Their house is at the end of the street.
+there~in, at, or to that place or position~We will meet there at noon.
+these~plural of this; used to identify a specific person or thing close at hand or being indicated or experienced~These are my friends.
+those~plural of that; used to identify a specific person or thing observed or heard by the speaker~Those were the days.
+three~equivalent to the sum of one and two; one more than two; 3~I have three apples in my bag.
+today~on or in the course of this present day~We are going shopping today.
+together~with or in proximity to another person or people~Let's walk together.
+under~extending or directly below~The cat is under the table.
+until~up to (the point in time or the event mentioned)~You cannot watch TV until you finish your homework.
+water~a clear, colorless, odorless, and tasteless liquid, essential for most plant and animal life and the most widely used of all solvents~Please give me a glass of water.
+where~in or to what place or position~Where are my shoes?
+which~asking for information specifying one or more people or things from a definite set~Which dress do you like?
+white~of the color of milk or fresh snow, due to the reflection of most wavelengths of visible light; the opposite of black~The clouds are white.
+world~the earth, together with all of its countries, peoples, and natural features~We live in a beautiful world.
+would~past of will, in various senses~I would like to order pizza tonight.
+write~mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement~Please write your name on your paper.
