@@ -1,60 +1,88 @@
-about~regarding or concerning something~I want to tell you about my day.
-after~later in time or place~We will go to the park after lunch.
-again~another time; once more~I lost my keys again.
-apple~a round fruit with red, green, or yellow skin and firm white flesh~I ate an apple for my snack.
-black~the color of coal or the night sky~My cat is black and white.
-brown~a color produced by mixing red, yellow, and blue, as of dark wood or rich soil~The bear we saw was brown.
-child~a young human being below the age of puberty or below the legal age of majority~Every child in the class drew a picture.
-clean~free from dirt, marks, or stains~I put on a clean shirt this morning.
-clear~easy to perceive, understand, or interpret~The sky is clear and blue today.
-climb~go or come up a (slope or staircase); ascend~We will climb the hill to see the view.
-close~a short distance away or apart in space or time~The store is close to my house.
-cloud~a visible mass of condensed water vapor floating in the atmosphere, typically high above the ground~The cloud looks like a bunny.
-color~the property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light~My favorite color is blue.
-could~used to indicate possibility~I could go to the store for you.
+above~at a higher level or layer than~The airplane flew above the clouds.
+across~from one side to the other of~We walked across the bridge.
+adventure~an unusual and exciting or daring experience~Our trip to the mountains was an adventure.
+almost~not quite; very nearly~I have almost finished my homework.
+among~surrounded by; in the company of~She sat among her friends.
+autumn~the season after summer and before winter~In autumn, the leaves change color.
+beyond~at or to the further side of~The park is just beyond those hills.
+bicycle~a vehicle composed of two wheels held in a frame one behind the other~I learned to ride a bicycle last year.
+breeze~a gentle wind~A cool breeze was blowing through the trees.
+bridge~a structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle~We crossed the bridge over the river.
+brighten~make or become more light~The sun brighten up the room.
+butterfly~a nectar-feeding insect with two pairs of large, typically brightly colored wings that are covered with microscopic scales~We saw a beautiful butterfly in the garden.
+candle~a cylinder or block of wax or tallow with a central wick that is lit to produce light as it burns~We lit a candle during the power outage.
+castle~a large building typically of the medieval period, fortified against attack~We visited an old castle during our vacation.
+caterpillar~the larva of a butterfly or moth, having a segmented wormlike body with three pairs of true legs and several pairs of leg-like appendages~A caterpillar was crawling on the leaf.
+celebrate~acknowledge a significant or happy day or event with a social gathering or enjoyable activity~We celebrate my birthday with a party.
+chocolate~a food in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened~Chocolate is my favorite dessert.
+circle~a round plane figure whose boundary consists of points equidistant from a fixed point~Draw a circle on your paper.
+city~a large town~We live in a big city.
+classroom~a room in a school where lessons take place~Our classroom is on the second floor.
+clothes~items worn to cover the body~I put my clothes in the dresser.
+cloudy~covered with or characterized by clouds~It's cloudy today, it might rain.
+coast~the part of the land near the sea; the edge of the land~We went to the coast for our vacation.
+colorful~having much or varied color; bright~The garden is very colorful in the spring.
+comfort~a state of physical ease and freedom from pain or constraint~The chair is very comfort to sit in.
+cousin~a child of one's uncle or aunt~My cousin is coming to visit next week.
+crayon~a pencil or stick of colored chalk or wax, used for drawing~I like to draw with crayons.
+daisy~a small grassland plant that has flowers with a yellow disk and white rays~We saw daisies growing in the field.
+delicious~highly pleasant to the taste~The cake was delicious.
+dinner~the main meal of the day, taken either around midday or in the evening~We had fish for dinner.
+discover~find unexpectedly or during a search~We discover a new park near our house.
+dragon~a mythical monster like a giant reptile~I read a story about a dragon.
 dream~a series of thoughts, images, and sensations occurring in a person's mind during sleep~I had a dream about flying.
-drink~take (a liquid) into the mouth and swallow~I like to drink apple juice.
-every~used to refer to all the individual members of a set without exception~Every student must take a test.
-first~coming before all others in time or order~I was the first in line.
-found~past tense of find; to have discovered something~I found a coin on the ground.
-funny~causing laughter or amusement; humorous~The clown is very funny.
-green~the color between blue and yellow in the spectrum~The grass is very green in the spring.
+eagle~a large bird of prey with a massive hooked bill and long broad wings~We saw an eagle soaring high in the sky.
+earth~the planet on which we live; the world~Earth is the third planet from the sun.
+elephant~a large, thick-skinned mammal with a long, flexible nose~We saw an elephant at the zoo.
+enjoy~take delight or pleasure in~I enjoy reading books.
+excited~very enthusiastic and eager~I am excited about my birthday party.
+explore~travel through an unfamiliar area in order to learn about it~Let's explore the forest.
+family~a group consisting of parents and children living together in a household~We are going to visit our family this weekend.
+feather~any of the flat appendages growing from a bird's skin and forming its plumage~We found a bird feather on the ground.
+flower~the seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly colored corolla and a green calyx~The flower in the garden are blooming.
+forest~a large area covered chiefly with trees and undergrowth~We went hiking in the forest.
+friend~a person whom one knows and has a bond of mutual affection~My best friend is very funny.
+frost~a deposit of small white ice crystals formed on the ground or other surfaces when the temperature falls below freezing~There was frost on the grass this morning.
+garden~a piece of ground, often near a house, used for growing flowers, fruit, or vegetables~We have a vegetable garden in our backyard.
+giggle~laugh lightly in a nervous, affected, or silly manner~The joke made us giggle.
+giraffe~a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines~The giraffe is the tallest land animal.
+glacier~a slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles~We saw a glacier during our trip to the mountains.
+globe~a spherical representation of the earth or of the constellations with a map on the surface~We have a globe in our classroom.
+glow~give out steady light without flame~The stars glow in the night sky.
+grape~a berry, typically green, purple, or black, growing in clusters on a grapevine, eaten as fruit, and used in making wine~I like to eat grapes as a snack.
 happy~feeling or showing pleasure or contentment~I am happy when I am with my friends.
+harbor~a place on the coast where vessels may find shelter~We visited the harbor and saw many boats.
+helicopter~a type of aircraft which derives both lift and propulsion from one or two sets of horizontally revolving rotors~We saw a helicopter flying overhead.
+holiday~a day of festivity or recreation when no work is done~Christmas is my favorite holiday.
+honey~a sweet, sticky, yellowish-brown fluid made by bees and other insects from nectar collected from flowers~I like honey on my toast.
+horse~a solid-hoofed plant-eating domesticated mammal with a flowing mane and tail, used for riding, racing, and to carry and pull loads~We went horseback riding on the beach.
+hospital~an institution providing medical and surgical treatment and nursing care for sick or injured people~The hospital is on the next street.
+hotel~an establishment providing accommodations, meals, and other services for travelers and tourists~We stayed at a hotel during our vacation.
 house~a building for human habitation, especially one that is lived in by a family or small group of people~We live in a blue house.
-large~of considerable or relatively great size, extent, or capacity~We saw a large elephant at the zoo.
-laugh~make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement~We laugh a lot when we play together.
-learn~gain or acquire knowledge of or skill in (something) by study, experience, or being taught~I learn new things at school every day.
-light~the natural agent that stimulates sight and makes things visible~The light in the room is very bright.
-little~small in size, amount, or degree~I have a little puppy.
-long~measuring a great distance from end to end~I have a long list of groceries.
-might~used to express possibility~I might go to the party if I finish my homework.
-night~the period of darkness in each twenty-four hours; the time from sunset to sunrise~The stars come out at night.
-other~used to refer to a person or thing that is different or distinct from one already mentioned or known about~I will take the other one.
-plant~a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site~We planted a new flower in our garden.
-point~the tapered, sharp end of a tool, weapon, or other object~The point of the pencil is sharp.
-right~morally good, justified, or acceptable~You made the right choice.
-round~shaped like a circle or cylinder~We sat at a round table.
-sleep~a condition of body and mind such as that which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended~I need to sleep eight hours every night.
-small~of a size that is less than normal or usual~The kitten is very small.
-sound~vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear~I heard a loud sound outside.
-spell~write or name the letters that form (a word) in correct sequence~Can you spell your name?
-still~not moving or making a sound~The water is still.
-study~the devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books~I need to study for my test.
-sweet~having the pleasant taste characteristic of sugar or honey; not salty, sour, or bitter~The cake is very sweet.
-table~a piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at~We eat dinner at the kitchen table.
-their~belonging to or associated with the people or things previously mentioned or easily identified~Their house is at the end of the street.
-there~in, at, or to that place or position~We will meet there at noon.
-these~plural of this; used to identify a specific person or thing close at hand or being indicated or experienced~These are my friends.
-those~plural of that; used to identify a specific person or thing observed or heard by the speaker~Those were the days.
-three~equivalent to the sum of one and two; one more than two; 3~I have three apples in my bag.
-today~on or in the course of this present day~We are going shopping today.
-together~with or in proximity to another person or people~Let's walk together.
-under~extending or directly below~The cat is under the table.
-until~up to (the point in time or the event mentioned)~You cannot watch TV until you finish your homework.
-water~a clear, colorless, odorless, and tasteless liquid, essential for most plant and animal life and the most widely used of all solvents~Please give me a glass of water.
-where~in or to what place or position~Where are my shoes?
-which~asking for information specifying one or more people or things from a definite set~Which dress do you like?
-white~of the color of milk or fresh snow, due to the reflection of most wavelengths of visible light; the opposite of black~The clouds are white.
-world~the earth, together with all of its countries, peoples, and natural features~We live in a beautiful world.
-would~past of will, in various senses~I would like to order pizza tonight.
-write~mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement~Please write your name on your paper.
+hummingbird~a small nectar-feeding tropical American bird that is able to hover and fly backward, typically having colorful iridescent plumage~A hummingbird visited our garden.
+insect~a small arthropod animal that has six legs and generally one or two pairs of wings~We are learning about insects in science class.
+island~a piece of land surrounded by water~We went on a vacation to a tropical island.
+jungle~an area of land overgrown with dense forest and tangled vegetation, typically in the tropics~We went on a tour through the jungle.
+kangaroo~a large plant-eating Australian marsupial with powerful hind legs for leaping~We saw a kangaroo at the wildlife park.
+kitten~a young cat~Our neighbor has a new kitten.
+lake~a large body of water surrounded by land~We went swimming in the lake.
+leaf~a flattened structure of a higher plant, typically green and blade-like, that is attached to a stem directly or via a stalk~The leaf fell from the tree.
+lemon~a pale yellow oval citrus fruit with thick skin and fragrant, acidic juice~I made lemonade with fresh lemons.
+library~a building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to~We visited the library to borrow some books.
+lighthouse~a tower or other structure containing a beacon light to warn or guide ships at sea~We saw a lighthouse on the coast.
+lion~a large tawny-colored cat that lives in prides, found in Africa and northwestern India~The lion is known as the king of the jungle.
+lizard~a reptile with a long body and tail, movable eyelids, and a rough, scaly, or spiny skin~A lizard was sunning itself on the rock.
+maple~a tree or shrub with lobed leaves, winged fruits, and colorful autumn foliage, grown as an ornamental or for its syrup or wood~We have a maple tree in our yard.
+meadow~a piece of grassland, especially one used for hay~We walked through the meadow full of wildflowers.
+melon~a large round fruit of a plant of the gourd family, with sweet pulpy flesh and many seeds~We had watermelon at the picnic.
+mitten~a glove with two sections, one for the thumb and the other for all four fingers~I wear my mittens when it's cold outside.
+monkey~a small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries~We saw monkeys at the zoo.
+moon~the natural satellite of the earth, visible by reflected light from the sun~The moon was full and bright last night.
+mountain~a large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill~We went hiking in the mountains.
+museum~a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited~We visited the museum to see the dinosaur exhibit.
+ocean~a very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically~The ocean is very deep and full of amazing creatures.
+octopus~a cephalopod mollusk with eight sucker-bearing arms, a soft sac-like body, strong beak-like jaws, and no internal shell~We saw an octopus at the aquarium.
+orange~a round juicy citrus fruit with a tough bright reddish-yellow rind~I ate an orange for breakfast.
+otter~a fish-eating mammal with a streamlined body, webbed feet, and a long tail, typically living in or near water~We watched the otters play at the zoo.
+owl~a nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud hooting call~We heard an owl hooting at night.
+panda~a large bear-like mammal with characteristic black-and-white markings, native to certain mountain forests in China~The panda is eating bamboo.
