@@ -1,2 +1,60 @@
-Word~Meaning~Sample Sentence
-Abundant~Present in great quantity; plentiful~The forest was abundant with a variety of wildlife.
+about~regarding or concerning something~I want to tell you about my day.
+after~later in time or place~We will go to the park after lunch.
+again~another time; once more~I lost my keys again.
+apple~a round fruit with red, green, or yellow skin and firm white flesh~I ate an apple for my snack.
+black~the color of coal or the night sky~My cat is black and white.
+brown~a color produced by mixing red, yellow, and blue, as of dark wood or rich soil~The bear we saw was brown.
+child~a young human being below the age of puberty or below the legal age of majority~Every child in the class drew a picture.
+clean~free from dirt, marks, or stains~I put on a clean shirt this morning.
+clear~easy to perceive, understand, or interpret~The sky is clear and blue today.
+climb~go or come up a (slope or staircase); ascend~We will climb the hill to see the view.
+close~a short distance away or apart in space or time~The store is close to my house.
+cloud~a visible mass of condensed water vapor floating in the atmosphere, typically high above the ground~The cloud looks like a bunny.
+color~the property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light~My favorite color is blue.
+could~used to indicate possibility~I could go to the store for you.
+dream~a series of thoughts, images, and sensations occurring in a person's mind during sleep~I had a dream about flying.
+drink~take (a liquid) into the mouth and swallow~I like to drink apple juice.
+every~used to refer to all the individual members of a set without exception~Every student must take a test.
+first~coming before all others in time or order~I was the first in line.
+found~past tense of find; to have discovered something~I found a coin on the ground.
+funny~causing laughter or amusement; humorous~The clown is very funny.
+green~the color between blue and yellow in the spectrum~The grass is very green in the spring.
+happy~feeling or showing pleasure or contentment~I am happy when I am with my friends.
+house~a building for human habitation, especially one that is lived in by a family or small group of people~We live in a blue house.
+large~of considerable or relatively great size, extent, or capacity~We saw a large elephant at the zoo.
+laugh~make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement~We laugh a lot when we play together.
+learn~gain or acquire knowledge of or skill in (something) by study, experience, or being taught~I learn new things at school every day.
+light~the natural agent that stimulates sight and makes things visible~The light in the room is very bright.
+little~small in size, amount, or degree~I have a little puppy.
+long~measuring a great distance from end to end~I have a long list of groceries.
+might~used to express possibility~I might go to the party if I finish my homework.
+night~the period of darkness in each twenty-four hours; the time from sunset to sunrise~The stars come out at night.
+other~used to refer to a person or thing that is different or distinct from one already mentioned or known about~I will take the other one.
+plant~a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site~We planted a new flower in our garden.
+point~the tapered, sharp end of a tool, weapon, or other object~The point of the pencil is sharp.
+right~morally good, justified, or acceptable~You made the right choice.
+round~shaped like a circle or cylinder~We sat at a round table.
+sleep~a condition of body and mind such as that which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended~I need to sleep eight hours every night.
+small~of a size that is less than normal or usual~The kitten is very small.
+sound~vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear~I heard a loud sound outside.
+spell~write or name the letters that form (a word) in correct sequence~Can you spell your name?
+still~not moving or making a sound~The water is still.
+study~the devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books~I need to study for my test.
+sweet~having the pleasant taste characteristic of sugar or honey; not salty, sour, or bitter~The cake is very sweet.
+table~a piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at~We eat dinner at the kitchen table.
+their~belonging to or associated with the people or things previously mentioned or easily identified~Their house is at the end of the street.
+there~in, at, or to that place or position~We will meet there at noon.
+these~plural of this; used to identify a specific person or thing close at hand or being indicated or experienced~These are my friends.
+those~plural of that; used to identify a specific person or thing observed or heard by the speaker~Those were the days.
+three~equivalent to the sum of one and two; one more than two; 3~I have three apples in my bag.
+today~on or in the course of this present day~We are going shopping today.
+together~with or in proximity to another person or people~Let's walk together.
+under~extending or directly below~The cat is under the table.
+until~up to (the point in time or the event mentioned)~You cannot watch TV until you finish your homework.
+water~a clear, colorless, odorless, and tasteless liquid, essential for most plant and animal life and the most widely used of all solvents~Please give me a glass of water.
+where~in or to what place or position~Where are my shoes?
+which~asking for information specifying one or more people or things from a definite set~Which dress do you like?
+white~of the color of milk or fresh snow, due to the reflection of most wavelengths of visible light; the opposite of black~The clouds are white.
+world~the earth, together with all of its countries, peoples, and natural features~We live in a beautiful world.
+would~past of will, in various senses~I would like to order pizza tonight.
+write~mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement~Please write your name on your paper.
