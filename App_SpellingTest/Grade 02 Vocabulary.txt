@@ -1,88 +1,61 @@
-above~at a higher level or layer than~The airplane flew above the clouds.
-across~from one side to the other of~We walked across the bridge.
-adventure~an unusual and exciting or daring experience~Our trip to the mountains was an adventure.
-almost~not quite; very nearly~I have almost finished my homework.
-among~surrounded by; in the company of~She sat among her friends.
+adventure~an unusual and exciting experience or activity~We went on an adventure in the forest.
+amazing~causing great surprise or wonder; astonishing~The magic show was amazing.
 autumn~the season after summer and before winter~In autumn, the leaves change color.
-beyond~at or to the further side of~The park is just beyond those hills.
-bicycle~a vehicle composed of two wheels held in a frame one behind the other~I learned to ride a bicycle last year.
+bicycle~a vehicle with two wheels that a person rides by pushing on foot pedals~I learned to ride a bicycle without training wheels.
 breeze~a gentle wind~A cool breeze was blowing through the trees.
-bridge~a structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle~We crossed the bridge over the river.
-brighten~make or become more light~The sun brighten up the room.
-butterfly~a nectar-feeding insect with two pairs of large, typically brightly colored wings that are covered with microscopic scales~We saw a beautiful butterfly in the garden.
-candle~a cylinder or block of wax or tallow with a central wick that is lit to produce light as it burns~We lit a candle during the power outage.
-castle~a large building typically of the medieval period, fortified against attack~We visited an old castle during our vacation.
-caterpillar~the larva of a butterfly or moth, having a segmented wormlike body with three pairs of true legs and several pairs of leg-like appendages~A caterpillar was crawling on the leaf.
-celebrate~acknowledge a significant or happy day or event with a social gathering or enjoyable activity~We celebrate my birthday with a party.
-chocolate~a food in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened~Chocolate is my favorite dessert.
-circle~a round plane figure whose boundary consists of points equidistant from a fixed point~Draw a circle on your paper.
-city~a large town~We live in a big city.
-classroom~a room in a school where lessons take place~Our classroom is on the second floor.
-clothes~items worn to cover the body~I put my clothes in the dresser.
-cloudy~covered with or characterized by clouds~It's cloudy today, it might rain.
-coast~the part of the land near the sea; the edge of the land~We went to the coast for our vacation.
-colorful~having much or varied color; bright~The garden is very colorful in the spring.
-comfort~a state of physical ease and freedom from pain or constraint~The chair is very comfort to sit in.
-cousin~a child of one's uncle or aunt~My cousin is coming to visit next week.
-crayon~a pencil or stick of colored chalk or wax, used for drawing~I like to draw with crayons.
-daisy~a small grassland plant that has flowers with a yellow disk and white rays~We saw daisies growing in the field.
-delicious~highly pleasant to the taste~The cake was delicious.
-dinner~the main meal of the day, taken either around midday or in the evening~We had fish for dinner.
-discover~find unexpectedly or during a search~We discover a new park near our house.
-dragon~a mythical monster like a giant reptile~I read a story about a dragon.
-dream~a series of thoughts, images, and sensations occurring in a person's mind during sleep~I had a dream about flying.
-eagle~a large bird of prey with a massive hooked bill and long broad wings~We saw an eagle soaring high in the sky.
-earth~the planet on which we live; the world~Earth is the third planet from the sun.
-elephant~a large, thick-skinned mammal with a long, flexible nose~We saw an elephant at the zoo.
-enjoy~take delight or pleasure in~I enjoy reading books.
-excited~very enthusiastic and eager~I am excited about my birthday party.
-explore~travel through an unfamiliar area in order to learn about it~Let's explore the forest.
+cabin~a small wooden shelter or house in a wild or remote area~We stayed in a cabin by the lake.
+caring~displaying kindness and concern for others~My teacher is very caring and helpful.
+castle~a large building typically of the medieval period, fortified against attack~We built a sand castle at the beach.
+caterpillar~a small, long animal that looks like a worm with legs and that is the young form of a butterfly or moth~We found a green caterpillar in the garden.
+celebrate~to do something special for an important event~We celebrate Canada Day with fireworks.
+chocolate~a food made from roasted ground cacao beans~Chocolate is my favorite treat.
+courage~the ability to do something that frightens one; bravery~It takes courage to stand up in front of the class.
+crayon~a stick of colored wax used for drawing~I drew a picture with my new crayons.
+dolphin~a sea mammal that is large, smooth, and grey, with a long, pointed mouth~We saw dolphins jumping near the boat.
+dragon~a mythical monster like a giant reptile, often represented with wings and breathing fire~I read a story about a brave knight and a dragon.
+eagle~a large bird of prey with a massive hooked bill and long broad wings~An eagle soared high above the mountains.
+excited~very enthusiastic and eager~I'm so excited about my birthday party.
 family~a group consisting of parents and children living together in a household~We are going to visit our family this weekend.
-feather~any of the flat appendages growing from a bird's skin and forming its plumage~We found a bird feather on the ground.
-flower~the seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly colored corolla and a green calyx~The flower in the garden are blooming.
 forest~a large area covered chiefly with trees and undergrowth~We went hiking in the forest.
 friend~a person whom one knows and has a bond of mutual affection~My best friend is very funny.
-frost~a deposit of small white ice crystals formed on the ground or other surfaces when the temperature falls below freezing~There was frost on the grass this morning.
-garden~a piece of ground, often near a house, used for growing flowers, fruit, or vegetables~We have a vegetable garden in our backyard.
-giggle~laugh lightly in a nervous, affected, or silly manner~The joke made us giggle.
-giraffe~a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines~The giraffe is the tallest land animal.
-glacier~a slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles~We saw a glacier during our trip to the mountains.
-globe~a spherical representation of the earth or of the constellations with a map on the surface~We have a globe in our classroom.
-glow~give out steady light without flame~The stars glow in the night sky.
-grape~a berry, typically green, purple, or black, growing in clusters on a grapevine, eaten as fruit, and used in making wine~I like to eat grapes as a snack.
-happy~feeling or showing pleasure or contentment~I am happy when I am with my friends.
-harbor~a place on the coast where vessels may find shelter~We visited the harbor and saw many boats.
-helicopter~a type of aircraft which derives both lift and propulsion from one or two sets of horizontally revolving rotors~We saw a helicopter flying overhead.
-holiday~a day of festivity or recreation when no work is done~Christmas is my favorite holiday.
-honey~a sweet, sticky, yellowish-brown fluid made by bees and other insects from nectar collected from flowers~I like honey on my toast.
-horse~a solid-hoofed plant-eating domesticated mammal with a flowing mane and tail, used for riding, racing, and to carry and pull loads~We went horseback riding on the beach.
-hospital~an institution providing medical and surgical treatment and nursing care for sick or injured people~The hospital is on the next street.
-hotel~an establishment providing accommodations, meals, and other services for travelers and tourists~We stayed at a hotel during our vacation.
-house~a building for human habitation, especially one that is lived in by a family or small group of people~We live in a blue house.
-hummingbird~a small nectar-feeding tropical American bird that is able to hover and fly backward, typically having colorful iridescent plumage~A hummingbird visited our garden.
+giraffe~a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines~We saw a giraffe at the zoo.
+harbor~a place on the coast where vessels may find shelter~We watched the boats in the harbor.
+holiday~a day of festivity or recreation when no work is done~We go camping during the summer holiday.
+honest~free of deceit and untruthfulness; sincere~It's important to be honest with your friends.
+humor~the quality of being amusing or comic~My uncle has a great sense of humor.
 insect~a small arthropod animal that has six legs and generally one or two pairs of wings~We are learning about insects in science class.
-island~a piece of land surrounded by water~We went on a vacation to a tropical island.
-jungle~an area of land overgrown with dense forest and tangled vegetation, typically in the tropics~We went on a tour through the jungle.
-kangaroo~a large plant-eating Australian marsupial with powerful hind legs for leaping~We saw a kangaroo at the wildlife park.
-kitten~a young cat~Our neighbor has a new kitten.
-lake~a large body of water surrounded by land~We went swimming in the lake.
-leaf~a flattened structure of a higher plant, typically green and blade-like, that is attached to a stem directly or via a stalk~The leaf fell from the tree.
-lemon~a pale yellow oval citrus fruit with thick skin and fragrant, acidic juice~I made lemonade with fresh lemons.
+jungle~land covered with dense vegetation dominated by trees~We read a book about animals living in the jungle.
+kitten~a young cat~Our kitten loves to play with yarn.
+laugh~make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement~We laugh a lot when we play together.
 library~a building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to~We visited the library to borrow some books.
-lighthouse~a tower or other structure containing a beacon light to warn or guide ships at sea~We saw a lighthouse on the coast.
-lion~a large tawny-colored cat that lives in prides, found in Africa and northwestern India~The lion is known as the king of the jungle.
-lizard~a reptile with a long body and tail, movable eyelids, and a rough, scaly, or spiny skin~A lizard was sunning itself on the rock.
-maple~a tree or shrub with lobed leaves, winged fruits, and colorful autumn foliage, grown as an ornamental or for its syrup or wood~We have a maple tree in our yard.
-meadow~a piece of grassland, especially one used for hay~We walked through the meadow full of wildflowers.
-melon~a large round fruit of a plant of the gourd family, with sweet pulpy flesh and many seeds~We had watermelon at the picnic.
-mitten~a glove with two sections, one for the thumb and the other for all four fingers~I wear my mittens when it's cold outside.
-monkey~a small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries~We saw monkeys at the zoo.
-moon~the natural satellite of the earth, visible by reflected light from the sun~The moon was full and bright last night.
-mountain~a large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill~We went hiking in the mountains.
-museum~a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited~We visited the museum to see the dinosaur exhibit.
-ocean~a very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically~The ocean is very deep and full of amazing creatures.
-octopus~a cephalopod mollusk with eight sucker-bearing arms, a soft sac-like body, strong beak-like jaws, and no internal shell~We saw an octopus at the aquarium.
-orange~a round juicy citrus fruit with a tough bright reddish-yellow rind~I ate an orange for breakfast.
-otter~a fish-eating mammal with a streamlined body, webbed feet, and a long tail, typically living in or near water~We watched the otters play at the zoo.
-owl~a nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud hooting call~We heard an owl hooting at night.
-panda~a large bear-like mammal with characteristic black-and-white markings, native to certain mountain forests in China~The panda is eating bamboo.
+magic~the power of apparently influencing events by using mysterious or supernatural forces~The magician performed a magic trick.
+mountain~a large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill~We went hiking up the mountain.
+museum~a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited~Our class is going to the museum on a field trip.
+nature~the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth~We love exploring nature.
+ocean~a very large expanse of sea~The ocean is home to many amazing creatures.
+penguin~a large flightless seabird of the southern hemisphere, with black upper parts and white underparts~Penguins live in Antarctica.
+picnic~an outing or occasion that involves taking a packed meal to be eaten outdoors~We had a picnic in the park.
+planet~a celestial body moving in an elliptical orbit around a star~Earth is the planet we live on.
+puzzle~a game, toy, or problem designed to test ingenuity or knowledge~We completed a 100-piece puzzle together.
+queen~the female ruler of an independent state, especially one who inherits the position by right of birth~The queen lives in a palace.
+rabbit~a burrowing, plant-eating mammal with long ears, long hind legs, and a short tail~A rabbit hopped across the lawn.
+rainbow~an arch of colors formed in the sky in certain circumstances, caused by the refraction and dispersion of the sun's light by rain or other water droplets in the atmosphere~We saw a beautiful rainbow after the rain.
+rocket~a cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents~The rocket launched into space.
+season~each of the four divisions of the year (spring, summer, autumn, and winter) marked by particular weather patterns and daylight hours~My favorite season is spring.
+shadow~a dark area or shape produced by a body coming between rays of light and a surface~We made shadow puppets with our hands.
+shark~a long-bodied chiefly marine fish with a cartilaginous skeleton, a prominent dorsal fin, and toothlike scales~Sharks are fascinating creatures of the ocean.
+sleigh~a sledge drawn by horses or reindeer, especially one used for passengers~We went for a ride in a horse-drawn sleigh.
+snowman~a figure of a person made of packed snow, usually formed by piling large snowballs on top of each other~We built a snowman in the yard.
+squirrel~an agile tree-dwelling rodent with a bushy tail, typically feeding on nuts and seeds~A squirrel is collecting nuts for the winter.
+starry~full of stars~The night sky was starry and beautiful.
+summer~the warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February~We go swimming a lot in the summer.
+sunshine~sunlight, especially when considered as a source of warmth and happiness~I love the feeling of sunshine on my face.
+teacher~a person who teaches, especially in a school~My teacher helps me learn new things.
+tiger~a large cat species native to Asia, with a patterned coat of black stripes on an orange-brown background~Tigers are powerful and majestic animals.
+umbrella~a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun~Don't forget your umbrella; it might rain.
+unicorn~a mythical animal typically represented as a horse with a single straight horn projecting from its forehead~Unicorns are popular in fairy tales.
+valley~a low area of land between hills or mountains, typically with a river or stream flowing through it~The valley was filled with wildflowers.
+volcano~a mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are being or have been erupted from the earth's crust~The volcano erupted last year.
+whale~a very large marine mammal with a streamlined hairless body, a horizontal tail fin, and a blowhole on top of the head for breathing~Whales are the largest animals in the ocean.
+winter~the coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August~We go skiing in the winter.
+zebra~an African wild horse with black-and-white stripes and an erect mane~Zebras have unique stripe patterns.
