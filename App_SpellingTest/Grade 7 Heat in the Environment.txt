@@ -1,0 +1,30 @@
+atoms: the basic units of matter, forming elements - water is composed of hydrogen and oxygen atoms.
+thermal~related to heat~thermal insulation helps maintain a comfortable indoor temperature.
+particles~small portions of matter~dust particles can be seen floating in a beam of sunlight.
+conduction~transfer of heat through a material~metal spoons conduct heat, becoming hot when left in a pot.
+convection~heat transfer by fluid movement~convection ovens cook food by circulating hot air.
+radiation~energy transfer through electromagnetic waves~microwaves cook food using radiation.
+substance~a particular kind of matter with uniform properties~water is a clear, odorless substance.
+mixture~a combination of two or more substances~air is a mixture of gases like oxygen and nitrogen.
+kinetic~related to motion~the kinetic energy of a moving car decreases as it slows down.
+reversible~able to be turned back or undone~a reversible chemical reaction can go forwards and backwards.
+fusion~joining of two nuclei to form a heavier nucleus~nuclear fusion powers the sun.
+friction~resistance that one surface encounters when moving over another~friction between the road and tires stops a car.
+solar~related to the sun~solar panels convert sunlight into electricity.
+expansion~increase in volume or size~metals expand when heated.
+conductivity~ability to conduct heat or electricity~copper is valued for its high electrical conductivity.
+insulator~material that does not conduct heat or electricity well~rubber is a good insulator for electrical wires.
+radiant~emitting rays of light or heat~the radiant heat from the fire warmed the room.
+climate~the average weather conditions in an area over a long period~the mediterranean climate is known for its mild, wet winters and hot, dry summers.
+currents~flows of liquid or gas~ocean currents influence climate patterns.
+evaporation~process of a liquid turning into vapor~water evaporation is faster on hot, sunny days.
+condensation~process of gas turning into a liquid~condensation forms on the outside of a cold glass.
+sublimation~transition of a substance from solid to gas without becoming liquid~dry ice undergoes sublimation, turning directly from solid to gas.
+deposition~gas turning into solid without becoming liquid~frost forms by the deposition of water vapor in cold conditions.
+melting~solid turning into liquid due to heat~ice cream starts melting quickly in the sun.
+freezing~liquid turning into solid due to cold~water freezing into ice is a common example.
+electromagnetic~related to the magnetic and electric fields and their interactions~electromagnetic waves include radio waves, microwaves, and light.
+infrared~electromagnetic radiation with wavelengths longer than visible light but shorter than radio waves~infrared cameras detect heat emitted by objects.
+ultraviolet~electromagnetic radiation with wavelengths shorter than visible light~ultraviolet rays from the sun can cause sunburn.
+spectrum~a range of different things, often colors or frequencies~a rainbow displays the visible light spectrum.
+absolute~complete; total~absolute zero is the lowest possible temperature where nothing could be colder.
