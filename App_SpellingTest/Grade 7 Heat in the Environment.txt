@@ -1,4 +1,4 @@
-atoms: the basic units of matter, forming elements - water is composed of hydrogen and oxygen atoms.
+atoms~the basic units of matter, forming elements~water is composed of hydrogen and oxygen atoms.
 thermal~related to heat~thermal insulation helps maintain a comfortable indoor temperature.
 particles~small portions of matter~dust particles can be seen floating in a beam of sunlight.
 conduction~transfer of heat through a material~metal spoons conduct heat, becoming hot when left in a pot.
