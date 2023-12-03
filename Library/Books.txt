@@ -2,14 +2,14 @@
 33288085734871 - ANDY [Book] Cool Crime Scene Basics
 33288901257719 - ANDY [Book] Dead End in Norvelt
 33288100498478 - ANDY [Book] Dragon Slayers
-33288082884653 - ANDY [Book] The Kids Book of Canada at War
 33288900473319 - ANDY [Book] Math Handbook
-33288900818034 - ANDY [Book] OCDaniel
-33288100112962 - ANDY [Book] Ruff Vs. Fluff
 33288100930397 - ANDY [Book] Toy Story Storybook Collection
 33288088999190 - ANDY [Book] Two Crafty Criminals!
 33288901021446 - ANDY [Book] The Way Things Work Now
-33288091297848 - ANDY [Book] å›¾è§£æŠ—åŽ‹åŠ›
+33288101995662 - ANDY [Book] Battle of the Plains of Abraham
+33288080402847 - ANDY [Book] Canada at War
+33288089150843 - ANDY [Book] Canada on Fire
+33288083460198 - ANDY [Book] The Roman News
 33288101091587 - LISA [Book] Everything You Need to Ace Math in One Big Fat Notebook
 33288091576456 - LISA [Book] Bluey 5-minute Stories
 33288101633495 - LISA [Book] Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook
@@ -19,60 +19,46 @@
 33288086861244 - LISA [Book] Problem-solving
 33288900763388 - LISA [Book] Success on the Middle Level SSAT
 33288085464487 - LISA [Book] 100 Words Every Middle Schooler Should Know
-33288100127671 - LISA [Book] All-American Adventure
 33288102319821 - LISA [Book] Amazing Animal Journeys
-33288900669403 - LISA [Book] Ambush
 33288101768846 - LISA [Book] The Aquanaut
 33288101361477 - LISA [Book] The Battle for Crystal Castle
 33288100267907 - LISA [Book] The Bean Team
 33288102012194 - LISA [Book] The Big Book of Questions and Answers
 33288101106948 - LISA [Book] Books Are the Best
-33288900864200 - LISA [Book] The Boys Who Challenged Hitler
 33288102280049 - LISA [Book] Britannica First Big Book of Why
 33288102384528 - LISA [Book] Children's Quick & Easy Cookbook
 33288101287540 - LISA [Book] Coding With Python
-33288100410077 - LISA [Book] Cog
 33288085234906 - LISA [Book] Complete Canadian Curriculum
 33288501010005 - LISA [DVD] Daniel Tiger's Neighborhood
 33288100233065 - LISA [DVD] Daniel Tiger's Neighborhood
 33288500776499 - LISA [DVD] Daniel Tiger's Neighborhood
 33288100634924 - LISA [Book] Dinosaur Disaster
-33288100470543 - LISA [Book] Don't Check Out This Book!
 33288901111049 - LISA [Book] Escape to Australia
 33288101093609 - LISA [Book] Everything You Need to Ace Chemistry in One Big Fat Notebook
 33288900974298 - LISA [Book] Everything You Need to Ace Science in One Big Fat Notebook
 33288080670328 - LISA [Book] Get Wise!
 33288101409904 - LISA [Book] Go, Go, Tractors!
 33288901229072 - LISA [Book] Guardians of the Galaxy
-33288900537345 - LISA [Book] House of Robots
-33288102394410 - LISA [Book] The Human Body
 33288901262826 - LISA [Book] I'm An App Developer
 33288101101329 - LISA [Book] Learn to Program With App Inventor
 33288088060597 - LISA [Kit] LEGO DC Universe Super Heroes Phonics
-33288901116535 - LISA [Book] The Manager's Path
 33288075266520 - LISA [Book] Math Games for Middle School
 33288100961939 - LISA [Book] Meet the Wolfy Kids!
-33288100777343 - LISA [Book] Minecraft
 33288900734173 - LISA [Book] Money Hacks Handbook
-33288088996998 - LISA [Book] Monster Games
 33288102342112 - LISA [Book] The Most Exciting Book of Science, Inventions & Space Ever
 33288102381326 - LISA [Book] Nature School
 33288076156696 - LISA [Kit] Osmo
 33288901561482 - LISA [Book] Race to the Moon!
 33288102328368 - LISA [Book] Ramen for Everyone
-33288100712068 - LISA [Book] The Secret Detective
 33288086730159 - LISA [Book] The Secret Life of Money
 33288091699241 - LISA [Book] Singapore Math
 33288102319102 - LISA [Book] Storyteller's Illustrated Dictionary
-33288900747969 - LISA [Book] Super-villain Smackdown
 33288102224096 - LISA [Book] The Travel Book
-33288100131566 - LISA [Book] Two Dogs in A Trench Coat Go to School
 33288901280109 - LISA [Book] The Usborne Book of Astronomy & Space
 33288900283213 - LISA [Book] Usborne First Illustrated Science Dictionary
 33288087934768 - LISA [Book] The Usborne Illustrated Dictionary of Chemistry
 33288901158248 - LISA [Book] Who Can? Daniel Can!
 33288102356633 - LISA [Book] Wow in the World
-33288901252553 - LISA [Book] Zack and the Turkey Attack!
 33288088471646 - LISA [Device] IPads for Circulation
 33288074974819 - LISA [DVD] The LEGO Movie 2
 33288100285370 - LISA [DVD] Missing Link
@@ -85,7 +71,6 @@
 33288102388800 - LISA [Board Book] A Day at School With The Very Hungry Caterpillar
 33288102390434 - LISA [Board Book] Good Night Building Site
 33288100730193 - LISA [Book] The Haven Trials
-33288101318238 - LISA [Book] I Can Be Bold
 33288091564171 - LISA [Board Book] If You're Jolly and You Know It
 33288089146569 - LISA [Book] Joy to the World
 33288085243782 - LISA [Book] A Joyful Christmas
@@ -112,45 +97,67 @@
 33288091693897 - LISA [Book] The Voyage
 33288101745653 - LISA [Book] The Wheels on the Bus at Christmas
 33288089644290 - LISA [Kit] With Lots of Love
-33288085573089 - LISA [Book] The Battle of Waterloo
 33288085712059 - LISA [Book] Complete ScienceSmart
 33288101148551 - LISA [Book] Facts Vs. Opinions Vs. Robots
-33288501284857 - LISA [Book] Target
-33288501284816 - LISA [Book] Traitor
 33288900622626 - LISA [Book] Writing An Opinion Paper
-33288101289264 - LISA [Book] You Can Make Changes
-33288085535591 - LISA [Book] Al Capone Does My Homework
+33288085633966 - LISA [Book] Ancient Rome
 33288101434159 - LISA [Book] Ariel's Brave Kitten
+33288085634386 - LISA [Book] Attila the Hun
 33288087373629 - LISA [Book] Best Dad in the Sea
+33288082739022 - LISA [Book] The Boys' Book
 33288101080127 - LISA [Book] Camp Valor
+33288901165250 - LISA [Book] Clark the Shark and the Big Book Report
+33288901562506 - LISA [Book] The Crash
 33288101495739 - LISA [Book] Daniel Goes Camping!
+33288086882174 - LISA [Book] Dragon Castle
+33288900690094 - LISA [Book] Eat That Frog!
+33288101082370 - LISA [Book] Eight Times up
+33288101214783 - LISA [Book] The Endangereds
+33288101279638 - LISA [Book] Escape at 10,000 Feet
 33288085346585 - LISA [Book] The Essential Reading and Language Arts Glossary II
 33288101097659 - LISA [Book] Everything You Need to Ace English Language Arts in One Big Fat Notebook
 33288100793779 - LISA [Book] Evil Genius
-33288101374710 - LISA [Book] The Flying Factory!
+33288900627674 - LISA [Book] The Evolution of Government and Politics in China
 33288900430459 - LISA [Book] For the Love of Books
 33288101426742 - LISA [Book] Go, Go, Cars!
 33288901231532 - LISA [Book] Go, Go, Trucks!
 33288100552951 - LISA [Book] Goodbye, Mr. Terupt
 33288084072505 - LISA [Book] Grammar Essentials
+33288072032149 - LISA [Book] History of the Ancient & Medieval World
+33288901085870 - LISA [Book] How to Be A Boss
 33288100929241 - LISA [Book] The Invention Hunters Discover How Electricity Works
 33288074997398 - LISA [Device] Khaki Pack
+33288091558009 - LISA [Book] Knights and Castles
+33288901543720 - LISA [Book] Make A Trade, Charlie Brown!
 33288100008061 - LISA [Book] MathPedia
-33288901041188 - LISA [Book] The Ministry of Suits
+33288091412983 - LISA [Book] Minecraft
 33288100675828 - LISA [Book] Mob Squad
 33288100685181 - LISA [Book] Mob Squad
 33288901280224 - LISA [Unknown] The Monster's Daughter
+33288100718594 - LISA [Book] A Perfect Mistake
 33288901050916 - LISA [Book] PJ Masks Save the Library!
 33288090690274 - LISA [Video Game] Rapala Fishing Pro Series
 33288100546466 - LISA [Book] Real Pigeons Nest Hard
 33288102373117 - LISA [Book] Renewable Energy
+33288900151030 - LISA [Book] The Ring of Sky
 33288100781550 - LISA [Book] The Sea of Terror
 33288102387265 - LISA [Book] Shark and Bot
 33288901189755 - LISA [Book] Small Talk
+33288900379078 - LISA [Book] Sparta!
+33288500178738 - LISA [Book] Storm Chaser
 33288087334902 - LISA [Book] Stranded
+33288086884386 - LISA [Book] Sweaty Suits of Armor
 33288089155933 - LISA [Book] Technology in the Ancient World
+33288901197287 - LISA [Book] Thomas and the Piglets
 33288900490842 - LISA [Book] Tips & Tricks for Analyzing Ideas, Events, and Individuals
 33288087360972 - LISA [Book] Train your Brain to Be A Math Genius
 33288900354071 - LISA [Book] Usborne Guitar for Beginners
-33288100691221 - LISA [Book] Welcome to Stubtoe Elementary
+33288089000337 - LISA [Book] The Way of the Dragon
+33288900989577 - LISA [Book] Young Samurai
+33288087402873 - LISA [Book] The Battle of Marathon
+33288091876088 - LISA [Book] A Bilingual Treasury of Chinese Folktales
+33288102251008 - LISA [Book] Complete Canadian Curriculum
+33288100993189 - LISA [Book] Dog Man
+33288901533911 - LISA [Book] JUMP at Home
+33288101093351 - LISA [Book] The Shipwreck
 
