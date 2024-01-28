@@ -2,14 +2,12 @@
 33288102172634 - ANDY [Book] Be A Bridge
 33288088176260 - ANDY [Book] Bear and Hare Go Fishing
 33288102386234 - ANDY [Book] Before, Now
-33288085638759 - ANDY [Book] Bitter Ashes
 33288089150611 - ANDY [Book] Canada in World War I
 33288085660688 - ANDY [Book] D-Day
 33288100920943 - ANDY [Book] Firefly Home
 33288090469083 - ANDY [Book] Happy!
 33288101772897 - ANDY [Book] Love Is Powerful
 33288900473319 - ANDY [Book] Math Handbook
-33288100958844 - ANDY [Book] The Munchy Munchy Cookbook for Kids
 33288090200892 - ANDY [Book] Stop, Go, Yes, No!
 33288100930397 - ANDY [Book] Toy Story Storybook Collection
 33288091693848 - ANDY [Book] The Voyage
@@ -19,7 +17,6 @@
 33288090919046 - ANDY [Book] Be Who You Are
 33288089937181 - ANDY [Kit] Beyond the Pond
 33288087912723 - ANDY [Book] Did You Know?
-33288101279638 - ANDY [Book] Escape at 10,000 Feet
 33288089986766 - ANDY [Kit] Horse Meets Dog
 33288101743443 - ANDY [Book] Incredible Jobs You've (probably) Never Heard of
 33288101126383 - ANDY [Book] The Knight Who Said "no!"
@@ -28,28 +25,15 @@
 33288085560375 - ANDY [Book] Teddy Bear Math
 33288091302507 - ANDY [Book] The X-files
 33288102004324 - ANDY [Book] 100 Things to Know About Music
-33288083308769 - ANDY [Book] Ancient Greece
-33288085800763 - ANDY [Book] Ancient Rome
-33288076765470 - ANDY [Book] Archers, Alchemists, and 98 Other Medieval Jobs You Might Have Loved or Loathed
-33288085664144 - ANDY [Book] China Since WW II
 33288101521518 - ANDY [Book] Choosing your Battles
-33288086884352 - ANDY [Book] Don't Let the Barber Pull your Teeth
-33288085649467 - ANDY [Unknown] Early Medieval Times
 33288086932284 - ANDY [Book] Famous People of the War of 1812
 33288900777586 - ANDY [Book] Guts & Glory
-33288090111164 - ANDY [Book] Horrible Jobs in Medieval Times
 33288084929332 - ANDY [Book] The Horrible, Miserable Middle Ages
-33288089151007 - ANDY [Book] How They Croaked
-33288080622170 - ANDY [Book] How to Be A Roman Soldier
 33288901243677 - ANDY [Book] Innovation Nation
 33288082309487 - ANDY [Book] Knights in Shining Armor
-33288079964146 - ANDY [Book] Land and Resources of Ancient Greece
 33288086932243 - ANDY [Book] The Legacy of the War of 1812
-33288089547105 - ANDY [Book] The Life of A Medieval Knight
 33288086932201 - ANDY [Book] Major Battles of the War of 1812
-33288901418717 - ANDY [Book] Medieval Knight Science
 33288076543273 - ANDY [Book] Medieval Weapons and Warfare
-33288900485776 - ANDY [Book] Meet the Medievals
 33288085661025 - ANDY [Book] The Middle Ages
 33288900605647 - ANDY [Book] Minecraft
 33288082654361 - ANDY [Book] Montcalm and Wolfe
@@ -57,20 +41,17 @@
 33288080815741 - ANDY [Book] Politics and Government in Ancient Greece
 33288101683151 - ANDY [Book] Professor Astro Cat's Deep-sea Voyage
 33288900458559 - ANDY [Book] Raiders of the North
-33288080566765 - ANDY [Book] Red Land, Yellow River
 33288100954413 - ANDY [Book] Tech Lab
 33288101749424 - ANDY [Book] Timelines of Everyone
 33288900414438 - ANDY [Book] The True Story of the Civil War
-33288083748659 - ANDY [Book] Vietnam War
 33288900786116 - ANDY [Book] Vikings
 33288086932235 - ANDY [Book] What Caused the War of 1812?
-33288900761747 - ANDY [Book] You Wouldn't Want to Be in A Medieval Dungeon!
-33288101243030 - ANDY [Book] It's Okay to Make Mistakes
-33288102319821 - LISA [Book] Amazing Animal Journeys
-33288101287540 - LISA [Book] Coding With Python
-33288101093609 - LISA [Book] Everything You Need to Ace Chemistry in One Big Fat Notebook
-33288102224096 - LISA [Book] The Travel Book
-33288101326801 - LISA [Book] Usborne Money for Beginners
+33288085730291 - ANDY [Book] The Attack on Pearl Harbor
+33288900471164 - ANDY [Book] Battle of Vimy Ridge
+33288090492549 - ANDY [Book] Green Eggs and Ham
+33288086811421 - ANDY [Book] Hail! Ancient Egyptians
+33288900395652 - ANDY [Book] Lost Cities
+33288901534679 - ANDY [Book] Roots of the Conflict
 33288085712059 - LISA [Book] Complete ScienceSmart
 33288080539549 - LISA [Book] MathSmart Problem-solving [grade] 6A
 33288074992365 - LISA [Device] Astral Pack
@@ -79,44 +60,12 @@
 33288900110457 - LISA [Book] The MindUp Curriculum
 33288901612442 - LISA [Book] Usborne Business for Beginners
 33288101097659 - LISA [Book] Everything You Need to Ace English Language Arts in One Big Fat Notebook
-33288084072505 - LISA [Book] Grammar Essentials
 33288102251008 - LISA [Book] Complete Canadian Curriculum
-33288100993189 - LISA [Book] Dog Man
-33288901533911 - LISA [Book] JUMP at Home
-33288101093351 - LISA [Book] The Shipwreck
-33288101768846 - LISA [Book] The Aquanaut
-33288102252345 - LISA [Book] The Bad Guys
 33288100267907 - LISA [Book] The Bean Team
-33288101106948 - LISA [Book] Books Are the Best
-33288102280049 - LISA [Book] Britannica First Big Book of Why
-33288102384528 - LISA [Book] Children's Quick & Easy Cookbook
-33288085234906 - LISA [Book] Complete Canadian Curriculum
 33288900974298 - LISA [Book] Everything You Need to Ace Science in One Big Fat Notebook
-33288101409904 - LISA [Book] Go, Go, Tractors!
 33288901262826 - LISA [Book] I'm An App Developer
-33288100400912 - LISA [Book] Jack Blasts Off!
 33288101101329 - LISA [Book] Learn to Program With App Inventor
-33288082904451 - LISA [Book] The Math Teacher's Problem-a-day
-33288100961939 - LISA [Book] Meet the Wolfy Kids!
 33288089640827 - LISA [Book] Minecraft
-33288900734173 - LISA [Book] Money Hacks Handbook
-33288102342112 - LISA [Book] The Most Exciting Book of Science, Inventions & Space Ever
-33288091875411 - LISA [Book] My First Book of Chinese Calligraphy
-33288102381326 - LISA [Book] Nature School
-33288901561482 - LISA [Book] Race to the Moon!
-33288102328368 - LISA [Book] Ramen for Everyone
-33288101356360 - LISA [Book] Samuel De Champlain
-33288086730159 - LISA [Book] The Secret Life of Money
-33288091699241 - LISA [Book] Singapore Math
-33288901600843 - LISA [Book] Singapore Math
-33288102319102 - LISA [Book] Storyteller's Illustrated Dictionary
-33288900716428 - LISA [Book] The Ultimate Winter Survival Handbook
-33288901280109 - LISA [Book] The Usborne Book of Astronomy & Space
-33288900283213 - LISA [Book] Usborne First Illustrated Science Dictionary
-33288087934768 - LISA [Book] The Usborne Illustrated Dictionary of Chemistry
-33288901158248 - LISA [Book] Who Can? Daniel Can!
-33288102356633 - LISA [Book] Wow in the World
-33288900636410 - LISA [Book] Writing Opinion Papers
 33288102452309 - LISA [Blu-ray Disc] The Flash
 33288101434159 - LISA [Book] Ariel's Brave Kitten
 33288087373629 - LISA [Book] Best Dad in the Sea
@@ -135,9 +84,6 @@
 33288091571101 - LISA [Book] Minecraft
 33288101993253 - LISA [Book] Physics for Beginners
 33288086707793 - LISA [Book] ReadSmart
-33288100915299 - LISA [Book] Residential Schools
-33288900820899 - LISA [Book] Residential Schools
-33288092218504 - LISA [Book] Seen and Unseen
 33288100233735 - LISA [Book] The Visual MBA
 33288089644290 - LISA [Kit] With Lots of Love
 33288085464487 - LISA [Book] 100 Words Every Middle Schooler Should Know
@@ -147,17 +93,14 @@
 33288085568709 - LISA [Book] Aztec Warriors
 33288090957087 - LISA [Book] Bird, Balloon, Bear
 33288102068253 - LISA [Book] Birthday Helpers!
-33288500009404 - LISA [Board Book] Board books - French
 33288900943475 - LISA [Book] Conflicts in New France
 33288079446326 - LISA [Book] Cowboy
 33288101633495 - LISA [Book] Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook
 33288102045004 - LISA [Book] Good Dog School
 33288100730219 - LISA [Book] The Haven Trials
 33288101290627 - LISA [Book] The History of Everything (in 32 Pages)
-33288101871228 - LISA [Book] I Love You More
 33288901014037 - LISA [Book] I Want A Bedtime Story!
 33288101835918 - LISA [DVD] Lullabies With Love
-33288088746120 - LISA [DVD] Max & Ruby
 33288900340310 - LISA [Book] Minecraft Redstone Handbook
 33288100268319 - LISA [Book] Moana's New Friend
 33288089912077 - LISA [Book] My Magic Breath
@@ -169,17 +112,13 @@
 33288089021234 - LISA [Book] Splat the Cat Takes the Cake
 33288901619728 - LISA [Book] Timelines of Everything
 33288101107367 - LISA [Book] Tiny's New Flowers
-33288100347543 - LISA [Book] Too Cool for School
-33288901230609 - LISA [Book] What Is A Princess?
 33288091583437 - LISA [Book] Dog Man
 33288101082370 - LISA [Book] Eight Times up
 33288084072562 - LISA [Book] Essential Idioms in English
 33288900430459 - LISA [Book] For the Love of Books
 33288101426742 - LISA [Book] Go, Go, Cars!
 33288080469382 - LISA [Book] Grammar and Composition Handbook
-33288901085870 - LISA [Book] How to Be A Boss
 33288901543720 - LISA [Book] Make A Trade, Charlie Brown!
-33288085464883 - LISA [Book] Mao Zedong
 33288100008061 - LISA [Book] MathPedia
 33288091412983 - LISA [Book] Minecraft
 33288100675828 - LISA [Book] Mob Squad
@@ -189,8 +128,6 @@
 33288901050916 - LISA [Book] PJ Masks Save the Library!
 33288090690274 - LISA [Video Game] Rapala Fishing Pro Series
 33288102373117 - LISA [Book] Renewable Energy
-33288901381824 - LISA [Book] Samuel De Champlain
-33288082874738 - LISA [Book] Samuel De Champlain
 33288102387265 - LISA [Book] Shark and Bot
 33288500178738 - LISA [Book] Storm Chaser
 33288087334902 - LISA [Book] Stranded
@@ -200,4 +137,36 @@
 33288080670328 - LISA [Book] Get Wise!
 33288900881394 - LISA [Book] How to Be Good at Math
 33288101308643 - LISA [Book] Minecraft Dungeons
+33288102319821 - LISA [Book] Amazing Animal Journeys
+33288101768846 - LISA [Book] The Aquanaut
+33288102252345 - LISA [Book] The Bad Guys
+33288101106948 - LISA [Book] Books Are the Best
+33288102280049 - LISA [Book] Britannica First Big Book of Why
+33288102384528 - LISA [Book] Children's Quick & Easy Cookbook
+33288101287540 - LISA [Book] Coding With Python
+33288085234906 - LISA [Book] Complete Canadian Curriculum
+33288100993189 - LISA [Book] Dog Man
+33288101409904 - LISA [Book] Go, Go, Tractors!
+33288084072505 - LISA [Book] Grammar Essentials
+33288100400912 - LISA [Book] Jack Blasts Off!
+33288901533911 - LISA [Book] JUMP at Home
+33288082904451 - LISA [Book] The Math Teacher's Problem-a-day
+33288900734173 - LISA [Book] Money Hacks Handbook
+33288102342112 - LISA [Book] The Most Exciting Book of Science, Inventions & Space Ever
+33288091875411 - LISA [Book] My First Book of Chinese Calligraphy
+33288102381326 - LISA [Book] Nature School
+33288901561482 - LISA [Book] Race to the Moon!
+33288102328368 - LISA [Book] Ramen for Everyone
+33288086730159 - LISA [Book] The Secret Life of Money
+33288101093351 - LISA [Book] The Shipwreck
+33288091699241 - LISA [Book] Singapore Math
+33288901600843 - LISA [Book] Singapore Math
+33288102319102 - LISA [Book] Storyteller's Illustrated Dictionary
+33288900716428 - LISA [Book] The Ultimate Winter Survival Handbook
+33288901280109 - LISA [Book] The Usborne Book of Astronomy & Space
+33288900283213 - LISA [Book] Usborne First Illustrated Science Dictionary
+33288087934768 - LISA [Book] The Usborne Illustrated Dictionary of Chemistry
+33288901158248 - LISA [Book] Who Can? Daniel Can!
+33288102356633 - LISA [Book] Wow in the World
+33288900636410 - LISA [Book] Writing Opinion Papers
 
