@@ -36,19 +36,12 @@
       flex-direction: column;
     }
 
+    /* smaller, non-sticky header */
     header {
-      padding: 1.25rem 1.5rem 0.75rem;
-      position: sticky;
-      top: 0;
-      z-index: 20;
-      backdrop-filter: blur(18px);
-      background: linear-gradient(
-        to bottom,
-        rgba(15, 23, 42, 0.96),
-        rgba(15, 23, 42, 0.82),
-        transparent
-      );
-      border-bottom: 1px solid rgba(148, 163, 184, 0.12);
+      padding: 0.75rem 1.5rem 0.6rem;
+      background: rgba(15, 23, 42, 0.98);
+      border-bottom: 1px solid rgba(148, 163, 184, 0.18);
+      position: static; /* no sticky */
     }
 
     .header-inner {
@@ -57,26 +50,26 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 1rem;
+      gap: 0.75rem;
     }
 
     .brand {
       display: flex;
       align-items: center;
-      gap: 0.75rem;
+      gap: 0.6rem;
     }
 
     .brand-logo {
-      width: 40px;
-      height: 40px;
-      border-radius: 18px;
+      width: 32px;
+      height: 32px;
+      border-radius: 14px;
       background: radial-gradient(circle at 30% 0, #a7f3d0, #22c55e 45%, #14532d);
       display: flex;
       align-items: center;
       justify-content: center;
-      box-shadow: 0 10px 25px rgba(34, 197, 94, 0.55);
+      box-shadow: 0 6px 16px rgba(34, 197, 94, 0.55);
       font-weight: 800;
-      font-size: 1.1rem;
+      font-size: 0.9rem;
       letter-spacing: 0.08em;
       color: #022c22;
     }
@@ -84,36 +77,36 @@
     .brand-text-main {
       font-weight: 700;
       letter-spacing: 0.06em;
-      font-size: 0.95rem;
+      font-size: 0.85rem;
       text-transform: uppercase;
       color: #e5e7eb;
     }
 
     .brand-text-sub {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       color: var(--text-muted);
     }
 
     .pill {
-      padding: 0.3rem 0.8rem;
+      padding: 0.2rem 0.6rem;
       border-radius: var(--radius-pill);
       border: 1px solid rgba(148, 163, 184, 0.4);
-      font-size: 0.75rem;
+      font-size: 0.7rem;
       color: var(--text-muted);
       display: inline-flex;
       align-items: center;
-      gap: 0.4rem;
+      gap: 0.35rem;
       background: rgba(15, 23, 42, 0.7);
     }
 
     main {
       flex: 1;
-      padding: 0 1.5rem 2rem;
+      padding: 0.75rem 1.5rem 2rem;
     }
 
     .main-inner {
       max-width: 1200px;
-      margin: 0.75rem auto 0;
+      margin: 0 auto;
     }
 
     .controls {
@@ -121,7 +114,7 @@
       grid-template-columns: minmax(0, 2fr) repeat(2, minmax(0, 1fr));
       gap: var(--gap);
       align-items: center;
-      margin-bottom: 1.25rem;
+      margin-bottom: 1rem;
     }
 
     @media (max-width: 800px) {
@@ -245,7 +238,7 @@
     }
 
     .card-body {
-      padding: 0.9rem 0.95rem 0.75rem;
+      padding: 0.9rem 0.95rem 0.6rem;
       display: flex;
       flex-direction: column;
       gap: 0.45rem;
@@ -313,24 +306,10 @@
     }
 
     .card-footer {
-      padding: 0.6rem 0.95rem 0.9rem;
+      padding: 0.6rem 0.95rem 0.85rem;
       display: flex;
-      align-items: center;
-      justify-content: space-between;
+      justify-content: flex-end; /* only the button now */
       gap: 0.5rem;
-    }
-
-    .expiry-text {
-      font-size: 0.75rem;
-      color: var(--text-muted);
-    }
-
-    .expiry-text.expiring-soon {
-      color: #fde68a;
-    }
-
-    .expiry-text.expired {
-      color: var(--danger);
     }
 
     .btn-link {
@@ -381,15 +360,15 @@
       <div class="brand">
         <div class="brand-logo">ACE</div>
         <div>
-          <div class="brand-text-main">ACE DEALS CLUB</div>
+          <div class="brand-text-main">ACE Deals Club</div>
           <div class="brand-text-sub">
-            Costco.ca Online Deals – powered by your JSON file
+            Costco.ca Online Deals
           </div>
         </div>
       </div>
       <div class="pill">
         <span>🛒</span>
-        <span>Live from Costco_Online_Deals.json</span>
+        <span>From Costco_Online_Deals.json</span>
       </div>
     </div>
   </header>
@@ -424,7 +403,6 @@
             <option value="discount-desc">Biggest discount</option>
             <option value="price-asc">Lowest sale price</option>
             <option value="price-desc">Highest sale price</option>
-            <option value="expiry-asc">Expiring soonest</option>
             <option value="name-asc">Name (A → Z)</option>
           </select>
         </div>
@@ -463,7 +441,6 @@
         </div>
       </div>
       <div class="card-footer">
-        <div class="expiry-text"></div>
         <a class="btn-link" target="_blank" rel="noopener noreferrer">
           <span>View on Costco.ca</span>
           <span>↗</span>
@@ -513,8 +490,7 @@
       }
     }
 
-    // 🔧 IMPORTANT:
-    // Adjust the field mappings here to match your exact JSON keys if needed.
+    // Adjust field mappings here if your JSON uses different keys
     function normaliseDeal(deal) {
       const name =
         deal.title ||
@@ -540,7 +516,6 @@
       let discountPercent =
         deal.discountPercent || deal.discount || deal.discount_percentage;
 
-      // If discount is not directly in JSON, approximate from prices
       if (
         (discountPercent == null || isNaN(discountPercent)) &&
         salePrice &&
@@ -567,13 +542,6 @@
         deal.product_url ||
         "https://www.costco.ca/";
 
-      const expiryRaw =
-        deal.expiry ||
-        deal.endDate ||
-        deal.expiryDate ||
-        deal.offerEnds ||
-        null;
-
       return {
         raw: deal,
         name,
@@ -584,7 +552,6 @@
           discountPercent != null ? Number(discountPercent) : null,
         imageUrl,
         productUrl,
-        expiryRaw,
       };
     }
 
@@ -606,7 +573,7 @@
         return matchesQuery && meetsDiscount;
       });
 
-      // Sorting
+      // Sorting (no expiry now)
       filtered.sort((a, b) => {
         switch (sort) {
           case "discount-desc":
@@ -615,8 +582,6 @@
             return (a.salePrice || Infinity) - (b.salePrice || Infinity);
           case "price-desc":
             return (b.salePrice || 0) - (a.salePrice || 0);
-          case "expiry-asc":
-            return getExpirySortKey(a) - getExpirySortKey(b);
           case "name-asc":
             return a.name.localeCompare(b.name);
           default:
@@ -636,18 +601,14 @@
 
       filtered.forEach((deal) => {
         const node = cardTemplate.content.cloneNode(true);
-        const card = node.querySelector(".card");
 
-        // Image
         const img = node.querySelector(".card-image");
         img.src = deal.imageUrl;
         img.alt = deal.name;
 
-        // Title
         const title = node.querySelector(".card-title");
         title.textContent = deal.name;
 
-        // Discount badge
         const badgeDiscount = node.querySelector(".badge-discount");
         if (deal.discountPercent != null && !isNaN(deal.discountPercent)) {
           badgeDiscount.textContent = `-${deal.discountPercent}%`;
@@ -655,7 +616,6 @@
           badgeDiscount.textContent = "Promo";
         }
 
-        // Prices
         const saleEl = node.querySelector(".price-sale");
         const origEl = node.querySelector(".price-original");
         const noteEl = node.querySelector(".price-note");
@@ -686,13 +646,6 @@
           noteEl.textContent = "";
         }
 
-        // Expiry
-        const expiryEl = node.querySelector(".expiry-text");
-        const { label, cssClass } = formatExpiry(deal.expiryRaw);
-        expiryEl.textContent = label;
-        if (cssClass) expiryEl.classList.add(cssClass);
-
-        // Link
         const linkEl = node.querySelector(".btn-link");
         linkEl.href = deal.productUrl;
 
@@ -708,47 +661,6 @@
       return `$${value.toFixed(2)}`;
     }
 
-    function getExpirySortKey(deal) {
-      if (!deal.expiryRaw) return Number.POSITIVE_INFINITY;
-      const dt = new Date(deal.expiryRaw);
-      if (isNaN(dt.getTime())) return Number.POSITIVE_INFINITY;
-      return dt.getTime();
-    }
-
-    function formatExpiry(raw) {
-      if (!raw) {
-        return {
-          label: "No end date listed",
-          cssClass: "",
-        };
-      }
-      const dt = new Date(raw);
-      if (isNaN(dt.getTime())) {
-        return {
-          label: String(raw),
-          cssClass: "",
-        };
-      }
-
-      const now = new Date();
-      const diffMs = dt.getTime() - now.getTime();
-      const diffDays = Math.round(diffMs / (1000 * 60 * 60 * 24));
-
-      let label = `Ends on ${dt.toLocaleDateString()}`;
-      let cssClass = "";
-
-      if (diffDays < 0) {
-        label = `Expired on ${dt.toLocaleDateString()}`;
-        cssClass = "expired";
-      } else if (diffDays <= 2) {
-        label = `Ends in ${diffDays === 0 ? "today" : diffDays + " day(s)"}`;
-        cssClass = "expiring-soon";
-      }
-
-      return { label, cssClass };
-    }
-
-    // Event wiring
     searchInput.addEventListener("input", () => render());
     minDiscountSelect.addEventListener("change", () => render());
     sortSelect.addEventListener("change", () => render());
