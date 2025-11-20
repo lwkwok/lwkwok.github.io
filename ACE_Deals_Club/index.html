@@ -14,7 +14,6 @@
       --text-main: #e5e7eb;
       --text-muted: #9ca3af;
       --border-subtle: #1f2933;
-      --danger: #f97373;
       --shadow-soft: 0 18px 40px rgba(0, 0, 0, 0.45);
       --radius-lg: 18px;
       --radius-pill: 999px;
@@ -308,8 +307,21 @@
     .card-footer {
       padding: 0.6rem 0.95rem 0.85rem;
       display: flex;
-      justify-content: flex-end; /* only the button now */
+      align-items: center;
+      justify-content: flex-end;
       gap: 0.5rem;
+    }
+
+    .promo-comment {
+      font-size: 0.78rem;
+      color: #a5b4fc;
+      margin-right: auto;
+      padding-right: 0.5rem;
+      opacity: 0.9;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      max-width: 60%;
     }
 
     .btn-link {
@@ -441,6 +453,7 @@
         </div>
       </div>
       <div class="card-footer">
+        <div class="promo-comment"></div>
         <a class="btn-link" target="_blank" rel="noopener noreferrer">
           <span>View on Costco.ca</span>
           <span>↗</span>
@@ -490,31 +503,35 @@
       }
     }
 
-    // Adjust field mappings here if your JSON uses different keys
+    // Field mappings tuned for your JSON:
+    // name, original_price, sale_price, discount_percent, image_url, product_url, comment
     function normaliseDeal(deal) {
       const name =
-        deal.title ||
         deal.name ||
+        deal.title ||
         deal.productName ||
         deal.description ||
         "Untitled deal";
 
       const salePrice =
+        deal.sale_price ||
         deal.salePrice ||
         deal.currentPrice ||
         deal.price ||
-        deal.sale_price ||
         null;
 
       const originalPrice =
+        deal.original_price ||
         deal.originalPrice ||
         deal.regularPrice ||
         deal.listPrice ||
-        deal.original_price ||
         null;
 
       let discountPercent =
-        deal.discountPercent || deal.discount || deal.discount_percentage;
+        deal.discount_percent ||
+        deal.discountPercent ||
+        deal.discount ||
+        deal.discount_percentage;
 
       if (
         (discountPercent == null || isNaN(discountPercent)) &&
@@ -529,18 +546,21 @@
       }
 
       const imageUrl =
+        deal.image_url ||
         deal.imageUrl ||
         deal.image ||
         deal.img ||
-        deal.image_url ||
         "https://www.costco.ca/wcsstore/CostcoGLOBALSAS/images/CostcoLogo_Desktop_En.svg";
 
       const productUrl =
+        deal.product_url ||
+        deal.productUrl ||
         deal.url ||
         deal.link ||
-        deal.productUrl ||
-        deal.product_url ||
         "https://www.costco.ca/";
+
+      const comment =
+        deal.comment || deal.promotion || deal.note || null;
 
       return {
         raw: deal,
@@ -552,6 +572,7 @@
           discountPercent != null ? Number(discountPercent) : null,
         imageUrl,
         productUrl,
+        comment
       };
     }
 
@@ -573,7 +594,7 @@
         return matchesQuery && meetsDiscount;
       });
 
-      // Sorting (no expiry now)
+      // Sorting (no expiry)
       filtered.sort((a, b) => {
         switch (sort) {
           case "discount-desc":
@@ -644,6 +665,13 @@
           noteEl.textContent = `You save ${formatPrice(delta)}`;
         } else {
           noteEl.textContent = "";
+        }
+
+        const commentEl = node.querySelector(".promo-comment");
+        if (deal.comment) {
+          commentEl.textContent = deal.comment;
+        } else {
+          commentEl.textContent = "";
         }
 
         const linkEl = node.querySelector(".btn-link");
