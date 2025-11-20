@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>ACE Deals Club – Costco Online Deals</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #0f172a;
+      --bg-alt: #020617;
+      --card-bg: #111827;
+      --accent: #22c55e;
+      --accent-soft: #16a34a33;
+      --text-main: #e5e7eb;
+      --text-muted: #9ca3af;
+      --border-subtle: #1f2933;
+      --danger: #f97373;
+      --shadow-soft: 0 18px 40px rgba(0, 0, 0, 0.45);
+      --radius-lg: 18px;
+      --radius-pill: 999px;
+      --gap: 1.25rem;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+      background: radial-gradient(circle at top, #1e293b, #020617 55%);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      padding: 1.25rem 1.5rem 0.75rem;
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(18px);
+      background: linear-gradient(
+        to bottom,
+        rgba(15, 23, 42, 0.96),
+        rgba(15, 23, 42, 0.82),
+        transparent
+      );
+      border-bottom: 1px solid rgba(148, 163, 184, 0.12);
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .brand-logo {
+      width: 40px;
+      height: 40px;
+      border-radius: 18px;
+      background: radial-gradient(circle at 30% 0, #a7f3d0, #22c55e 45%, #14532d);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 10px 25px rgba(34, 197, 94, 0.55);
+      font-weight: 800;
+      font-size: 1.1rem;
+      letter-spacing: 0.08em;
+      color: #022c22;
+    }
+
+    .brand-text-main {
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      font-size: 0.95rem;
+      text-transform: uppercase;
+      color: #e5e7eb;
+    }
+
+    .brand-text-sub {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .pill {
+      padding: 0.3rem 0.8rem;
+      border-radius: var(--radius-pill);
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: rgba(15, 23, 42, 0.7);
+    }
+
+    main {
+      flex: 1;
+      padding: 0 1.5rem 2rem;
+    }
+
+    .main-inner {
+      max-width: 1200px;
+      margin: 0.75rem auto 0;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: minmax(0, 2fr) repeat(2, minmax(0, 1fr));
+      gap: var(--gap);
+      align-items: center;
+      margin-bottom: 1.25rem;
+    }
+
+    @media (max-width: 800px) {
+      .controls {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
+    .control-label {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    input[type="search"],
+    select {
+      width: 100%;
+      border-radius: var(--radius-pill);
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      padding: 0.6rem 0.9rem;
+      background: rgba(15, 23, 42, 0.9);
+      color: var(--text-main);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border 0.15s, box-shadow 0.15s, background 0.15s;
+    }
+
+    input[type="search"]:focus,
+    select:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px rgba(34, 197, 94, 0.4);
+      background: rgba(15, 23, 42, 1);
+    }
+
+    .stats {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-bottom: 0.75rem;
+    }
+
+    @media (max-width: 600px) {
+      .stats {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+
+    .stats-strong {
+      color: #a5b4fc;
+    }
+
+    .stats-highlight {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: var(--gap);
+      align-items: stretch;
+    }
+
+    .card {
+      background: radial-gradient(circle at top left, #111827, #020617);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border-subtle);
+      box-shadow: var(--shadow-soft);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(
+        circle at top left,
+        rgba(34, 197, 94, 0.18),
+        transparent 65%
+      );
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s;
+    }
+
+    .card:hover::before {
+      opacity: 1;
+    }
+
+    .card-image-wrapper {
+      background: #020617;
+      aspect-ratio: 4 / 3;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-bottom: 1px solid var(--border-subtle);
+      overflow: hidden;
+    }
+
+    .card-image {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      transition: transform 0.25s ease-out;
+    }
+
+    .card:hover .card-image {
+      transform: scale(1.05);
+    }
+
+    .card-body {
+      padding: 0.9rem 0.95rem 0.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+      flex: 1;
+    }
+
+    .card-title {
+      font-size: 0.92rem;
+      font-weight: 600;
+      line-height: 1.3;
+      color: #e5e7eb;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      overflow: hidden;
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      align-items: center;
+      margin-bottom: 0.15rem;
+    }
+
+    .badge-discount {
+      padding: 0.12rem 0.55rem;
+      border-radius: var(--radius-pill);
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    .badge-tag {
+      padding: 0.12rem 0.55rem;
+      border-radius: var(--radius-pill);
+      background: rgba(30, 64, 175, 0.4);
+      color: #c7d2fe;
+      font-size: 0.72rem;
+    }
+
+    .price-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .price-sale {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .price-original {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      text-decoration: line-through;
+    }
+
+    .price-note {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .card-footer {
+      padding: 0.6rem 0.95rem 0.9rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .expiry-text {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .expiry-text.expiring-soon {
+      color: #fde68a;
+    }
+
+    .expiry-text.expired {
+      color: var(--danger);
+    }
+
+    .btn-link {
+      padding: 0.45rem 0.9rem;
+      border-radius: var(--radius-pill);
+      border: none;
+      background: linear-gradient(to right, #22c55e, #4ade80);
+      color: #022c22;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      white-space: nowrap;
+      box-shadow: 0 10px 20px rgba(34, 197, 94, 0.4);
+      transition: transform 0.13s ease-out, box-shadow 0.13s ease-out;
+    }
+
+    .btn-link:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 14px 28px rgba(34, 197, 94, 0.55);
+    }
+
+    .btn-link span {
+      font-size: 0.9em;
+    }
+
+    .empty-state {
+      padding: 2.5rem 1.5rem;
+      text-align: center;
+      color: var(--text-muted);
+      border-radius: var(--radius-lg);
+      border: 1px dashed rgba(148, 163, 184, 0.4);
+      background: rgba(15, 23, 42, 0.8);
+      margin-top: 1.5rem;
+    }
+
+    .empty-state strong {
+      color: #e5e7eb;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-logo">ACE</div>
+        <div>
+          <div class="brand-text-main">ACE DEALS CLUB</div>
+          <div class="brand-text-sub">
+            Costco.ca Online Deals – powered by your JSON file
+          </div>
+        </div>
+      </div>
+      <div class="pill">
+        <span>🛒</span>
+        <span>Live from Costco_Online_Deals.json</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="main-inner">
+      <section class="controls">
+        <div class="control-group">
+          <label for="searchInput" class="control-label">Search deals</label>
+          <input
+            type="search"
+            id="searchInput"
+            placeholder="Search by name, keyword, or item number…"
+          />
+        </div>
+        <div class="control-group">
+          <label for="minDiscount" class="control-label">
+            Minimum discount (%)
+          </label>
+          <select id="minDiscount">
+            <option value="0">Show all</option>
+            <option value="10">10% or more</option>
+            <option value="20">20% or more</option>
+            <option value="30">30% or more</option>
+            <option value="40">40% or more</option>
+            <option value="50">50% or more</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="sortSelect" class="control-label">Sort by</label>
+          <select id="sortSelect">
+            <option value="discount-desc">Biggest discount</option>
+            <option value="price-asc">Lowest sale price</option>
+            <option value="price-desc">Highest sale price</option>
+            <option value="expiry-asc">Expiring soonest</option>
+            <option value="name-asc">Name (A → Z)</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="stats">
+        <div>
+          <span class="stats-strong" id="totalCount">0</span> total deals
+          loaded.
+        </div>
+        <div>
+          Showing <span class="stats-highlight" id="visibleCount">0</span>
+          deals after filters.
+        </div>
+      </section>
+
+      <section id="gridContainer"></section>
+    </div>
+  </main>
+
+  <template id="dealCardTemplate">
+    <article class="card">
+      <div class="card-image-wrapper">
+        <img class="card-image" alt="" />
+      </div>
+      <div class="card-body">
+        <div class="badge-row">
+          <span class="badge-discount"></span>
+          <span class="badge-tag">Online deal</span>
+        </div>
+        <h2 class="card-title"></h2>
+        <div class="price-row">
+          <span class="price-sale"></span>
+          <span class="price-original"></span>
+          <span class="price-note"></span>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="expiry-text"></div>
+        <a class="btn-link" target="_blank" rel="noopener noreferrer">
+          <span>View on Costco.ca</span>
+          <span>↗</span>
+        </a>
+      </div>
+    </article>
+  </template>
+
+  <script>
+    const gridContainer = document.getElementById("gridContainer");
+    const totalCountEl = document.getElementById("totalCount");
+    const visibleCountEl = document.getElementById("visibleCount");
+    const searchInput = document.getElementById("searchInput");
+    const minDiscountSelect = document.getElementById("minDiscount");
+    const sortSelect = document.getElementById("sortSelect");
+    const cardTemplate = document.getElementById("dealCardTemplate");
+
+    let allDeals = [];
+
+    async function loadDeals() {
+      try {
+        const res = await fetch("Costco_Online_Deals.json", {
+          cache: "no-cache",
+        });
+        const raw = await res.json();
+
+        // Normalise in case your JSON is { "deals": [...] } or just [...]
+        let data;
+        if (Array.isArray(raw)) {
+          data = raw;
+        } else if (Array.isArray(raw.deals)) {
+          data = raw.deals;
+        } else if (Array.isArray(raw.items)) {
+          data = raw.items;
+        } else {
+          console.warn("Unrecognised JSON shape, using []", raw);
+          data = [];
+        }
+
+        allDeals = data.map(normaliseDeal);
+        totalCountEl.textContent = allDeals.length.toString();
+        render();
+      } catch (err) {
+        console.error("Failed to load Costco_Online_Deals.json", err);
+        gridContainer.innerHTML =
+          '<div class="empty-state"><strong>Hmm…</strong> I could not load <code>Costco_Online_Deals.json</code>. Make sure this HTML file is in the same folder and the JSON is valid.</div>';
+      }
+    }
+
+    // 🔧 IMPORTANT:
+    // Adjust the field mappings here to match your exact JSON keys if needed.
+    function normaliseDeal(deal) {
+      const name =
+        deal.title ||
+        deal.name ||
+        deal.productName ||
+        deal.description ||
+        "Untitled deal";
+
+      const salePrice =
+        deal.salePrice ||
+        deal.currentPrice ||
+        deal.price ||
+        deal.sale_price ||
+        null;
+
+      const originalPrice =
+        deal.originalPrice ||
+        deal.regularPrice ||
+        deal.listPrice ||
+        deal.original_price ||
+        null;
+
+      let discountPercent =
+        deal.discountPercent || deal.discount || deal.discount_percentage;
+
+      // If discount is not directly in JSON, approximate from prices
+      if (
+        (discountPercent == null || isNaN(discountPercent)) &&
+        salePrice &&
+        originalPrice &&
+        Number(originalPrice) > 0
+      ) {
+        const s = Number(salePrice);
+        const o = Number(originalPrice);
+        const pct = Math.round(((o - s) / o) * 100);
+        discountPercent = isFinite(pct) ? pct : null;
+      }
+
+      const imageUrl =
+        deal.imageUrl ||
+        deal.image ||
+        deal.img ||
+        deal.image_url ||
+        "https://www.costco.ca/wcsstore/CostcoGLOBALSAS/images/CostcoLogo_Desktop_En.svg";
+
+      const productUrl =
+        deal.url ||
+        deal.link ||
+        deal.productUrl ||
+        deal.product_url ||
+        "https://www.costco.ca/";
+
+      const expiryRaw =
+        deal.expiry ||
+        deal.endDate ||
+        deal.expiryDate ||
+        deal.offerEnds ||
+        null;
+
+      return {
+        raw: deal,
+        name,
+        salePrice: salePrice != null ? Number(salePrice) : null,
+        originalPrice:
+          originalPrice != null ? Number(originalPrice) : null,
+        discountPercent:
+          discountPercent != null ? Number(discountPercent) : null,
+        imageUrl,
+        productUrl,
+        expiryRaw,
+      };
+    }
+
+    function render() {
+      const query = (searchInput.value || "").toLowerCase().trim();
+      const minDiscount = Number(minDiscountSelect.value || "0");
+      const sort = sortSelect.value;
+
+      let filtered = allDeals.filter((d) => {
+        const matchesQuery =
+          !query ||
+          JSON.stringify(d.raw).toLowerCase().includes(query) ||
+          d.name.toLowerCase().includes(query);
+
+        const meetsDiscount =
+          !minDiscount ||
+          (d.discountPercent != null && d.discountPercent >= minDiscount);
+
+        return matchesQuery && meetsDiscount;
+      });
+
+      // Sorting
+      filtered.sort((a, b) => {
+        switch (sort) {
+          case "discount-desc":
+            return (b.discountPercent || 0) - (a.discountPercent || 0);
+          case "price-asc":
+            return (a.salePrice || Infinity) - (b.salePrice || Infinity);
+          case "price-desc":
+            return (b.salePrice || 0) - (a.salePrice || 0);
+          case "expiry-asc":
+            return getExpirySortKey(a) - getExpirySortKey(b);
+          case "name-asc":
+            return a.name.localeCompare(b.name);
+          default:
+            return 0;
+        }
+      });
+
+      visibleCountEl.textContent = filtered.length.toString();
+
+      if (!filtered.length) {
+        gridContainer.innerHTML =
+          '<div class="empty-state">No deals match your filters right now. Try clearing the search or lowering the minimum discount.</div>';
+        return;
+      }
+
+      const frag = document.createDocumentFragment();
+
+      filtered.forEach((deal) => {
+        const node = cardTemplate.content.cloneNode(true);
+        const card = node.querySelector(".card");
+
+        // Image
+        const img = node.querySelector(".card-image");
+        img.src = deal.imageUrl;
+        img.alt = deal.name;
+
+        // Title
+        const title = node.querySelector(".card-title");
+        title.textContent = deal.name;
+
+        // Discount badge
+        const badgeDiscount = node.querySelector(".badge-discount");
+        if (deal.discountPercent != null && !isNaN(deal.discountPercent)) {
+          badgeDiscount.textContent = `-${deal.discountPercent}%`;
+        } else {
+          badgeDiscount.textContent = "Promo";
+        }
+
+        // Prices
+        const saleEl = node.querySelector(".price-sale");
+        const origEl = node.querySelector(".price-original");
+        const noteEl = node.querySelector(".price-note");
+
+        if (deal.salePrice != null) {
+          saleEl.textContent = formatPrice(deal.salePrice);
+        } else {
+          saleEl.textContent = "";
+        }
+
+        if (
+          deal.originalPrice != null &&
+          deal.originalPrice > deal.salePrice
+        ) {
+          origEl.textContent = formatPrice(deal.originalPrice);
+        } else {
+          origEl.textContent = "";
+        }
+
+        if (
+          deal.salePrice != null &&
+          deal.originalPrice != null &&
+          deal.originalPrice > deal.salePrice
+        ) {
+          const delta = deal.originalPrice - deal.salePrice;
+          noteEl.textContent = `You save ${formatPrice(delta)}`;
+        } else {
+          noteEl.textContent = "";
+        }
+
+        // Expiry
+        const expiryEl = node.querySelector(".expiry-text");
+        const { label, cssClass } = formatExpiry(deal.expiryRaw);
+        expiryEl.textContent = label;
+        if (cssClass) expiryEl.classList.add(cssClass);
+
+        // Link
+        const linkEl = node.querySelector(".btn-link");
+        linkEl.href = deal.productUrl;
+
+        frag.appendChild(node);
+      });
+
+      gridContainer.innerHTML = "";
+      gridContainer.appendChild(frag);
+    }
+
+    function formatPrice(value) {
+      if (value == null || isNaN(value)) return "";
+      return `$${value.toFixed(2)}`;
+    }
+
+    function getExpirySortKey(deal) {
+      if (!deal.expiryRaw) return Number.POSITIVE_INFINITY;
+      const dt = new Date(deal.expiryRaw);
+      if (isNaN(dt.getTime())) return Number.POSITIVE_INFINITY;
+      return dt.getTime();
+    }
+
+    function formatExpiry(raw) {
+      if (!raw) {
+        return {
+          label: "No end date listed",
+          cssClass: "",
+        };
+      }
+      const dt = new Date(raw);
+      if (isNaN(dt.getTime())) {
+        return {
+          label: String(raw),
+          cssClass: "",
+        };
+      }
+
+      const now = new Date();
+      const diffMs = dt.getTime() - now.getTime();
+      const diffDays = Math.round(diffMs / (1000 * 60 * 60 * 24));
+
+      let label = `Ends on ${dt.toLocaleDateString()}`;
+      let cssClass = "";
+
+      if (diffDays < 0) {
+        label = `Expired on ${dt.toLocaleDateString()}`;
+        cssClass = "expired";
+      } else if (diffDays <= 2) {
+        label = `Ends in ${diffDays === 0 ? "today" : diffDays + " day(s)"}`;
+        cssClass = "expiring-soon";
+      }
+
+      return { label, cssClass };
+    }
+
+    // Event wiring
+    searchInput.addEventListener("input", () => render());
+    minDiscountSelect.addEventListener("change", () => render());
+    sortSelect.addEventListener("change", () => render());
+
+    loadDeals();
+  </script>
+</body>
+</html>
